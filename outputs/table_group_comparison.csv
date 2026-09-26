@@ -1,0 +1,17 @@
+,sustained_mean,collapse_mean,difference,pct_diff,p_value,significant
+trends_decay_w1_4,0.0575,0.3874,0.33,574.2,0.0,yes
+trends_w4_ratio,0.9425,0.6126,-0.33,-35.0,0.0,yes
+trends_slope,12.1155,-3.3334,-15.4489,-127.5,0.0,yes
+reddit_w4_ratio,0.8577,0.4761,-0.3816,-44.5,0.0,yes
+price_change_pct,-0.0163,-0.0719,-0.0556,-341.3,0.0,yes
+price_volatility,0.0115,0.03,0.0184,159.6,0.0,yes
+reddit_slope,9.0188,-8.3318,-17.3506,-192.4,0.0001,yes
+trends_auc_ratio,0.8279,0.7382,-0.0897,-10.8,0.0001,yes
+reddit_total,322.75,213.6818,-109.0682,-33.8,0.0043,yes
+reddit_front_load,0.1656,0.2526,0.087,52.6,0.0066,yes
+stock_rate,0.6094,0.75,0.1406,23.1,0.0148,yes
+score_per_mention,26.5431,23.8542,-2.6889,-10.1,0.0746,no
+comments_per_mention,7.0487,6.3326,-0.7161,-10.2,0.0757,no
+peak_week,1.1562,0.8636,-0.2926,-25.3,0.2208,no
+trends_volatility,0.2418,0.2597,0.0179,7.4,0.555,no
+peak_trends,98.6656,98.8182,0.1526,0.2,0.8032,no

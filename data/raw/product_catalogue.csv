@@ -1,0 +1,55 @@
+name,trends_query,launch_date,category,subreddits,retailer_url,product_id
+Whoop 4.0,Whoop 4.0,2023-05-01,Audio/Wearable,"['whoop', 'fitness']",,P001
+Sony WH-1000XM5,Sony WH-1000XM5,2023-05-20,Audio/Wearable,"['headphones', 'audiophile']",,P002
+Threads,Threads app,2023-07-05,Consumer App,"['Instagram', 'technology', 'socialmedia']",,P003
+Nothing Phone 2,Nothing Phone 2,2023-07-17,Smartphone,"['NothingTech', 'Android']",,P004
+Arc Browser,Arc Browser,2023-07-25,Consumer App,"['ArcBrowser', 'browsers']",,P005
+Perplexity AI,Perplexity AI,2023-09-01,AI Software,"['perplexity_ai', 'artificial']",,P006
+AirPods Pro 2 USB-C,AirPods Pro 2,2023-09-22,Audio/Wearable,"['apple', 'headphones']",,P007
+iPhone 15,iPhone 15,2023-09-22,Smartphone,"['apple', 'iphone', 'gadgets']",,P008
+Meta Quest 3,Meta Quest 3,2023-10-10,AI/AR Hardware,"['oculus', 'virtualreality', 'gadgets']",,P009
+Google Pixel 8,Pixel 8,2023-10-12,Smartphone,"['GooglePixel', 'Android']",,P010
+Meta Ray-Ban Glasses,Ray-Ban Meta,2023-10-17,AI/AR Hardware,"['gadgets', 'technology', 'smartglasses']",,P011
+MacBook Pro M3,MacBook Pro M3,2023-11-07,Computing,"['apple', 'macbook', 'laptops']",,P012
+PlayStation Portal,PlayStation Portal,2023-11-15,Gaming,"['PS5', 'gaming', 'playstation']",,P013
+Steam Deck OLED,Steam Deck OLED,2023-11-16,Gaming,"['SteamDeck', 'gaming']",,P014
+Tesla Cybertruck,Cybertruck,2023-11-30,EV/Mobility,"['cybertruck', 'teslamotors', 'electricvehicles']",,P015
+Google Gemini,Google Gemini,2023-12-06,AI Software,"['Bard', 'artificial', 'google']",,P016
+Framework Laptop 16,Framework Laptop 16,2023-12-20,Computing,"['framework', 'laptops']",,P017
+Midjourney v6,Midjourney v6,2023-12-21,AI Software,"['midjourney', 'StableDiffusion']",,P018
+OnePlus 12,OnePlus 12,2024-01-23,Smartphone,"['oneplus', 'Android']",,P019
+NVIDIA RTX 4080 Super,RTX 4080 Super,2024-01-31,Computing,"['nvidia', 'buildapc', 'pcmasterrace']",,P020
+Samsung Galaxy S24,Galaxy S24,2024-01-31,Smartphone,"['samsung', 'Android', 'gadgets']",,P021
+Apple Vision Pro,Apple Vision Pro,2024-02-02,AI/AR Hardware,"['apple', 'VisionPro', 'gadgets', 'technology']",,P022
+Bluesky,Bluesky social,2024-02-06,Consumer App,"['BlueskySocial', 'technology']",,P023
+Claude 3,Claude 3,2024-03-04,AI Software,"['ClaudeAI', 'artificial', 'singularity', 'OpenAI']",,P024
+Rivian R2,Rivian R2,2024-03-07,EV/Mobility,"['Rivian', 'electricvehicles']",,P025
+Devin AI,Devin AI,2024-03-12,AI Software,"['programming', 'artificial', 'singularity']",,P026
+Humane AI Pin,Humane AI Pin,2024-04-11,AI/AR Hardware,"['gadgets', 'technology', 'artificial']",,P027
+Clubhouse-style Audio,Airchat app,2024-04-15,Consumer App,"['technology', 'socialmedia']",,P028
+Ai Pin Successor,Limitless Pendant,2024-04-16,AI/AR Hardware,"['gadgets', 'artificial']",,P029
+Llama 3,Llama 3,2024-04-18,AI Software,"['LocalLLaMA', 'artificial']",,P030
+Rabbit R1,Rabbit R1,2024-04-24,AI/AR Hardware,"['gadgets', 'technology', 'singularity']",,P031
+GPT-4o,GPT-4o,2024-05-13,AI Software,"['OpenAI', 'ChatGPT', 'artificial']",,P032
+Surface Laptop 7,Surface Laptop 7,2024-06-18,Computing,"['Surface', 'microsoft']",,P033
+Snapdragon X Elite,Snapdragon X Elite,2024-06-18,Computing,"['hardware', 'laptops']",,P034
+ROG Ally X,ROG Ally X,2024-07-22,Gaming,"['ROGAlly', 'handheldpcs']",,P035
+Galaxy Ring,Samsung Galaxy Ring,2024-07-24,Audio/Wearable,"['samsung', 'QuantifiedSelf']",,P036
+Galaxy Z Fold 6,Galaxy Z Fold 6,2024-07-24,Smartphone,"['samsung', 'galaxyfold']",,P037
+Google Pixel 9,Pixel 9,2024-08-22,Smartphone,"['GooglePixel', 'Android']",,P038
+NotebookLM,NotebookLM,2024-09-11,AI Software,"['google', 'artificial']",,P039
+AirPods 4,AirPods 4,2024-09-20,Audio/Wearable,"['apple', 'headphones']",,P040
+iPhone 16,iPhone 16,2024-09-20,Smartphone,"['apple', 'iphone', 'gadgets']",,P041
+Apple Watch Series 10,Apple Watch Series 10,2024-09-20,Audio/Wearable,"['AppleWatch', 'apple']",,P042
+Tesla Robotaxi,Tesla Robotaxi,2024-10-10,EV/Mobility,"['teslamotors', 'SelfDrivingCars']",,P043
+Oura Ring 4,Oura Ring 4,2024-10-15,Audio/Wearable,"['ouraring', 'QuantifiedSelf']",,P044
+PS5 Pro,PS5 Pro,2024-11-07,Gaming,"['PS5', 'gaming']",,P045
+Mac Mini M4,Mac Mini M4,2024-11-08,Computing,"['apple', 'macmini']",,P046
+Lucid Gravity,Lucid Gravity,2024-12-05,EV/Mobility,"['lucidmotors', 'electricvehicles']",,P047
+Sora,OpenAI Sora,2024-12-09,AI Software,"['OpenAI', 'artificial', 'singularity']",,P048
+DeepSeek R1,DeepSeek,2025-01-20,AI Software,"['LocalLLaMA', 'artificial', 'singularity']",,P049
+NVIDIA RTX 5090,RTX 5090,2025-01-30,Computing,"['nvidia', 'buildapc']",,P050
+Samsung Galaxy S25,Galaxy S25,2025-02-07,Smartphone,"['samsung', 'Android']",,P051
+Digg Relaunch,Digg relaunch,2025-03-05,Consumer App,"['technology', 'socialmedia']",,P052
+MacBook Air M4,MacBook Air M4,2025-03-12,Computing,"['apple', 'macbook']",,P053
+Nintendo Switch 2,Nintendo Switch 2,2025-06-05,Gaming,"['NintendoSwitch', 'gaming']",,P054

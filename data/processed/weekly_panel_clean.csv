@@ -1,0 +1,1405 @@
+product_id,product,category,launch_date,week,week_start,trends_index,reddit_mentions,reddit_score,reddit_comments,price,in_stock,data_source,_true_regime
+P001,Whoop 4.0,Audio/Wearable,2023-05-01,0,2023-05-01,27.5,22,299.0,210.0,2008.94,1,synthetic,sustained
+P001,Whoop 4.0,Audio/Wearable,2023-05-01,1,2023-05-08,63.1,40,1350.0,367.0,1953.04,0,synthetic,sustained
+P001,Whoop 4.0,Audio/Wearable,2023-05-01,2,2023-05-15,100.0,68,1666.0,429.0,1907.64,1,synthetic,sustained
+P001,Whoop 4.0,Audio/Wearable,2023-05-01,3,2023-05-22,100.0,71,1568.0,587.0,1948.28,1,synthetic,sustained
+P001,Whoop 4.0,Audio/Wearable,2023-05-01,4,2023-05-29,96.8,72,1379.0,564.0,1910.11,1,synthetic,sustained
+P001,Whoop 4.0,Audio/Wearable,2023-05-01,5,2023-06-05,91.4,70,2192.0,594.0,1908.43,0,synthetic,sustained
+P001,Whoop 4.0,Audio/Wearable,2023-05-01,6,2023-06-12,93.3,58,1240.0,164.0,1894.82,0,synthetic,sustained
+P001,Whoop 4.0,Audio/Wearable,2023-05-01,7,2023-06-19,88.6,60,674.0,369.0,1897.99,1,synthetic,sustained
+P001,Whoop 4.0,Audio/Wearable,2023-05-01,8,2023-06-26,86.65,43,531.0,103.0,1919.06,1,synthetic,sustained
+P001,Whoop 4.0,Audio/Wearable,2023-05-01,9,2023-07-03,84.7,57,2484.0,395.0,1893.06,1,synthetic,sustained
+P001,Whoop 4.0,Audio/Wearable,2023-05-01,10,2023-07-10,78.0,50,2080.0,264.0,1881.46,1,synthetic,sustained
+P001,Whoop 4.0,Audio/Wearable,2023-05-01,11,2023-07-17,84.0,47,1592.0,161.0,1857.95,1,synthetic,sustained
+P001,Whoop 4.0,Audio/Wearable,2023-05-01,12,2023-07-24,79.2,36,642.0,109.0,1840.48,1,synthetic,sustained
+P001,Whoop 4.0,Audio/Wearable,2023-05-01,13,2023-07-31,77.6,46,2017.0,362.0,1864.69,1,synthetic,sustained
+P001,Whoop 4.0,Audio/Wearable,2023-05-01,14,2023-08-07,74.7,42,1546.0,155.0,1872.26,1,synthetic,sustained
+P001,Whoop 4.0,Audio/Wearable,2023-05-01,15,2023-08-14,81.6,47,1622.0,528.0,1911.36,1,synthetic,sustained
+P001,Whoop 4.0,Audio/Wearable,2023-05-01,16,2023-08-21,75.3,41,1009.0,320.0,1873.07,1,synthetic,sustained
+P001,Whoop 4.0,Audio/Wearable,2023-05-01,17,2023-08-28,73.6,33,596.0,180.0,1890.92,1,synthetic,sustained
+P001,Whoop 4.0,Audio/Wearable,2023-05-01,18,2023-09-04,73.4,46,532.0,363.0,1856.64,0,synthetic,sustained
+P001,Whoop 4.0,Audio/Wearable,2023-05-01,19,2023-09-11,76.4,27,1117.0,60.0,1840.4,1,synthetic,sustained
+P001,Whoop 4.0,Audio/Wearable,2023-05-01,20,2023-09-18,75.3,35,870.0,405.0,1844.6,1,synthetic,sustained
+P001,Whoop 4.0,Audio/Wearable,2023-05-01,21,2023-09-25,75.1,39,604.0,266.0,1849.36,1,synthetic,sustained
+P001,Whoop 4.0,Audio/Wearable,2023-05-01,22,2023-10-02,74.8,41,792.0,402.0,1912.72,1,synthetic,sustained
+P001,Whoop 4.0,Audio/Wearable,2023-05-01,23,2023-10-09,81.3,48,1412.0,135.0,1846.28,0,synthetic,sustained
+P001,Whoop 4.0,Audio/Wearable,2023-05-01,24,2023-10-16,70.9,40,581.0,274.0,1883.06,1,synthetic,sustained
+P001,Whoop 4.0,Audio/Wearable,2023-05-01,25,2023-10-23,70.2,28,1111.0,193.0,1843.8,0,synthetic,sustained
+P002,Sony WH-1000XM5,Audio/Wearable,2023-05-20,0,2023-05-20,100.0,37,1025.0,285.0,1322.09,0,synthetic,sustained
+P002,Sony WH-1000XM5,Audio/Wearable,2023-05-20,1,2023-05-27,98.8,39,1225.0,259.0,1279.17,1,synthetic,sustained
+P002,Sony WH-1000XM5,Audio/Wearable,2023-05-20,2,2023-06-03,97.9,25,466.0,180.0,1271.07,1,synthetic,sustained
+P002,Sony WH-1000XM5,Audio/Wearable,2023-05-20,3,2023-06-10,100.0,24,844.0,231.0,1281.04,0,synthetic,sustained
+P002,Sony WH-1000XM5,Audio/Wearable,2023-05-20,4,2023-06-17,100.0,23,356.0,229.0,1285.99,1,synthetic,sustained
+P002,Sony WH-1000XM5,Audio/Wearable,2023-05-20,5,2023-06-24,89.7,27,910.0,186.0,1269.22,1,synthetic,sustained
+P002,Sony WH-1000XM5,Audio/Wearable,2023-05-20,6,2023-07-01,90.9,23,916.0,183.0,1285.84,1,synthetic,sustained
+P002,Sony WH-1000XM5,Audio/Wearable,2023-05-20,7,2023-07-08,85.2,23,296.0,260.0,1275.82,0,synthetic,sustained
+P002,Sony WH-1000XM5,Audio/Wearable,2023-05-20,8,2023-07-15,87.7,28,860.0,89.0,1273.21,1,synthetic,sustained
+P002,Sony WH-1000XM5,Audio/Wearable,2023-05-20,9,2023-07-22,90.5,18,207.0,57.0,1266.87,0,synthetic,sustained
+P002,Sony WH-1000XM5,Audio/Wearable,2023-05-20,10,2023-07-29,93.2,19,662.0,54.0,1291.97,1,synthetic,sustained
+P002,Sony WH-1000XM5,Audio/Wearable,2023-05-20,11,2023-08-05,84.7,19,211.0,162.0,1252.4,0,synthetic,sustained
+P002,Sony WH-1000XM5,Audio/Wearable,2023-05-20,12,2023-08-12,84.3,18,767.0,111.0,1224.18,1,synthetic,sustained
+P002,Sony WH-1000XM5,Audio/Wearable,2023-05-20,13,2023-08-19,77.7,20,261.0,194.0,1277.51,1,synthetic,sustained
+P002,Sony WH-1000XM5,Audio/Wearable,2023-05-20,14,2023-08-26,85.0,14,608.0,121.0,1245.7,1,synthetic,sustained
+P002,Sony WH-1000XM5,Audio/Wearable,2023-05-20,15,2023-09-02,80.8,18,677.0,96.0,1253.53,1,synthetic,sustained
+P002,Sony WH-1000XM5,Audio/Wearable,2023-05-20,16,2023-09-09,82.5,18,539.0,197.0,1271.01,0,synthetic,sustained
+P002,Sony WH-1000XM5,Audio/Wearable,2023-05-20,17,2023-09-16,80.6,19,702.0,182.0,1226.83,0,synthetic,sustained
+P002,Sony WH-1000XM5,Audio/Wearable,2023-05-20,18,2023-09-23,83.2,13,486.0,61.0,1231.71,0,synthetic,sustained
+P002,Sony WH-1000XM5,Audio/Wearable,2023-05-20,19,2023-09-30,76.2,15,645.0,84.0,1226.14,1,synthetic,sustained
+P002,Sony WH-1000XM5,Audio/Wearable,2023-05-20,20,2023-10-07,76.9,15,260.0,77.0,1237.98,1,synthetic,sustained
+P002,Sony WH-1000XM5,Audio/Wearable,2023-05-20,21,2023-10-14,91.0,17,507.0,60.0,1256.26,1,synthetic,sustained
+P002,Sony WH-1000XM5,Audio/Wearable,2023-05-20,22,2023-10-21,76.9,18,207.0,62.0,1257.34,1,synthetic,sustained
+P002,Sony WH-1000XM5,Audio/Wearable,2023-05-20,23,2023-10-28,77.4,16,492.0,181.0,1253.46,0,synthetic,sustained
+P002,Sony WH-1000XM5,Audio/Wearable,2023-05-20,24,2023-11-04,88.8,19,272.0,121.0,1228.01,1,synthetic,sustained
+P002,Sony WH-1000XM5,Audio/Wearable,2023-05-20,25,2023-11-11,92.8,21,606.0,122.0,1214.45,1,synthetic,sustained
+P003,Threads,Consumer App,2023-07-05,0,2023-07-05,52.1,69,665.0,482.0,986.15,0,synthetic,sustained
+P003,Threads,Consumer App,2023-07-05,1,2023-07-12,100.0,135,2243.0,987.0,1004.06,0,synthetic,sustained
+P003,Threads,Consumer App,2023-07-05,2,2023-07-19,100.0,121,2275.0,369.0,1016.42,1,synthetic,sustained
+P003,Threads,Consumer App,2023-07-05,3,2023-07-26,93.3,110,2875.0,658.0,976.23,1,synthetic,sustained
+P003,Threads,Consumer App,2023-07-05,4,2023-08-02,87.6,114,3385.0,1273.0,978.25,1,synthetic,sustained
+P003,Threads,Consumer App,2023-07-05,5,2023-08-09,86.3,122,3202.0,1013.0,989.28,1,synthetic,sustained
+P003,Threads,Consumer App,2023-07-05,6,2023-08-16,89.8,109,1211.0,411.0,1004.13,1,synthetic,sustained
+P003,Threads,Consumer App,2023-07-05,7,2023-08-23,87.6,100,1701.0,538.0,969.47,1,synthetic,sustained
+P003,Threads,Consumer App,2023-07-05,8,2023-08-30,77.1,92,3607.0,360.0,985.86,0,synthetic,sustained
+P003,Threads,Consumer App,2023-07-05,9,2023-09-06,75.3,73,2306.0,164.0,1003.56,1,synthetic,sustained
+P003,Threads,Consumer App,2023-07-05,10,2023-09-13,76.9,71,2273.0,800.0,961.96,1,synthetic,sustained
+P003,Threads,Consumer App,2023-07-05,11,2023-09-20,67.4,76,2492.0,492.0,965.76,1,synthetic,sustained
+P003,Threads,Consumer App,2023-07-05,12,2023-09-27,70.5,78,2825.0,395.0,975.37,0,synthetic,sustained
+P003,Threads,Consumer App,2023-07-05,13,2023-10-04,67.5,91,923.0,726.0,973.84,1,synthetic,sustained
+P003,Threads,Consumer App,2023-07-05,14,2023-10-11,67.5,69,1487.0,143.0,989.18,1,synthetic,sustained
+P003,Threads,Consumer App,2023-07-05,15,2023-10-18,61.7,61,1705.0,291.0,982.18,0,synthetic,sustained
+P003,Threads,Consumer App,2023-07-05,16,2023-10-25,57.5,75,1539.0,677.0,958.26,1,synthetic,sustained
+P003,Threads,Consumer App,2023-07-05,17,2023-11-01,54.6,69,2707.0,575.0,984.97,1,synthetic,sustained
+P003,Threads,Consumer App,2023-07-05,18,2023-11-08,57.5,65,1680.0,768.0,971.97,1,synthetic,sustained
+P003,Threads,Consumer App,2023-07-05,19,2023-11-15,59.3,70,2550.0,574.0,993.58,1,synthetic,sustained
+P003,Threads,Consumer App,2023-07-05,20,2023-11-22,59.1,60,2371.0,406.0,971.13,1,synthetic,sustained
+P003,Threads,Consumer App,2023-07-05,21,2023-11-29,61.25,68,1814.0,653.0,970.93,1,synthetic,sustained
+P003,Threads,Consumer App,2023-07-05,22,2023-12-06,63.4,71,2957.0,783.0,984.68,1,synthetic,sustained
+P003,Threads,Consumer App,2023-07-05,23,2023-12-13,54.6,70,2080.0,644.0,987.22,1,synthetic,sustained
+P003,Threads,Consumer App,2023-07-05,24,2023-12-20,59.3,69,2722.0,802.0,983.47,1,synthetic,sustained
+P003,Threads,Consumer App,2023-07-05,25,2023-12-27,55.8,57,1174.0,559.0,958.38,1,synthetic,sustained
+P004,Nothing Phone 2,Smartphone,2023-07-17,0,2023-07-17,56.3,83,3687.0,169.0,498.21,0,synthetic,ambiguous
+P004,Nothing Phone 2,Smartphone,2023-07-17,1,2023-07-24,97.9,151,3227.0,327.0,486.03,0,synthetic,ambiguous
+P004,Nothing Phone 2,Smartphone,2023-07-17,2,2023-07-31,77.2,119,4532.0,1419.0,486.84,1,synthetic,ambiguous
+P004,Nothing Phone 2,Smartphone,2023-07-17,3,2023-08-07,80.2,113,2235.0,886.0,486.06,1,synthetic,ambiguous
+P004,Nothing Phone 2,Smartphone,2023-07-17,4,2023-08-14,69.4,84,3155.0,274.0,480.36,1,synthetic,ambiguous
+P004,Nothing Phone 2,Smartphone,2023-07-17,5,2023-08-21,58.3,61,1843.0,669.0,475.48,1,synthetic,ambiguous
+P004,Nothing Phone 2,Smartphone,2023-07-17,6,2023-08-28,49.9,58,928.0,626.0,477.97,1,synthetic,ambiguous
+P004,Nothing Phone 2,Smartphone,2023-07-17,7,2023-09-04,53.5,65,1515.0,478.0,471.75,0,synthetic,ambiguous
+P004,Nothing Phone 2,Smartphone,2023-07-17,8,2023-09-11,47.4,68,1343.0,558.0,469.46,1,synthetic,ambiguous
+P004,Nothing Phone 2,Smartphone,2023-07-17,9,2023-09-18,52.1,62,675.0,293.0,473.46,1,synthetic,ambiguous
+P004,Nothing Phone 2,Smartphone,2023-07-17,10,2023-09-25,41.4,44,400.0,110.0,468.32,1,synthetic,ambiguous
+P004,Nothing Phone 2,Smartphone,2023-07-17,11,2023-10-02,38.9,39,811.0,309.0,471.04,1,synthetic,ambiguous
+P004,Nothing Phone 2,Smartphone,2023-07-17,12,2023-10-09,34.7,33,287.0,163.0,470.43,1,synthetic,ambiguous
+P004,Nothing Phone 2,Smartphone,2023-07-17,13,2023-10-16,37.0,43,607.0,371.0,461.84,1,synthetic,ambiguous
+P004,Nothing Phone 2,Smartphone,2023-07-17,14,2023-10-23,34.9,34,1184.0,352.0,465.0,1,synthetic,ambiguous
+P004,Nothing Phone 2,Smartphone,2023-07-17,15,2023-10-30,36.3,24,820.0,52.0,475.31,1,synthetic,ambiguous
+P004,Nothing Phone 2,Smartphone,2023-07-17,16,2023-11-06,28.2,32,1130.0,254.0,460.36,1,synthetic,ambiguous
+P004,Nothing Phone 2,Smartphone,2023-07-17,17,2023-11-13,27.8,16,315.0,69.0,454.71,1,synthetic,ambiguous
+P004,Nothing Phone 2,Smartphone,2023-07-17,18,2023-11-20,27.0,36,1473.0,386.0,455.88,1,synthetic,ambiguous
+P004,Nothing Phone 2,Smartphone,2023-07-17,19,2023-11-27,31.5,25,749.0,113.0,466.24,1,synthetic,ambiguous
+P004,Nothing Phone 2,Smartphone,2023-07-17,20,2023-12-04,33.9,25,316.0,202.0,466.07,1,synthetic,ambiguous
+P004,Nothing Phone 2,Smartphone,2023-07-17,21,2023-12-11,25.7,21,279.0,158.0,465.08,1,synthetic,ambiguous
+P004,Nothing Phone 2,Smartphone,2023-07-17,22,2023-12-18,25.5,26,874.0,155.0,472.4,1,synthetic,ambiguous
+P004,Nothing Phone 2,Smartphone,2023-07-17,23,2023-12-25,28.2,29,417.0,254.0,450.57,1,synthetic,ambiguous
+P004,Nothing Phone 2,Smartphone,2023-07-17,24,2024-01-01,25.8,21,562.0,194.0,467.63,1,synthetic,ambiguous
+P004,Nothing Phone 2,Smartphone,2023-07-17,25,2024-01-08,30.4,28,1251.0,214.0,474.06,1,synthetic,ambiguous
+P005,Arc Browser,Consumer App,2023-07-25,0,2023-07-25,55.2,23,293.0,215.0,1006.43,1,synthetic,collapse
+P005,Arc Browser,Consumer App,2023-07-25,1,2023-08-01,100.0,73,995.0,440.0,968.21,0,synthetic,collapse
+P005,Arc Browser,Consumer App,2023-07-25,2,2023-08-08,73.3,39,1224.0,297.0,938.82,1,synthetic,collapse
+P005,Arc Browser,Consumer App,2023-07-25,3,2023-08-15,60.0,24,540.0,220.0,915.52,1,synthetic,collapse
+P005,Arc Browser,Consumer App,2023-07-25,4,2023-08-22,39.4,12,505.0,85.0,897.39,1,synthetic,collapse
+P005,Arc Browser,Consumer App,2023-07-25,5,2023-08-29,28.6,6,118.0,66.0,851.8,1,synthetic,collapse
+P005,Arc Browser,Consumer App,2023-07-25,6,2023-09-05,26.5,2,69.0,12.0,856.02,1,synthetic,collapse
+P005,Arc Browser,Consumer App,2023-07-25,7,2023-09-12,13.0,0,0.0,0.0,825.81,1,synthetic,collapse
+P005,Arc Browser,Consumer App,2023-07-25,8,2023-09-19,16.7,4,129.0,21.0,838.5,1,synthetic,collapse
+P005,Arc Browser,Consumer App,2023-07-25,9,2023-09-26,12.6,1,30.0,6.0,829.87,1,synthetic,collapse
+P005,Arc Browser,Consumer App,2023-07-25,10,2023-10-03,9.5,3,76.0,19.0,833.37,1,synthetic,collapse
+P005,Arc Browser,Consumer App,2023-07-25,11,2023-10-10,14.8,0,0.0,0.0,828.95,1,synthetic,collapse
+P005,Arc Browser,Consumer App,2023-07-25,12,2023-10-17,4.8,1,20.0,2.0,814.48,1,synthetic,collapse
+P005,Arc Browser,Consumer App,2023-07-25,13,2023-10-24,14.7,0,0.0,0.0,803.65,1,synthetic,collapse
+P005,Arc Browser,Consumer App,2023-07-25,14,2023-10-31,4.9,0,0.0,0.0,809.84,1,synthetic,collapse
+P005,Arc Browser,Consumer App,2023-07-25,15,2023-11-07,0.2,0,0.0,0.0,797.28,1,synthetic,collapse
+P005,Arc Browser,Consumer App,2023-07-25,16,2023-11-14,5.3,0,0.0,0.0,800.02,1,synthetic,collapse
+P005,Arc Browser,Consumer App,2023-07-25,17,2023-11-21,0.5,0,0.0,0.0,807.52,1,synthetic,collapse
+P005,Arc Browser,Consumer App,2023-07-25,18,2023-11-28,1.6,0,0.0,0.0,791.12,1,synthetic,collapse
+P005,Arc Browser,Consumer App,2023-07-25,19,2023-12-05,6.0,0,0.0,0.0,802.78,1,synthetic,collapse
+P005,Arc Browser,Consumer App,2023-07-25,20,2023-12-12,6.6,1,44.0,10.0,800.41,0,synthetic,collapse
+P005,Arc Browser,Consumer App,2023-07-25,21,2023-12-19,1.8,0,0.0,0.0,783.92,1,synthetic,collapse
+P005,Arc Browser,Consumer App,2023-07-25,22,2023-12-26,8.2,0,0.0,0.0,801.47,1,synthetic,collapse
+P005,Arc Browser,Consumer App,2023-07-25,23,2024-01-02,8.8,1,19.0,3.0,798.19,1,synthetic,collapse
+P005,Arc Browser,Consumer App,2023-07-25,24,2024-01-09,9.9,0,0.0,0.0,791.97,1,synthetic,collapse
+P005,Arc Browser,Consumer App,2023-07-25,25,2024-01-16,6.2,0,0.0,0.0,783.31,1,synthetic,collapse
+P006,Perplexity AI,AI Software,2023-09-01,0,2023-09-01,47.1,73,2988.0,224.0,1323.19,1,synthetic,sustained
+P006,Perplexity AI,AI Software,2023-09-01,1,2023-09-08,100.0,128,3249.0,403.0,1318.12,0,synthetic,sustained
+P006,Perplexity AI,AI Software,2023-09-01,2,2023-09-15,91.9,140,3586.0,1147.0,1282.0,1,synthetic,sustained
+P006,Perplexity AI,AI Software,2023-09-01,3,2023-09-22,91.6,137,5109.6700000000055,441.0,1323.25,1,synthetic,sustained
+P006,Perplexity AI,AI Software,2023-09-01,4,2023-09-29,97.7,142,1448.0,1436.97,1288.34,1,synthetic,sustained
+P006,Perplexity AI,AI Software,2023-09-01,5,2023-10-06,93.7,120,1915.0,1145.0,1312.48,0,synthetic,sustained
+P006,Perplexity AI,AI Software,2023-09-01,6,2023-10-13,94.2,113,3353.0,1152.0,1296.97,1,synthetic,sustained
+P006,Perplexity AI,AI Software,2023-09-01,7,2023-10-20,85.4,95,1447.0,689.0,1289.24,1,synthetic,sustained
+P006,Perplexity AI,AI Software,2023-09-01,8,2023-10-27,80.1,90,2982.0,1077.0,1267.33,1,synthetic,sustained
+P006,Perplexity AI,AI Software,2023-09-01,9,2023-11-03,82.2,113,1799.0,275.0,1292.58,1,synthetic,sustained
+P006,Perplexity AI,AI Software,2023-09-01,10,2023-11-10,82.0,105,1225.0,631.0,1270.86,0,synthetic,sustained
+P006,Perplexity AI,AI Software,2023-09-01,11,2023-11-17,80.6,95,1487.0,497.0,1310.0,0,synthetic,sustained
+P006,Perplexity AI,AI Software,2023-09-01,12,2023-11-24,83.5,90,2127.0,1033.0,1318.43,1,synthetic,sustained
+P006,Perplexity AI,AI Software,2023-09-01,13,2023-12-01,76.4,95,1379.0,738.0,1282.39,1,synthetic,sustained
+P006,Perplexity AI,AI Software,2023-09-01,14,2023-12-08,78.1,99,1285.0,996.0,1299.39,0,synthetic,sustained
+P006,Perplexity AI,AI Software,2023-09-01,15,2023-12-15,71.8,85,3385.0,314.0,1283.37,1,synthetic,sustained
+P006,Perplexity AI,AI Software,2023-09-01,16,2023-12-22,76.6,95,1886.0,1119.0,1284.82,1,synthetic,sustained
+P006,Perplexity AI,AI Software,2023-09-01,17,2023-12-29,73.9,85,1814.0,593.0,1306.58,1,synthetic,sustained
+P006,Perplexity AI,AI Software,2023-09-01,18,2024-01-05,70.1,78,783.0,541.0,1293.91,1,synthetic,sustained
+P006,Perplexity AI,AI Software,2023-09-01,19,2024-01-12,71.4,91,1931.0,1065.0,1321.5,0,synthetic,sustained
+P006,Perplexity AI,AI Software,2023-09-01,20,2024-01-19,70.9,78,1388.0,452.0,1286.96,1,synthetic,sustained
+P006,Perplexity AI,AI Software,2023-09-01,21,2024-01-26,69.9,80,2447.0,478.0,1309.95,1,synthetic,sustained
+P006,Perplexity AI,AI Software,2023-09-01,22,2024-02-02,77.5,89,1388.0,698.0,1295.93,1,synthetic,sustained
+P006,Perplexity AI,AI Software,2023-09-01,23,2024-02-09,69.4,61,2493.0,200.0,1306.76,1,synthetic,sustained
+P006,Perplexity AI,AI Software,2023-09-01,24,2024-02-16,68.3,69,2925.0,359.0,1287.44,1,synthetic,sustained
+P006,Perplexity AI,AI Software,2023-09-01,25,2024-02-23,68.3,71,830.0,279.0,1293.61,1,synthetic,sustained
+P007,AirPods Pro 2 USB-C,Audio/Wearable,2023-09-22,0,2023-09-22,30.0,10,198.0,67.0,997.05,1,synthetic,sustained
+P007,AirPods Pro 2 USB-C,Audio/Wearable,2023-09-22,1,2023-09-29,67.2,18,579.0,46.0,1019.68,0,synthetic,sustained
+P007,AirPods Pro 2 USB-C,Audio/Wearable,2023-09-22,2,2023-10-06,100.0,22,723.0,224.0,973.71,0,synthetic,sustained
+P007,AirPods Pro 2 USB-C,Audio/Wearable,2023-09-22,3,2023-10-13,89.0,30,722.0,254.0,983.38,1,synthetic,sustained
+P007,AirPods Pro 2 USB-C,Audio/Wearable,2023-09-22,4,2023-10-20,90.6,38,625.0,373.0,1005.65,1,synthetic,sustained
+P007,AirPods Pro 2 USB-C,Audio/Wearable,2023-09-22,5,2023-10-27,90.3,31,1076.0,194.0,988.68,1,synthetic,sustained
+P007,AirPods Pro 2 USB-C,Audio/Wearable,2023-09-22,6,2023-11-03,76.4,23,327.0,192.0,988.24,1,synthetic,sustained
+P007,AirPods Pro 2 USB-C,Audio/Wearable,2023-09-22,7,2023-11-10,76.6,22,938.0,232.0,981.48,1,synthetic,sustained
+P007,AirPods Pro 2 USB-C,Audio/Wearable,2023-09-22,8,2023-11-17,81.6,21,314.0,174.0,982.77,1,synthetic,sustained
+P007,AirPods Pro 2 USB-C,Audio/Wearable,2023-09-22,9,2023-11-24,76.7,20,239.0,109.0,986.99,0,synthetic,sustained
+P007,AirPods Pro 2 USB-C,Audio/Wearable,2023-09-22,10,2023-12-01,75.0,13,343.0,112.0,967.52,1,synthetic,sustained
+P007,AirPods Pro 2 USB-C,Audio/Wearable,2023-09-22,11,2023-12-08,78.8,21,571.0,183.0,986.58,1,synthetic,sustained
+P007,AirPods Pro 2 USB-C,Audio/Wearable,2023-09-22,12,2023-12-15,71.4,21,562.0,243.0,959.62,1,synthetic,sustained
+P007,AirPods Pro 2 USB-C,Audio/Wearable,2023-09-22,13,2023-12-22,70.6,14,338.0,79.0,979.04,1,synthetic,sustained
+P007,AirPods Pro 2 USB-C,Audio/Wearable,2023-09-22,14,2023-12-29,77.3,21,940.0,131.0,976.87,1,synthetic,sustained
+P007,AirPods Pro 2 USB-C,Audio/Wearable,2023-09-22,15,2024-01-05,64.3,8,207.0,80.0,967.22,1,synthetic,sustained
+P007,AirPods Pro 2 USB-C,Audio/Wearable,2023-09-22,16,2024-01-12,60.8,8,205.0,56.0,973.87,1,synthetic,sustained
+P007,AirPods Pro 2 USB-C,Audio/Wearable,2023-09-22,17,2024-01-19,64.6,18,424.0,168.0,966.61,1,synthetic,sustained
+P007,AirPods Pro 2 USB-C,Audio/Wearable,2023-09-22,18,2024-01-26,63.7,17,178.0,112.0,961.16,1,synthetic,sustained
+P007,AirPods Pro 2 USB-C,Audio/Wearable,2023-09-22,19,2024-02-02,58.9,12,359.0,49.0,969.39,1,synthetic,sustained
+P007,AirPods Pro 2 USB-C,Audio/Wearable,2023-09-22,20,2024-02-09,56.1,16,262.0,151.0,960.48,1,synthetic,sustained
+P007,AirPods Pro 2 USB-C,Audio/Wearable,2023-09-22,21,2024-02-16,68.8,28,884.0,92.0,977.03,1,synthetic,sustained
+P007,AirPods Pro 2 USB-C,Audio/Wearable,2023-09-22,22,2024-02-23,60.2,9,88.0,35.0,959.73,1,synthetic,sustained
+P007,AirPods Pro 2 USB-C,Audio/Wearable,2023-09-22,23,2024-03-01,55.4,14,620.0,115.0,981.39,1,synthetic,sustained
+P007,AirPods Pro 2 USB-C,Audio/Wearable,2023-09-22,24,2024-03-08,61.5,15,380.0,142.0,959.21,1,synthetic,sustained
+P007,AirPods Pro 2 USB-C,Audio/Wearable,2023-09-22,25,2024-03-15,57.0,15,617.0,164.0,966.34,0,synthetic,sustained
+P008,iPhone 15,Smartphone,2023-09-22,0,2023-09-22,32.2,13,482.0,69.0,3507.55,1,synthetic,sustained
+P008,iPhone 15,Smartphone,2023-09-22,1,2023-09-29,62.1,33,1378.0,266.0,3441.1,1,synthetic,sustained
+P008,iPhone 15,Smartphone,2023-09-22,2,2023-10-06,95.4,53,907.0,454.0,3458.8,1,synthetic,sustained
+P008,iPhone 15,Smartphone,2023-09-22,3,2023-10-13,93.3,47,1656.0,483.0,3477.84,1,synthetic,sustained
+P008,iPhone 15,Smartphone,2023-09-22,4,2023-10-20,91.8,42,1389.0,94.0,3369.01,1,synthetic,sustained
+P008,iPhone 15,Smartphone,2023-09-22,5,2023-10-27,87.1,50,1367.0,210.0,3470.36,1,synthetic,sustained
+P008,iPhone 15,Smartphone,2023-09-22,6,2023-11-03,90.0,45,673.0,410.0,3535.1,1,synthetic,sustained
+P008,iPhone 15,Smartphone,2023-09-22,7,2023-11-10,90.0,38,1422.0,290.0,3433.77,1,synthetic,sustained
+P008,iPhone 15,Smartphone,2023-09-22,8,2023-11-17,78.6,35,1524.0,243.0,3460.28,1,synthetic,sustained
+P008,iPhone 15,Smartphone,2023-09-22,9,2023-11-24,83.1,37,1284.0,94.0,3489.39,1,synthetic,sustained
+P008,iPhone 15,Smartphone,2023-09-22,10,2023-12-01,80.2,35,1468.0,191.0,3438.1,1,synthetic,sustained
+P008,iPhone 15,Smartphone,2023-09-22,11,2023-12-08,80.7,53,2353.0,564.0,3419.11,1,synthetic,sustained
+P008,iPhone 15,Smartphone,2023-09-22,12,2023-12-15,77.7,33,693.0,76.0,3347.65,0,synthetic,sustained
+P008,iPhone 15,Smartphone,2023-09-22,13,2023-12-22,70.4,33,1043.0,196.0,3466.87,1,synthetic,sustained
+P008,iPhone 15,Smartphone,2023-09-22,14,2023-12-29,69.7,27,689.0,309.0,3434.71,1,synthetic,sustained
+P008,iPhone 15,Smartphone,2023-09-22,15,2024-01-05,73.6,41,1824.0,102.0,3396.74,0,synthetic,sustained
+P008,iPhone 15,Smartphone,2023-09-22,16,2024-01-12,76.3,47,539.0,446.0,3443.03,1,synthetic,sustained
+P008,iPhone 15,Smartphone,2023-09-22,17,2024-01-19,62.2,37,860.0,169.0,3413.13,1,synthetic,sustained
+P008,iPhone 15,Smartphone,2023-09-22,18,2024-01-26,71.3,31,1252.0,330.0,3414.91,1,synthetic,sustained
+P008,iPhone 15,Smartphone,2023-09-22,19,2024-02-02,73.6,40,740.0,378.0,3461.29,1,synthetic,sustained
+P008,iPhone 15,Smartphone,2023-09-22,20,2024-02-09,67.3,36,1337.0,390.0,3380.75,1,synthetic,sustained
+P008,iPhone 15,Smartphone,2023-09-22,21,2024-02-16,69.2,41,908.0,170.0,3478.82,0,synthetic,sustained
+P008,iPhone 15,Smartphone,2023-09-22,22,2024-02-23,63.4,35,1549.0,255.0,3377.78,1,synthetic,sustained
+P008,iPhone 15,Smartphone,2023-09-22,23,2024-03-01,64.9,23,935.0,225.0,3407.88,1,synthetic,sustained
+P008,iPhone 15,Smartphone,2023-09-22,24,2024-03-08,58.1,28,536.0,124.0,3514.29,1,synthetic,sustained
+P008,iPhone 15,Smartphone,2023-09-22,25,2024-03-15,54.6,27,985.0,116.0,3481.35,1,synthetic,sustained
+P009,Meta Quest 3,AI/AR Hardware,2023-10-10,0,2023-10-10,25.9,36,767.0,404.0,684.58,0,synthetic,sustained
+P009,Meta Quest 3,AI/AR Hardware,2023-10-10,1,2023-10-17,66.8,92,1499.0,1059.0,691.48,0,synthetic,sustained
+P009,Meta Quest 3,AI/AR Hardware,2023-10-10,2,2023-10-24,83.4,143,1387.0,303.0,684.21,1,synthetic,sustained
+P009,Meta Quest 3,AI/AR Hardware,2023-10-10,3,2023-10-31,100.0,126,2650.0,1213.0,699.16,0,synthetic,sustained
+P009,Meta Quest 3,AI/AR Hardware,2023-10-10,4,2023-11-07,88.6,128,4393.0,1436.97,674.93,1,synthetic,sustained
+P009,Meta Quest 3,AI/AR Hardware,2023-10-10,5,2023-11-14,94.0,130,1128.0,1436.97,697.19,1,synthetic,sustained
+P009,Meta Quest 3,AI/AR Hardware,2023-10-10,6,2023-11-21,94.8,111,2691.0,1299.0,682.06,0,synthetic,sustained
+P009,Meta Quest 3,AI/AR Hardware,2023-10-10,7,2023-11-28,82.4,100,3182.0,750.0,671.43,0,synthetic,sustained
+P009,Meta Quest 3,AI/AR Hardware,2023-10-10,8,2023-12-05,87.3,105,3211.0,292.0,674.22,1,synthetic,sustained
+P009,Meta Quest 3,AI/AR Hardware,2023-10-10,9,2023-12-12,85.3,106,3894.0,1112.0,672.23,0,synthetic,sustained
+P009,Meta Quest 3,AI/AR Hardware,2023-10-10,10,2023-12-19,83.3,87,3305.0,708.0,667.57,1,synthetic,sustained
+P009,Meta Quest 3,AI/AR Hardware,2023-10-10,11,2023-12-26,75.9,73,2506.0,594.0,678.02,0,synthetic,sustained
+P009,Meta Quest 3,AI/AR Hardware,2023-10-10,12,2024-01-02,80.9,85,1003.0,524.0,666.71,1,synthetic,sustained
+P009,Meta Quest 3,AI/AR Hardware,2023-10-10,13,2024-01-09,79.9,91,2327.0,702.0,658.51,1,synthetic,sustained
+P009,Meta Quest 3,AI/AR Hardware,2023-10-10,14,2024-01-16,79.8,72,2183.0,254.0,672.72,1,synthetic,sustained
+P009,Meta Quest 3,AI/AR Hardware,2023-10-10,15,2024-01-23,77.3,72,1230.0,676.0,660.85,1,synthetic,sustained
+P009,Meta Quest 3,AI/AR Hardware,2023-10-10,16,2024-01-30,77.0,59,564.0,162.0,669.09,0,synthetic,sustained
+P009,Meta Quest 3,AI/AR Hardware,2023-10-10,17,2024-02-06,78.0,67,1090.0,622.0,667.59,1,synthetic,sustained
+P009,Meta Quest 3,AI/AR Hardware,2023-10-10,18,2024-02-13,79.3,76,1887.0,797.0,667.7,1,synthetic,sustained
+P009,Meta Quest 3,AI/AR Hardware,2023-10-10,19,2024-02-20,75.7,58,1352.0,390.0,690.79,1,synthetic,sustained
+P009,Meta Quest 3,AI/AR Hardware,2023-10-10,20,2024-02-27,74.8,85,1235.0,603.0,674.91,0,synthetic,sustained
+P009,Meta Quest 3,AI/AR Hardware,2023-10-10,21,2024-03-05,76.4,74,2849.0,379.0,676.33,0,synthetic,sustained
+P009,Meta Quest 3,AI/AR Hardware,2023-10-10,22,2024-03-12,67.9,57,2408.0,666.0,659.88,1,synthetic,sustained
+P009,Meta Quest 3,AI/AR Hardware,2023-10-10,23,2024-03-19,71.4,79,1220.0,737.0,668.88,1,synthetic,sustained
+P009,Meta Quest 3,AI/AR Hardware,2023-10-10,24,2024-03-26,74.9,90,3815.0,512.0,675.84,1,synthetic,sustained
+P009,Meta Quest 3,AI/AR Hardware,2023-10-10,25,2024-04-02,74.7,65,562.0,243.0,665.76,1,synthetic,sustained
+P010,Google Pixel 8,Smartphone,2023-10-12,0,2023-10-12,42.7,27,982.0,142.0,3459.42,0,synthetic,collapse
+P010,Google Pixel 8,Smartphone,2023-10-12,1,2023-10-19,72.6,42,1589.0,295.0,3474.61,0,synthetic,collapse
+P010,Google Pixel 8,Smartphone,2023-10-12,2,2023-10-26,97.4,63,1223.0,389.0,3368.57,1,synthetic,collapse
+P010,Google Pixel 8,Smartphone,2023-10-12,3,2023-11-02,73.5,46,1949.0,210.0,3344.52,1,synthetic,collapse
+P010,Google Pixel 8,Smartphone,2023-10-12,4,2023-11-09,53.4,15,172.0,105.0,3300.18,1,synthetic,collapse
+P010,Google Pixel 8,Smartphone,2023-10-12,5,2023-11-16,37.9,15,671.0,52.0,3300.75,1,synthetic,collapse
+P010,Google Pixel 8,Smartphone,2023-10-12,6,2023-11-23,25.4,10,364.0,55.0,3213.43,0,synthetic,collapse
+P010,Google Pixel 8,Smartphone,2023-10-12,7,2023-11-30,22.7,1,11.0,7.0,3183.39,1,synthetic,collapse
+P010,Google Pixel 8,Smartphone,2023-10-12,8,2023-12-07,17.5,2,64.0,12.0,3215.78,1,synthetic,collapse
+P010,Google Pixel 8,Smartphone,2023-10-12,9,2023-12-14,9.5,0,0.0,0.0,3215.24,1,synthetic,collapse
+P010,Google Pixel 8,Smartphone,2023-10-12,10,2023-12-21,6.9,0,0.0,0.0,3192.44,1,synthetic,collapse
+P010,Google Pixel 8,Smartphone,2023-10-12,11,2023-12-28,13.6,1,37.0,11.0,3138.55,1,synthetic,collapse
+P010,Google Pixel 8,Smartphone,2023-10-12,12,2024-01-04,0.0,0,0.0,0.0,3186.33,1,synthetic,collapse
+P010,Google Pixel 8,Smartphone,2023-10-12,13,2024-01-11,10.5,0,0.0,0.0,3125.22,1,synthetic,collapse
+P010,Google Pixel 8,Smartphone,2023-10-12,14,2024-01-18,7.3,0,0.0,0.0,3127.6,1,synthetic,collapse
+P010,Google Pixel 8,Smartphone,2023-10-12,15,2024-01-25,14.1,1,18.0,3.0,3106.64,1,synthetic,collapse
+P010,Google Pixel 8,Smartphone,2023-10-12,16,2024-02-01,6.7,0,0.0,0.0,3186.99,1,synthetic,collapse
+P010,Google Pixel 8,Smartphone,2023-10-12,17,2024-02-08,11.2,0,0.0,0.0,3158.28,1,synthetic,collapse
+P010,Google Pixel 8,Smartphone,2023-10-12,18,2024-02-15,6.9,0,0.0,0.0,3154.24,1,synthetic,collapse
+P010,Google Pixel 8,Smartphone,2023-10-12,19,2024-02-22,8.8,0,0.0,0.0,3175.87,1,synthetic,collapse
+P010,Google Pixel 8,Smartphone,2023-10-12,20,2024-02-29,11.3,3,67.0,13.0,3232.52,1,synthetic,collapse
+P010,Google Pixel 8,Smartphone,2023-10-12,21,2024-03-07,6.4,0,0.0,0.0,3061.15,1,synthetic,collapse
+P010,Google Pixel 8,Smartphone,2023-10-12,22,2024-03-14,12.3,0,0.0,0.0,3096.14,1,synthetic,collapse
+P010,Google Pixel 8,Smartphone,2023-10-12,23,2024-03-21,4.3,0,0.0,0.0,3099.53,1,synthetic,collapse
+P010,Google Pixel 8,Smartphone,2023-10-12,24,2024-03-28,9.4,1,41.0,9.0,3089.74,1,synthetic,collapse
+P010,Google Pixel 8,Smartphone,2023-10-12,25,2024-04-04,11.9,1,23.0,2.0,3080.42,1,synthetic,collapse
+P011,Meta Ray-Ban Glasses,AI/AR Hardware,2023-10-17,0,2023-10-17,94.9,91,3246.0,625.0,340.79,1,synthetic,collapse
+P011,Meta Ray-Ban Glasses,AI/AR Hardware,2023-10-17,1,2023-10-24,86.7,78,831.0,239.0,341.77,1,synthetic,collapse
+P011,Meta Ray-Ban Glasses,AI/AR Hardware,2023-10-17,2,2023-10-31,61.4,44,1315.0,192.0,323.89,1,synthetic,collapse
+P011,Meta Ray-Ban Glasses,AI/AR Hardware,2023-10-17,3,2023-11-07,49.1,37,1331.0,269.0,324.62,1,synthetic,collapse
+P011,Meta Ray-Ban Glasses,AI/AR Hardware,2023-10-17,4,2023-11-14,43.9,34,723.0,90.0,314.16,1,synthetic,collapse
+P011,Meta Ray-Ban Glasses,AI/AR Hardware,2023-10-17,5,2023-11-21,35.9,10,84.0,113.0,308.27,1,synthetic,collapse
+P011,Meta Ray-Ban Glasses,AI/AR Hardware,2023-10-17,6,2023-11-28,27.9,5,150.0,16.0,306.88,1,synthetic,collapse
+P011,Meta Ray-Ban Glasses,AI/AR Hardware,2023-10-17,7,2023-12-05,26.0,12,536.0,47.0,304.42,1,synthetic,collapse
+P011,Meta Ray-Ban Glasses,AI/AR Hardware,2023-10-17,8,2023-12-12,28.8,11,192.0,106.0,299.89,1,synthetic,collapse
+P011,Meta Ray-Ban Glasses,AI/AR Hardware,2023-10-17,9,2023-12-19,18.1,3,45.0,8.0,301.95,1,synthetic,collapse
+P011,Meta Ray-Ban Glasses,AI/AR Hardware,2023-10-17,10,2023-12-26,13.8,2,25.0,22.0,296.24,1,synthetic,collapse
+P011,Meta Ray-Ban Glasses,AI/AR Hardware,2023-10-17,11,2024-01-02,21.6,2,57.0,18.0,299.65,1,synthetic,collapse
+P011,Meta Ray-Ban Glasses,AI/AR Hardware,2023-10-17,12,2024-01-09,18.6,2,60.0,5.0,295.77,1,synthetic,collapse
+P011,Meta Ray-Ban Glasses,AI/AR Hardware,2023-10-17,13,2024-01-16,13.2,4,149.0,35.0,291.15,1,synthetic,collapse
+P011,Meta Ray-Ban Glasses,AI/AR Hardware,2023-10-17,14,2024-01-23,8.6,1,35.0,8.0,289.59,1,synthetic,collapse
+P011,Meta Ray-Ban Glasses,AI/AR Hardware,2023-10-17,15,2024-01-30,11.4,1,41.0,9.0,286.05,1,synthetic,collapse
+P011,Meta Ray-Ban Glasses,AI/AR Hardware,2023-10-17,16,2024-02-06,13.7,4,151.0,41.0,292.16,1,synthetic,collapse
+P011,Meta Ray-Ban Glasses,AI/AR Hardware,2023-10-17,17,2024-02-13,18.3,3,51.0,27.0,289.34,1,synthetic,collapse
+P011,Meta Ray-Ban Glasses,AI/AR Hardware,2023-10-17,18,2024-02-20,9.2,1,28.0,7.0,281.84,1,synthetic,collapse
+P011,Meta Ray-Ban Glasses,AI/AR Hardware,2023-10-17,19,2024-02-27,12.8,1,19.0,5.0,287.84,1,synthetic,collapse
+P011,Meta Ray-Ban Glasses,AI/AR Hardware,2023-10-17,20,2024-03-05,15.7,2,40.0,17.0,286.25,1,synthetic,collapse
+P011,Meta Ray-Ban Glasses,AI/AR Hardware,2023-10-17,21,2024-03-12,3.4,0,0.0,0.0,294.57,1,synthetic,collapse
+P011,Meta Ray-Ban Glasses,AI/AR Hardware,2023-10-17,22,2024-03-19,16.9,3,99.0,23.0,282.97,1,synthetic,collapse
+P011,Meta Ray-Ban Glasses,AI/AR Hardware,2023-10-17,23,2024-03-26,8.0,0,0.0,0.0,283.68,1,synthetic,collapse
+P011,Meta Ray-Ban Glasses,AI/AR Hardware,2023-10-17,24,2024-04-02,14.0,0,0.0,0.0,292.36,1,synthetic,collapse
+P011,Meta Ray-Ban Glasses,AI/AR Hardware,2023-10-17,25,2024-04-09,13.6,2,55.0,19.0,293.08,1,synthetic,collapse
+P012,MacBook Pro M3,Computing,2023-11-07,0,2023-11-07,98.0,24,878.0,95.0,3457.31,1,synthetic,sustained
+P012,MacBook Pro M3,Computing,2023-11-07,1,2023-11-14,98.0,30,540.0,274.0,3453.98,1,synthetic,sustained
+P012,MacBook Pro M3,Computing,2023-11-07,2,2023-11-21,87.7,23,604.0,220.0,3465.42,1,synthetic,sustained
+P012,MacBook Pro M3,Computing,2023-11-07,3,2023-11-28,94.9,23,352.0,178.0,3351.26,1,synthetic,sustained
+P012,MacBook Pro M3,Computing,2023-11-07,4,2023-12-05,95.5,16,637.0,170.0,3316.43,0,synthetic,sustained
+P012,MacBook Pro M3,Computing,2023-11-07,5,2023-12-12,89.9,22,845.0,108.0,3399.51,1,synthetic,sustained
+P012,MacBook Pro M3,Computing,2023-11-07,6,2023-12-19,97.0,28,1158.0,302.0,3327.0,0,synthetic,sustained
+P012,MacBook Pro M3,Computing,2023-11-07,7,2023-12-26,85.0,21,849.0,195.0,3323.02,1,synthetic,sustained
+P012,MacBook Pro M3,Computing,2023-11-07,8,2024-01-02,88.3,25,1087.0,249.0,3254.12,1,synthetic,sustained
+P012,MacBook Pro M3,Computing,2023-11-07,9,2024-01-09,86.3,26,427.0,224.0,3292.5,1,synthetic,sustained
+P012,MacBook Pro M3,Computing,2023-11-07,10,2024-01-16,85.2,23,976.0,240.0,3311.95,1,synthetic,sustained
+P012,MacBook Pro M3,Computing,2023-11-07,11,2024-01-23,84.3,13,378.0,155.0,3343.07,1,synthetic,sustained
+P012,MacBook Pro M3,Computing,2023-11-07,12,2024-01-30,85.55,16,378.0,99.0,3270.52,1,synthetic,sustained
+P012,MacBook Pro M3,Computing,2023-11-07,13,2024-02-06,86.8,13,373.0,131.0,3362.39,1,synthetic,sustained
+P012,MacBook Pro M3,Computing,2023-11-07,14,2024-02-13,88.3,16,330.0,151.0,3266.22,1,synthetic,sustained
+P012,MacBook Pro M3,Computing,2023-11-07,15,2024-02-20,82.3,22,410.0,143.0,3263.34,1,synthetic,sustained
+P012,MacBook Pro M3,Computing,2023-11-07,16,2024-02-27,85.1,11,186.0,123.0,3348.49,1,synthetic,sustained
+P012,MacBook Pro M3,Computing,2023-11-07,17,2024-03-05,78.5,21,232.0,124.0,3294.1,0,synthetic,sustained
+P012,MacBook Pro M3,Computing,2023-11-07,18,2024-03-12,84.0,15,395.0,114.0,3262.28,1,synthetic,sustained
+P012,MacBook Pro M3,Computing,2023-11-07,19,2024-03-19,77.5,23,939.0,70.0,3276.48,1,synthetic,sustained
+P012,MacBook Pro M3,Computing,2023-11-07,20,2024-03-26,84.6,18,563.0,76.0,3334.67,1,synthetic,sustained
+P012,MacBook Pro M3,Computing,2023-11-07,21,2024-04-02,88.8,20,545.0,208.0,3338.1,1,synthetic,sustained
+P012,MacBook Pro M3,Computing,2023-11-07,22,2024-04-09,79.2,10,238.0,59.0,3247.39,0,synthetic,sustained
+P012,MacBook Pro M3,Computing,2023-11-07,23,2024-04-16,70.7,10,251.0,59.0,3277.17,1,synthetic,sustained
+P012,MacBook Pro M3,Computing,2023-11-07,24,2024-04-23,77.1,12,188.0,53.0,3281.79,1,synthetic,sustained
+P012,MacBook Pro M3,Computing,2023-11-07,25,2024-04-30,84.0,19,730.0,131.0,3238.97,1,synthetic,sustained
+P013,PlayStation Portal,Gaming,2023-11-15,0,2023-11-15,36.6,22,213.0,71.0,356.71,1,synthetic,collapse
+P013,PlayStation Portal,Gaming,2023-11-15,1,2023-11-22,68.9,46,1707.0,280.0,350.83,0,synthetic,collapse
+P013,PlayStation Portal,Gaming,2023-11-15,2,2023-11-29,95.9,84,2017.0,635.0,331.08,1,synthetic,collapse
+P013,PlayStation Portal,Gaming,2023-11-15,3,2023-12-06,78.5,49,1186.0,554.0,343.56,1,synthetic,collapse
+P013,PlayStation Portal,Gaming,2023-11-15,4,2023-12-13,60.8,39,666.0,92.0,326.4,0,synthetic,collapse
+P013,PlayStation Portal,Gaming,2023-11-15,5,2023-12-20,55.1,38,598.0,312.0,330.91,1,synthetic,collapse
+P013,PlayStation Portal,Gaming,2023-11-15,6,2023-12-27,43.4,23,684.0,151.0,328.37,1,synthetic,collapse
+P013,PlayStation Portal,Gaming,2023-11-15,7,2024-01-03,33.8,16,265.0,35.0,318.66,1,synthetic,collapse
+P013,PlayStation Portal,Gaming,2023-11-15,8,2024-01-10,26.4,8,83.0,35.0,322.69,1,synthetic,collapse
+P013,PlayStation Portal,Gaming,2023-11-15,9,2024-01-17,22.8,4,145.0,12.0,318.93,1,synthetic,collapse
+P013,PlayStation Portal,Gaming,2023-11-15,10,2024-01-24,14.1,0,0.0,0.0,320.26,1,synthetic,collapse
+P013,PlayStation Portal,Gaming,2023-11-15,11,2024-01-31,18.2,2,44.0,9.0,318.01,1,synthetic,collapse
+P013,PlayStation Portal,Gaming,2023-11-15,12,2024-02-07,8.2,0,0.0,0.0,320.84,1,synthetic,collapse
+P013,PlayStation Portal,Gaming,2023-11-15,13,2024-02-14,11.3,2,76.0,14.0,315.88,1,synthetic,collapse
+P013,PlayStation Portal,Gaming,2023-11-15,14,2024-02-21,14.4,2,39.0,4.0,314.37,1,synthetic,collapse
+P013,PlayStation Portal,Gaming,2023-11-15,15,2024-02-28,9.4,1,36.0,3.0,318.65,1,synthetic,collapse
+P013,PlayStation Portal,Gaming,2023-11-15,16,2024-03-06,7.1,3,128.0,8.0,316.29,1,synthetic,collapse
+P013,PlayStation Portal,Gaming,2023-11-15,17,2024-03-13,8.8,0,0.0,0.0,316.52,1,synthetic,collapse
+P013,PlayStation Portal,Gaming,2023-11-15,18,2024-03-20,0.0,0,0.0,0.0,310.98,1,synthetic,collapse
+P013,PlayStation Portal,Gaming,2023-11-15,19,2024-03-27,7.5,1,35.0,7.0,309.31,1,synthetic,collapse
+P013,PlayStation Portal,Gaming,2023-11-15,20,2024-04-03,5.6,0,0.0,0.0,310.91,1,synthetic,collapse
+P013,PlayStation Portal,Gaming,2023-11-15,21,2024-04-10,5.6,0,0.0,0.0,310.54,1,synthetic,collapse
+P013,PlayStation Portal,Gaming,2023-11-15,22,2024-04-17,8.5,2,54.0,22.0,315.69,0,synthetic,collapse
+P013,PlayStation Portal,Gaming,2023-11-15,23,2024-04-24,5.2,0,0.0,0.0,316.28,1,synthetic,collapse
+P013,PlayStation Portal,Gaming,2023-11-15,24,2024-05-01,0.9,0,0.0,0.0,311.94,1,synthetic,collapse
+P013,PlayStation Portal,Gaming,2023-11-15,25,2024-05-08,4.8,0,0.0,0.0,317.81,1,synthetic,collapse
+P014,Steam Deck OLED,Gaming,2023-11-16,0,2023-11-16,100.0,121,3644.0,490.0,1285.99,0,synthetic,sustained
+P014,Steam Deck OLED,Gaming,2023-11-16,1,2023-11-23,100.0,140,3409.0,915.0,1285.61,1,synthetic,sustained
+P014,Steam Deck OLED,Gaming,2023-11-16,2,2023-11-30,97.5,110,1875.0,821.0,1295.77,1,synthetic,sustained
+P014,Steam Deck OLED,Gaming,2023-11-16,3,2023-12-07,87.4,107,4351.0,1197.0,1266.1,0,synthetic,sustained
+P014,Steam Deck OLED,Gaming,2023-11-16,4,2023-12-14,96.7,132,2882.0,1418.0,1247.29,1,synthetic,sustained
+P014,Steam Deck OLED,Gaming,2023-11-16,5,2023-12-21,100.0,117,2866.0,1305.0,1247.37,0,synthetic,sustained
+P014,Steam Deck OLED,Gaming,2023-11-16,6,2023-12-28,99.6,146,3381.0,1436.97,1252.8,1,synthetic,sustained
+P014,Steam Deck OLED,Gaming,2023-11-16,7,2024-01-04,99.7,115,1694.0,1339.0,1240.04,1,synthetic,sustained
+P014,Steam Deck OLED,Gaming,2023-11-16,8,2024-01-11,87.4,101,3542.0,672.0,1249.37,1,synthetic,sustained
+P014,Steam Deck OLED,Gaming,2023-11-16,9,2024-01-18,94.3,110,2705.0,272.0,1247.0,1,synthetic,sustained
+P014,Steam Deck OLED,Gaming,2023-11-16,10,2024-01-25,87.1,96,825.0,272.0,1249.99,1,synthetic,sustained
+P014,Steam Deck OLED,Gaming,2023-11-16,11,2024-02-01,90.1,96,4192.0,566.0,1255.86,1,synthetic,sustained
+P014,Steam Deck OLED,Gaming,2023-11-16,12,2024-02-08,83.5,98,3741.0,448.0,1247.81,0,synthetic,sustained
+P014,Steam Deck OLED,Gaming,2023-11-16,13,2024-02-15,84.05,106,3685.0,392.0,1217.85,1,synthetic,sustained
+P014,Steam Deck OLED,Gaming,2023-11-16,14,2024-02-22,84.6,88,3533.0,1014.0,1217.13,1,synthetic,sustained
+P014,Steam Deck OLED,Gaming,2023-11-16,15,2024-02-29,90.4,104,4321.0,411.0,1228.37,0,synthetic,sustained
+P014,Steam Deck OLED,Gaming,2023-11-16,16,2024-03-07,89.5,89,1823.0,1031.0,1222.01,1,synthetic,sustained
+P014,Steam Deck OLED,Gaming,2023-11-16,17,2024-03-14,86.9,92,2815.0,883.0,1211.2,1,synthetic,sustained
+P014,Steam Deck OLED,Gaming,2023-11-16,18,2024-03-21,79.9,95,2899.0,798.0,1220.89,0,synthetic,sustained
+P014,Steam Deck OLED,Gaming,2023-11-16,19,2024-03-28,83.6,90,1610.0,788.0,1219.93,0,synthetic,sustained
+P014,Steam Deck OLED,Gaming,2023-11-16,20,2024-04-04,81.5,105,1702.0,558.0,1216.63,1,synthetic,sustained
+P014,Steam Deck OLED,Gaming,2023-11-16,21,2024-04-11,87.5,109,1331.0,922.0,1221.53,1,synthetic,sustained
+P014,Steam Deck OLED,Gaming,2023-11-16,22,2024-04-18,88.4,100,3239.0,386.0,1243.24,1,synthetic,sustained
+P014,Steam Deck OLED,Gaming,2023-11-16,23,2024-04-25,87.6,98,3615.0,1114.0,1228.6,1,synthetic,sustained
+P014,Steam Deck OLED,Gaming,2023-11-16,24,2024-05-02,80.0,89,3217.0,446.0,1261.82,0,synthetic,sustained
+P014,Steam Deck OLED,Gaming,2023-11-16,25,2024-05-09,71.7,69,1359.0,314.0,1227.82,1,synthetic,sustained
+P015,Tesla Cybertruck,EV/Mobility,2023-11-30,0,2023-11-30,59.4,77,2324.0,436.0,202.12,1,synthetic,collapse
+P015,Tesla Cybertruck,EV/Mobility,2023-11-30,1,2023-12-07,100.0,140,1490.0,771.0,190.74,1,synthetic,collapse
+P015,Tesla Cybertruck,EV/Mobility,2023-11-30,2,2023-12-14,74.4,79,3360.0,572.0,189.24,1,synthetic,collapse
+P015,Tesla Cybertruck,EV/Mobility,2023-11-30,3,2023-12-21,58.0,52,2218.0,563.0,179.43,1,synthetic,collapse
+P015,Tesla Cybertruck,EV/Mobility,2023-11-30,4,2023-12-28,40.4,22,620.0,108.0,180.88,1,synthetic,collapse
+P015,Tesla Cybertruck,EV/Mobility,2023-11-30,5,2024-01-04,35.4,32,986.0,230.0,174.54,1,synthetic,collapse
+P015,Tesla Cybertruck,EV/Mobility,2023-11-30,6,2024-01-11,29.9,13,244.0,70.0,170.6,1,synthetic,collapse
+P015,Tesla Cybertruck,EV/Mobility,2023-11-30,7,2024-01-18,19.7,12,124.0,122.0,170.06,0,synthetic,collapse
+P015,Tesla Cybertruck,EV/Mobility,2023-11-30,8,2024-01-25,19.1,4,141.0,14.0,169.21,1,synthetic,collapse
+P015,Tesla Cybertruck,EV/Mobility,2023-11-30,9,2024-02-01,13.9,2,23.0,6.0,166.1,1,synthetic,collapse
+P015,Tesla Cybertruck,EV/Mobility,2023-11-30,10,2024-02-08,12.5,2,22.0,14.0,166.9,1,synthetic,collapse
+P015,Tesla Cybertruck,EV/Mobility,2023-11-30,11,2024-02-15,8.9,1,19.0,8.0,163.56,1,synthetic,collapse
+P015,Tesla Cybertruck,EV/Mobility,2023-11-30,12,2024-02-22,17.5,5,42.0,49.0,165.03,1,synthetic,collapse
+P015,Tesla Cybertruck,EV/Mobility,2023-11-30,13,2024-02-29,16.1,6,144.0,47.0,163.92,1,synthetic,collapse
+P015,Tesla Cybertruck,EV/Mobility,2023-11-30,14,2024-03-07,13.5,1,34.0,9.0,162.3,1,synthetic,collapse
+P015,Tesla Cybertruck,EV/Mobility,2023-11-30,15,2024-03-14,18.9,1,37.0,5.0,161.04,1,synthetic,collapse
+P015,Tesla Cybertruck,EV/Mobility,2023-11-30,16,2024-03-21,10.0,0,0.0,0.0,161.75,1,synthetic,collapse
+P015,Tesla Cybertruck,EV/Mobility,2023-11-30,17,2024-03-28,22.7,4,157.0,12.0,162.15,1,synthetic,collapse
+P015,Tesla Cybertruck,EV/Mobility,2023-11-30,18,2024-04-04,9.5,1,23.0,2.0,164.76,1,synthetic,collapse
+P015,Tesla Cybertruck,EV/Mobility,2023-11-30,19,2024-04-11,11.4,2,78.0,10.0,162.33,1,synthetic,collapse
+P015,Tesla Cybertruck,EV/Mobility,2023-11-30,20,2024-04-18,8.7,2,53.0,13.0,162.18,1,synthetic,collapse
+P015,Tesla Cybertruck,EV/Mobility,2023-11-30,21,2024-04-25,11.7,2,32.0,11.0,166.06,1,synthetic,collapse
+P015,Tesla Cybertruck,EV/Mobility,2023-11-30,22,2024-05-02,13.6,2,85.0,15.0,160.97,1,synthetic,collapse
+P015,Tesla Cybertruck,EV/Mobility,2023-11-30,23,2024-05-09,9.7,2,36.0,13.0,160.78,1,synthetic,collapse
+P015,Tesla Cybertruck,EV/Mobility,2023-11-30,24,2024-05-16,17.3,0,0.0,0.0,161.1,1,synthetic,collapse
+P015,Tesla Cybertruck,EV/Mobility,2023-11-30,25,2024-05-23,17.3,0,0.0,0.0,157.73,1,synthetic,collapse
+P016,Google Gemini,AI Software,2023-12-06,0,2023-12-06,100.0,108,2077.0,1093.0,492.79,1,synthetic,sustained
+P016,Google Gemini,AI Software,2023-12-06,1,2023-12-13,97.3,102,4170.0,1081.0,496.97,1,synthetic,sustained
+P016,Google Gemini,AI Software,2023-12-06,2,2023-12-20,92.8,98,2756.0,669.0,481.53,1,synthetic,sustained
+P016,Google Gemini,AI Software,2023-12-06,3,2023-12-27,84.9,91,3710.0,943.0,482.54,1,synthetic,sustained
+P016,Google Gemini,AI Software,2023-12-06,4,2024-01-03,82.5,82,1339.0,415.0,489.48,1,synthetic,sustained
+P016,Google Gemini,AI Software,2023-12-06,5,2024-01-10,83.6,87,1758.0,836.0,482.84,1,synthetic,sustained
+P016,Google Gemini,AI Software,2023-12-06,6,2024-01-17,83.6,85,2161.0,289.0,476.97,1,synthetic,sustained
+P016,Google Gemini,AI Software,2023-12-06,7,2024-01-24,79.0,72,1854.0,365.0,479.56,1,synthetic,sustained
+P016,Google Gemini,AI Software,2023-12-06,8,2024-01-31,81.9,76,3413.0,490.0,475.23,1,synthetic,sustained
+P016,Google Gemini,AI Software,2023-12-06,9,2024-02-07,76.4,76,929.0,396.0,474.45,1,synthetic,sustained
+P016,Google Gemini,AI Software,2023-12-06,10,2024-02-14,71.9,69,2727.0,405.0,477.1,1,synthetic,sustained
+P016,Google Gemini,AI Software,2023-12-06,11,2024-02-21,73.0,72,2876.0,734.0,468.41,0,synthetic,sustained
+P016,Google Gemini,AI Software,2023-12-06,12,2024-02-28,73.4,64,1821.0,292.0,472.07,1,synthetic,sustained
+P016,Google Gemini,AI Software,2023-12-06,13,2024-03-06,72.4,64,1326.0,604.0,469.49,1,synthetic,sustained
+P016,Google Gemini,AI Software,2023-12-06,14,2024-03-13,77.2,66,1795.0,180.0,461.81,1,synthetic,sustained
+P016,Google Gemini,AI Software,2023-12-06,15,2024-03-20,65.7,62,1166.0,598.0,465.17,1,synthetic,sustained
+P016,Google Gemini,AI Software,2023-12-06,16,2024-03-27,66.9,61,2291.0,605.0,478.87,0,synthetic,sustained
+P016,Google Gemini,AI Software,2023-12-06,17,2024-04-03,67.8,47,1242.0,282.0,471.91,1,synthetic,sustained
+P016,Google Gemini,AI Software,2023-12-06,18,2024-04-10,64.9,58,2450.0,535.0,462.04,1,synthetic,sustained
+P016,Google Gemini,AI Software,2023-12-06,19,2024-04-17,62.0,59,1831.0,657.0,460.63,1,synthetic,sustained
+P016,Google Gemini,AI Software,2023-12-06,20,2024-04-24,56.9,43,1162.0,430.0,468.51,1,synthetic,sustained
+P016,Google Gemini,AI Software,2023-12-06,21,2024-05-01,60.2,47,1612.0,277.0,477.78,1,synthetic,sustained
+P016,Google Gemini,AI Software,2023-12-06,22,2024-05-08,57.1,45,1199.0,307.0,467.83,0,synthetic,sustained
+P016,Google Gemini,AI Software,2023-12-06,23,2024-05-15,53.8,35,1451.0,342.0,476.14,1,synthetic,sustained
+P016,Google Gemini,AI Software,2023-12-06,24,2024-05-22,56.8,51,756.0,251.0,470.69,0,synthetic,sustained
+P016,Google Gemini,AI Software,2023-12-06,25,2024-05-29,55.1,45,1980.0,451.0,471.29,0,synthetic,sustained
+P017,Framework Laptop 16,Computing,2023-12-20,0,2023-12-20,98.5,124,3571.0,1200.0,491.38,1,synthetic,collapse
+P017,Framework Laptop 16,Computing,2023-12-20,1,2023-12-27,84.4,104,3345.0,860.0,484.62,0,synthetic,collapse
+P017,Framework Laptop 16,Computing,2023-12-20,2,2024-01-03,54.6,50,1600.0,369.0,458.35,1,synthetic,collapse
+P017,Framework Laptop 16,Computing,2023-12-20,3,2024-01-10,41.3,37,1361.0,85.0,454.33,1,synthetic,collapse
+P017,Framework Laptop 16,Computing,2023-12-20,4,2024-01-17,27.4,15,350.0,138.0,451.12,0,synthetic,collapse
+P017,Framework Laptop 16,Computing,2023-12-20,5,2024-01-24,33.7,22,398.0,163.0,440.52,1,synthetic,collapse
+P017,Framework Laptop 16,Computing,2023-12-20,6,2024-01-31,27.5,20,171.0,94.0,435.21,0,synthetic,collapse
+P017,Framework Laptop 16,Computing,2023-12-20,7,2024-02-07,30.1,14,219.0,73.0,426.15,1,synthetic,collapse
+P017,Framework Laptop 16,Computing,2023-12-20,8,2024-02-14,12.6,6,117.0,68.0,427.67,1,synthetic,collapse
+P017,Framework Laptop 16,Computing,2023-12-20,9,2024-02-21,22.4,7,102.0,57.0,422.44,1,synthetic,collapse
+P017,Framework Laptop 16,Computing,2023-12-20,10,2024-02-28,15.7,4,34.0,27.0,416.72,1,synthetic,collapse
+P017,Framework Laptop 16,Computing,2023-12-20,11,2024-03-06,17.8,3,41.0,24.0,416.33,1,synthetic,collapse
+P017,Framework Laptop 16,Computing,2023-12-20,12,2024-03-13,7.4,1,32.0,6.0,413.13,1,synthetic,collapse
+P017,Framework Laptop 16,Computing,2023-12-20,13,2024-03-20,19.5,3,93.0,20.0,405.37,0,synthetic,collapse
+P017,Framework Laptop 16,Computing,2023-12-20,14,2024-03-27,16.5,2,85.0,9.0,399.37,1,synthetic,collapse
+P017,Framework Laptop 16,Computing,2023-12-20,15,2024-04-03,13.0,1,37.0,6.0,406.61,1,synthetic,collapse
+P017,Framework Laptop 16,Computing,2023-12-20,16,2024-04-10,15.6,3,87.0,26.0,406.09,1,synthetic,collapse
+P017,Framework Laptop 16,Computing,2023-12-20,17,2024-04-17,9.8,5,65.0,11.0,407.78,1,synthetic,collapse
+P017,Framework Laptop 16,Computing,2023-12-20,18,2024-04-24,10.5,2,57.0,19.0,397.22,1,synthetic,collapse
+P017,Framework Laptop 16,Computing,2023-12-20,19,2024-05-01,10.9,2,20.0,9.0,396.72,1,synthetic,collapse
+P017,Framework Laptop 16,Computing,2023-12-20,20,2024-05-08,5.3,2,47.0,17.0,402.74,1,synthetic,collapse
+P017,Framework Laptop 16,Computing,2023-12-20,21,2024-05-15,16.2,3,67.0,25.0,399.74,1,synthetic,collapse
+P017,Framework Laptop 16,Computing,2023-12-20,22,2024-05-22,17.5,2,47.0,17.0,390.65,1,synthetic,collapse
+P017,Framework Laptop 16,Computing,2023-12-20,23,2024-05-29,9.9,0,0.0,0.0,401.18,1,synthetic,collapse
+P017,Framework Laptop 16,Computing,2023-12-20,24,2024-06-05,14.1,0,0.0,0.0,390.24,1,synthetic,collapse
+P017,Framework Laptop 16,Computing,2023-12-20,25,2024-06-12,11.6,0,0.0,0.0,394.37,1,synthetic,collapse
+P018,Midjourney v6,AI Software,2023-12-21,0,2023-12-21,29.6,11,455.0,100.0,995.94,1,synthetic,sustained
+P018,Midjourney v6,AI Software,2023-12-21,1,2023-12-28,65.3,20,749.0,229.0,988.62,0,synthetic,sustained
+P018,Midjourney v6,AI Software,2023-12-21,2,2024-01-04,100.0,36,1549.0,312.0,971.55,1,synthetic,sustained
+P018,Midjourney v6,AI Software,2023-12-21,3,2024-01-11,95.1,28,899.0,209.0,973.98,1,synthetic,sustained
+P018,Midjourney v6,AI Software,2023-12-21,4,2024-01-18,80.8,26,845.0,168.0,972.61,0,synthetic,sustained
+P018,Midjourney v6,AI Software,2023-12-21,5,2024-01-25,85.6,27,695.0,277.0,963.77,1,synthetic,sustained
+P018,Midjourney v6,AI Software,2023-12-21,6,2024-02-01,93.3,31,1286.0,325.0,979.6,1,synthetic,sustained
+P018,Midjourney v6,AI Software,2023-12-21,7,2024-02-08,83.1,27,726.0,133.0,986.34,1,synthetic,sustained
+P018,Midjourney v6,AI Software,2023-12-21,8,2024-02-15,72.9,22,465.0,253.0,960.07,1,synthetic,sustained
+P018,Midjourney v6,AI Software,2023-12-21,9,2024-02-22,75.9,32,1014.0,190.0,972.49,1,synthetic,sustained
+P018,Midjourney v6,AI Software,2023-12-21,10,2024-02-29,68.2,26,733.0,260.0,955.97,1,synthetic,sustained
+P018,Midjourney v6,AI Software,2023-12-21,11,2024-03-07,63.7,20,251.0,233.0,963.43,1,synthetic,sustained
+P018,Midjourney v6,AI Software,2023-12-21,12,2024-03-14,65.9,16,360.0,144.0,958.12,1,synthetic,sustained
+P018,Midjourney v6,AI Software,2023-12-21,13,2024-03-21,66.0,24,470.0,86.0,972.39,1,synthetic,sustained
+P018,Midjourney v6,AI Software,2023-12-21,14,2024-03-28,62.15,19,747.0,149.0,956.97,1,synthetic,sustained
+P018,Midjourney v6,AI Software,2023-12-21,15,2024-04-04,58.3,22,484.0,70.0,976.04,1,synthetic,sustained
+P018,Midjourney v6,AI Software,2023-12-21,16,2024-04-11,61.8,18,691.0,178.0,961.08,1,synthetic,sustained
+P018,Midjourney v6,AI Software,2023-12-21,17,2024-04-18,59.1,21,511.0,101.0,956.07,1,synthetic,sustained
+P018,Midjourney v6,AI Software,2023-12-21,18,2024-04-25,56.650000000000006,19,681.0,170.0,948.81,1,synthetic,sustained
+P018,Midjourney v6,AI Software,2023-12-21,19,2024-05-02,54.2,16,208.0,177.0,965.98,1,synthetic,sustained
+P018,Midjourney v6,AI Software,2023-12-21,20,2024-05-09,61.2,17,717.0,64.0,973.2,1,synthetic,sustained
+P018,Midjourney v6,AI Software,2023-12-21,21,2024-05-16,52.9,22,567.0,130.0,965.84,1,synthetic,sustained
+P018,Midjourney v6,AI Software,2023-12-21,22,2024-05-23,63.7,25,440.0,211.0,988.41,1,synthetic,sustained
+P018,Midjourney v6,AI Software,2023-12-21,23,2024-05-30,49.7,18,304.0,111.0,978.94,1,synthetic,sustained
+P018,Midjourney v6,AI Software,2023-12-21,24,2024-06-06,51.8,23,409.0,86.0,958.78,0,synthetic,sustained
+P018,Midjourney v6,AI Software,2023-12-21,25,2024-06-13,57.4,17,366.0,38.0,958.58,1,synthetic,sustained
+P019,OnePlus 12,Smartphone,2024-01-23,0,2024-01-23,41.4,11,167.0,45.0,975.15,1,synthetic,sustained
+P019,OnePlus 12,Smartphone,2024-01-23,1,2024-01-30,96.7,32,1203.0,77.0,1003.08,0,synthetic,sustained
+P019,OnePlus 12,Smartphone,2024-01-23,2,2024-02-06,94.0,41,844.0,247.0,1019.92,1,synthetic,sustained
+P019,OnePlus 12,Smartphone,2024-01-23,3,2024-02-13,88.8,33,446.0,348.0,1009.51,0,synthetic,sustained
+P019,OnePlus 12,Smartphone,2024-01-23,4,2024-02-20,75.8,25,372.0,122.0,988.5,1,synthetic,sustained
+P019,OnePlus 12,Smartphone,2024-01-23,5,2024-02-27,79.8,27,746.0,243.0,990.5,0,synthetic,sustained
+P019,OnePlus 12,Smartphone,2024-01-23,6,2024-03-05,76.6,22,864.0,45.0,999.96,1,synthetic,sustained
+P019,OnePlus 12,Smartphone,2024-01-23,7,2024-03-12,73.5,33,350.0,183.0,1001.92,1,synthetic,sustained
+P019,OnePlus 12,Smartphone,2024-01-23,8,2024-03-19,77.0,24,219.0,195.0,983.86,0,synthetic,sustained
+P019,OnePlus 12,Smartphone,2024-01-23,9,2024-03-26,64.1,23,579.0,75.0,987.77,0,synthetic,sustained
+P019,OnePlus 12,Smartphone,2024-01-23,10,2024-04-02,63.5,26,1127.0,285.0,990.46,0,synthetic,sustained
+P019,OnePlus 12,Smartphone,2024-01-23,11,2024-04-09,54.4,19,348.0,67.0,993.06,1,synthetic,sustained
+P019,OnePlus 12,Smartphone,2024-01-23,12,2024-04-16,61.3,23,1000.0,255.0,984.6,1,synthetic,sustained
+P019,OnePlus 12,Smartphone,2024-01-23,13,2024-04-23,60.1,24,980.0,99.0,984.47,0,synthetic,sustained
+P019,OnePlus 12,Smartphone,2024-01-23,14,2024-04-30,58.3,16,295.0,191.0,1001.99,0,synthetic,sustained
+P019,OnePlus 12,Smartphone,2024-01-23,15,2024-05-07,63.6,20,764.0,160.0,999.78,1,synthetic,sustained
+P019,OnePlus 12,Smartphone,2024-01-23,16,2024-05-14,61.6,23,767.0,65.0,990.96,1,synthetic,sustained
+P019,OnePlus 12,Smartphone,2024-01-23,17,2024-05-21,57.6,21,565.0,55.0,1005.5,1,synthetic,sustained
+P019,OnePlus 12,Smartphone,2024-01-23,18,2024-05-28,55.0,34,804.0,93.0,980.5,1,synthetic,sustained
+P019,OnePlus 12,Smartphone,2024-01-23,19,2024-06-04,59.9,24,916.0,189.0,1004.16,1,synthetic,sustained
+P019,OnePlus 12,Smartphone,2024-01-23,20,2024-06-11,55.0,11,410.0,111.0,991.31,1,synthetic,sustained
+P019,OnePlus 12,Smartphone,2024-01-23,21,2024-06-18,51.3,16,576.0,96.0,1023.49,1,synthetic,sustained
+P019,OnePlus 12,Smartphone,2024-01-23,22,2024-06-25,47.2,17,763.0,109.0,970.68,1,synthetic,sustained
+P019,OnePlus 12,Smartphone,2024-01-23,23,2024-07-02,51.9,17,436.0,134.0,976.58,1,synthetic,sustained
+P019,OnePlus 12,Smartphone,2024-01-23,24,2024-07-09,56.3,22,832.0,161.0,989.64,0,synthetic,sustained
+P019,OnePlus 12,Smartphone,2024-01-23,25,2024-07-16,56.3,27,1077.0,239.0,989.35,1,synthetic,sustained
+P020,NVIDIA RTX 4080 Super,Computing,2024-01-31,0,2024-01-31,42.4,17,473.0,139.0,492.99,1,synthetic,sustained
+P020,NVIDIA RTX 4080 Super,Computing,2024-01-31,1,2024-02-07,100.0,48,806.0,316.0,498.04,1,synthetic,sustained
+P020,NVIDIA RTX 4080 Super,Computing,2024-01-31,2,2024-02-14,94.7,41,1584.0,135.0,490.34,1,synthetic,sustained
+P020,NVIDIA RTX 4080 Super,Computing,2024-01-31,3,2024-02-21,92.6,45,1975.0,268.0,477.56,0,synthetic,sustained
+P020,NVIDIA RTX 4080 Super,Computing,2024-01-31,4,2024-02-28,92.7,45,1124.0,275.0,481.5,1,synthetic,sustained
+P020,NVIDIA RTX 4080 Super,Computing,2024-01-31,5,2024-03-06,92.9,36,1135.0,139.0,471.42,1,synthetic,sustained
+P020,NVIDIA RTX 4080 Super,Computing,2024-01-31,6,2024-03-13,87.6,35,1303.0,334.0,477.58,1,synthetic,sustained
+P020,NVIDIA RTX 4080 Super,Computing,2024-01-31,7,2024-03-20,81.3,33,558.0,172.0,466.64,1,synthetic,sustained
+P020,NVIDIA RTX 4080 Super,Computing,2024-01-31,8,2024-03-27,82.6,44,1759.0,347.0,477.62,1,synthetic,sustained
+P020,NVIDIA RTX 4080 Super,Computing,2024-01-31,9,2024-04-03,89.6,41,753.0,293.0,475.5,0,synthetic,sustained
+P020,NVIDIA RTX 4080 Super,Computing,2024-01-31,10,2024-04-10,83.4,44,1615.0,474.0,483.13,1,synthetic,sustained
+P020,NVIDIA RTX 4080 Super,Computing,2024-01-31,11,2024-04-17,83.6,33,400.0,106.0,476.24,1,synthetic,sustained
+P020,NVIDIA RTX 4080 Super,Computing,2024-01-31,12,2024-04-24,79.5,20,373.0,62.0,468.33,0,synthetic,sustained
+P020,NVIDIA RTX 4080 Super,Computing,2024-01-31,13,2024-05-01,76.8,25,693.0,125.0,474.72,1,synthetic,sustained
+P020,NVIDIA RTX 4080 Super,Computing,2024-01-31,14,2024-05-08,85.0,35,959.0,220.0,461.73,1,synthetic,sustained
+P020,NVIDIA RTX 4080 Super,Computing,2024-01-31,15,2024-05-15,76.6,34,1341.0,169.0,463.76,1,synthetic,sustained
+P020,NVIDIA RTX 4080 Super,Computing,2024-01-31,16,2024-05-22,74.6,35,1569.0,337.0,470.7,1,synthetic,sustained
+P020,NVIDIA RTX 4080 Super,Computing,2024-01-31,17,2024-05-29,79.9,35,418.0,155.0,456.39,0,synthetic,sustained
+P020,NVIDIA RTX 4080 Super,Computing,2024-01-31,18,2024-06-05,71.8,24,432.0,68.0,468.07,1,synthetic,sustained
+P020,NVIDIA RTX 4080 Super,Computing,2024-01-31,19,2024-06-12,71.6,30,636.0,184.0,462.34,1,synthetic,sustained
+P020,NVIDIA RTX 4080 Super,Computing,2024-01-31,20,2024-06-19,73.3,29,745.0,282.0,468.47,1,synthetic,sustained
+P020,NVIDIA RTX 4080 Super,Computing,2024-01-31,21,2024-06-26,72.6,25,656.0,262.0,461.71,1,synthetic,sustained
+P020,NVIDIA RTX 4080 Super,Computing,2024-01-31,22,2024-07-03,73.0,25,991.0,233.0,470.02,0,synthetic,sustained
+P020,NVIDIA RTX 4080 Super,Computing,2024-01-31,23,2024-07-10,79.7,44,1606.0,333.0,467.65,1,synthetic,sustained
+P020,NVIDIA RTX 4080 Super,Computing,2024-01-31,24,2024-07-17,72.2,34,295.0,314.0,475.31,0,synthetic,sustained
+P020,NVIDIA RTX 4080 Super,Computing,2024-01-31,25,2024-07-24,60.8,26,645.0,229.0,467.42,1,synthetic,sustained
+P021,Samsung Galaxy S24,Smartphone,2024-01-31,0,2024-01-31,44.4,10,189.0,111.0,508.1,0,synthetic,collapse
+P021,Samsung Galaxy S24,Smartphone,2024-01-31,1,2024-02-07,74.1,12,134.0,65.0,480.31,1,synthetic,collapse
+P021,Samsung Galaxy S24,Smartphone,2024-01-31,2,2024-02-14,100.0,20,476.0,87.0,476.21,1,synthetic,collapse
+P021,Samsung Galaxy S24,Smartphone,2024-01-31,3,2024-02-21,68.8,20,283.0,221.0,460.57,1,synthetic,collapse
+P021,Samsung Galaxy S24,Smartphone,2024-01-31,4,2024-02-28,52.5,8,166.0,75.0,451.63,1,synthetic,collapse
+P021,Samsung Galaxy S24,Smartphone,2024-01-31,5,2024-03-06,42.2,3,112.0,26.0,440.04,1,synthetic,collapse
+P021,Samsung Galaxy S24,Smartphone,2024-01-31,6,2024-03-13,31.9,1,17.0,2.0,438.03,1,synthetic,collapse
+P021,Samsung Galaxy S24,Smartphone,2024-01-31,7,2024-03-20,21.3,0,0.0,0.0,429.23,1,synthetic,collapse
+P021,Samsung Galaxy S24,Smartphone,2024-01-31,8,2024-03-27,16.1,2,82.0,16.0,429.79,0,synthetic,collapse
+P021,Samsung Galaxy S24,Smartphone,2024-01-31,9,2024-04-03,7.0,1,28.0,4.0,424.12,1,synthetic,collapse
+P021,Samsung Galaxy S24,Smartphone,2024-01-31,10,2024-04-10,7.4,1,15.0,4.0,417.55,1,synthetic,collapse
+P021,Samsung Galaxy S24,Smartphone,2024-01-31,11,2024-04-17,11.3,0,0.0,0.0,424.83,1,synthetic,collapse
+P021,Samsung Galaxy S24,Smartphone,2024-01-31,12,2024-04-24,8.4,0,0.0,0.0,419.88,1,synthetic,collapse
+P021,Samsung Galaxy S24,Smartphone,2024-01-31,13,2024-05-01,8.5,1,26.0,2.0,413.76,1,synthetic,collapse
+P021,Samsung Galaxy S24,Smartphone,2024-01-31,14,2024-05-08,11.8,0,0.0,0.0,415.27,1,synthetic,collapse
+P021,Samsung Galaxy S24,Smartphone,2024-01-31,15,2024-05-15,2.5,0,0.0,0.0,412.91,1,synthetic,collapse
+P021,Samsung Galaxy S24,Smartphone,2024-01-31,16,2024-05-22,6.0,0,0.0,0.0,408.02,1,synthetic,collapse
+P021,Samsung Galaxy S24,Smartphone,2024-01-31,17,2024-05-29,7.5,1,17.0,10.0,411.81,1,synthetic,collapse
+P021,Samsung Galaxy S24,Smartphone,2024-01-31,18,2024-06-05,3.8,0,0.0,0.0,407.69,1,synthetic,collapse
+P021,Samsung Galaxy S24,Smartphone,2024-01-31,19,2024-06-12,12.3,0,0.0,0.0,405.51,0,synthetic,collapse
+P021,Samsung Galaxy S24,Smartphone,2024-01-31,20,2024-06-19,10.1,0,0.0,0.0,401.68,1,synthetic,collapse
+P021,Samsung Galaxy S24,Smartphone,2024-01-31,21,2024-06-26,7.6,0,0.0,0.0,407.49,1,synthetic,collapse
+P021,Samsung Galaxy S24,Smartphone,2024-01-31,22,2024-07-03,13.6,2,35.0,13.0,411.69,1,synthetic,collapse
+P021,Samsung Galaxy S24,Smartphone,2024-01-31,23,2024-07-10,0.4,0,0.0,0.0,405.21,1,synthetic,collapse
+P021,Samsung Galaxy S24,Smartphone,2024-01-31,24,2024-07-17,6.3,0,0.0,0.0,420.73,1,synthetic,collapse
+P021,Samsung Galaxy S24,Smartphone,2024-01-31,25,2024-07-24,7.8,0,0.0,0.0,412.51,1,synthetic,collapse
+P022,Apple Vision Pro,AI/AR Hardware,2024-02-02,0,2024-02-02,59.3,58,2306.0,330.0,500.08,0,synthetic,collapse
+P022,Apple Vision Pro,AI/AR Hardware,2024-02-02,1,2024-02-09,98.7,117,1166.0,606.0,476.63,0,synthetic,collapse
+P022,Apple Vision Pro,AI/AR Hardware,2024-02-02,2,2024-02-16,75.5,70,2101.0,161.0,465.58,1,synthetic,collapse
+P022,Apple Vision Pro,AI/AR Hardware,2024-02-02,3,2024-02-23,65.0,45,1998.0,369.0,456.48,1,synthetic,collapse
+P022,Apple Vision Pro,AI/AR Hardware,2024-02-02,4,2024-03-01,49.8,31,857.0,256.0,451.38,1,synthetic,collapse
+P022,Apple Vision Pro,AI/AR Hardware,2024-02-02,5,2024-03-08,40.6,17,639.0,46.0,451.76,1,synthetic,collapse
+P022,Apple Vision Pro,AI/AR Hardware,2024-02-02,6,2024-03-15,32.3,16,480.0,82.0,443.9,1,synthetic,collapse
+P022,Apple Vision Pro,AI/AR Hardware,2024-02-02,7,2024-03-22,36.3,11,406.0,118.0,438.65,1,synthetic,collapse
+P022,Apple Vision Pro,AI/AR Hardware,2024-02-02,8,2024-03-29,13.6,4,129.0,31.0,426.1,1,synthetic,collapse
+P022,Apple Vision Pro,AI/AR Hardware,2024-02-02,9,2024-04-05,17.2,7,235.0,42.0,425.57,1,synthetic,collapse
+P022,Apple Vision Pro,AI/AR Hardware,2024-02-02,10,2024-04-12,15.7,6,98.0,39.0,426.88,1,synthetic,collapse
+P022,Apple Vision Pro,AI/AR Hardware,2024-02-02,11,2024-04-19,10.3,2,70.0,8.0,419.9,0,synthetic,collapse
+P022,Apple Vision Pro,AI/AR Hardware,2024-02-02,12,2024-04-26,15.1,6,100.0,60.0,419.68,0,synthetic,collapse
+P022,Apple Vision Pro,AI/AR Hardware,2024-02-02,13,2024-05-03,13.3,3,132.0,33.0,421.63,1,synthetic,collapse
+P022,Apple Vision Pro,AI/AR Hardware,2024-02-02,14,2024-05-10,8.8,2,32.0,22.0,416.26,0,synthetic,collapse
+P022,Apple Vision Pro,AI/AR Hardware,2024-02-02,15,2024-05-17,7.0,0,0.0,0.0,417.98,1,synthetic,collapse
+P022,Apple Vision Pro,AI/AR Hardware,2024-02-02,16,2024-05-24,6.9,0,0.0,0.0,423.82,1,synthetic,collapse
+P022,Apple Vision Pro,AI/AR Hardware,2024-02-02,17,2024-05-31,6.4,1,16.0,3.0,414.2,1,synthetic,collapse
+P022,Apple Vision Pro,AI/AR Hardware,2024-02-02,18,2024-06-07,6.0,0,0.0,0.0,420.24,1,synthetic,collapse
+P022,Apple Vision Pro,AI/AR Hardware,2024-02-02,19,2024-06-14,5.2,1,34.0,5.0,416.59,1,synthetic,collapse
+P022,Apple Vision Pro,AI/AR Hardware,2024-02-02,20,2024-06-21,6.7,1,13.0,8.0,406.06,1,synthetic,collapse
+P022,Apple Vision Pro,AI/AR Hardware,2024-02-02,21,2024-06-28,8.5,1,13.0,3.0,407.48,1,synthetic,collapse
+P022,Apple Vision Pro,AI/AR Hardware,2024-02-02,22,2024-07-05,0.4,0,0.0,0.0,408.48,1,synthetic,collapse
+P022,Apple Vision Pro,AI/AR Hardware,2024-02-02,23,2024-07-12,1.0,0,0.0,0.0,408.1,1,synthetic,collapse
+P022,Apple Vision Pro,AI/AR Hardware,2024-02-02,24,2024-07-19,0.0,0,0.0,0.0,411.65,1,synthetic,collapse
+P022,Apple Vision Pro,AI/AR Hardware,2024-02-02,25,2024-07-26,8.5,0,0.0,0.0,414.94,1,synthetic,collapse
+P023,Bluesky,Consumer App,2024-02-06,0,2024-02-06,49.3,56,454.0,152.0,348.02,0,synthetic,collapse
+P023,Bluesky,Consumer App,2024-02-06,1,2024-02-13,100.0,130,4281.0,355.0,338.24,1,synthetic,collapse
+P023,Bluesky,Consumer App,2024-02-06,2,2024-02-20,74.0,91,910.0,592.0,332.32,1,synthetic,collapse
+P023,Bluesky,Consumer App,2024-02-06,3,2024-02-27,58.4,55,2202.0,244.0,328.0,1,synthetic,collapse
+P023,Bluesky,Consumer App,2024-02-06,4,2024-03-05,51.3,51,450.0,592.0,317.57,1,synthetic,collapse
+P023,Bluesky,Consumer App,2024-02-06,5,2024-03-12,40.7,35,966.0,388.0,313.09,0,synthetic,collapse
+P023,Bluesky,Consumer App,2024-02-06,6,2024-03-19,31.0,19,781.0,114.0,304.97,1,synthetic,collapse
+P023,Bluesky,Consumer App,2024-02-06,7,2024-03-26,25.4,11,321.0,71.0,299.47,1,synthetic,collapse
+P023,Bluesky,Consumer App,2024-02-06,8,2024-04-02,24.8,9,274.0,51.0,301.32,1,synthetic,collapse
+P023,Bluesky,Consumer App,2024-02-06,9,2024-04-09,19.9,5,166.0,11.0,297.03,1,synthetic,collapse
+P023,Bluesky,Consumer App,2024-02-06,10,2024-04-16,15.1,1,12.0,4.0,289.26,1,synthetic,collapse
+P023,Bluesky,Consumer App,2024-02-06,11,2024-04-23,16.7,8,263.0,25.0,291.34,1,synthetic,collapse
+P023,Bluesky,Consumer App,2024-02-06,12,2024-04-30,18.3,4,162.0,12.0,290.72,1,synthetic,collapse
+P023,Bluesky,Consumer App,2024-02-06,13,2024-05-07,15.4,1,44.0,7.0,287.99,1,synthetic,collapse
+P023,Bluesky,Consumer App,2024-02-06,14,2024-05-14,9.9,0,0.0,0.0,293.85,1,synthetic,collapse
+P023,Bluesky,Consumer App,2024-02-06,15,2024-05-21,19.1,5,103.0,15.0,289.51,1,synthetic,collapse
+P023,Bluesky,Consumer App,2024-02-06,16,2024-05-28,3.8,0,0.0,0.0,291.86,1,synthetic,collapse
+P023,Bluesky,Consumer App,2024-02-06,17,2024-06-04,7.8500000000000005,3,84.0,19.0,287.42,1,synthetic,collapse
+P023,Bluesky,Consumer App,2024-02-06,18,2024-06-11,11.9,1,17.0,3.0,286.29,1,synthetic,collapse
+P023,Bluesky,Consumer App,2024-02-06,19,2024-06-18,14.8,3,43.0,6.0,282.38,1,synthetic,collapse
+P023,Bluesky,Consumer App,2024-02-06,20,2024-06-25,16.4,0,0.0,0.0,285.28,1,synthetic,collapse
+P023,Bluesky,Consumer App,2024-02-06,21,2024-07-02,18.5,1,24.0,4.0,284.99,1,synthetic,collapse
+P023,Bluesky,Consumer App,2024-02-06,22,2024-07-09,11.1,0,0.0,0.0,280.02,1,synthetic,collapse
+P023,Bluesky,Consumer App,2024-02-06,23,2024-07-16,16.3,0,0.0,0.0,282.65,1,synthetic,collapse
+P023,Bluesky,Consumer App,2024-02-06,24,2024-07-23,14.7,2,19.0,12.0,283.21,1,synthetic,collapse
+P023,Bluesky,Consumer App,2024-02-06,25,2024-07-30,7.0,0,0.0,0.0,285.58,1,synthetic,collapse
+P024,Claude 3,AI Software,2024-03-04,0,2024-03-04,31.4,48,1679.0,308.0,501.39,0,synthetic,sustained
+P024,Claude 3,AI Software,2024-03-04,1,2024-03-11,62.5,92,1943.0,789.0,498.47,0,synthetic,sustained
+P024,Claude 3,AI Software,2024-03-04,2,2024-03-18,95.3,133,1868.0,833.0,504.72,1,synthetic,sustained
+P024,Claude 3,AI Software,2024-03-04,3,2024-03-25,93.6,146,2391.0,1360.0,499.59,0,synthetic,sustained
+P024,Claude 3,AI Software,2024-03-04,4,2024-04-01,91.5,119,4554.0,347.0,485.45,1,synthetic,sustained
+P024,Claude 3,AI Software,2024-03-04,5,2024-04-08,90.0,130,2327.0,1338.0,495.25,1,synthetic,sustained
+P024,Claude 3,AI Software,2024-03-04,6,2024-04-15,83.9,92,3373.0,371.0,494.86,1,synthetic,sustained
+P024,Claude 3,AI Software,2024-03-04,7,2024-04-22,79.3,119,2410.0,1361.0,490.67,1,synthetic,sustained
+P024,Claude 3,AI Software,2024-03-04,8,2024-04-29,75.6,121,1812.0,430.0,494.78,1,synthetic,sustained
+P024,Claude 3,AI Software,2024-03-04,9,2024-05-06,71.3,101,3525.0,332.0,488.7,1,synthetic,sustained
+P024,Claude 3,AI Software,2024-03-04,10,2024-05-13,74.7,91,2305.0,920.0,488.31,1,synthetic,sustained
+P024,Claude 3,AI Software,2024-03-04,11,2024-05-20,67.7,90,824.0,916.0,487.46,1,synthetic,sustained
+P024,Claude 3,AI Software,2024-03-04,12,2024-05-27,67.7,92,4003.0,863.0,474.65,1,synthetic,sustained
+P024,Claude 3,AI Software,2024-03-04,13,2024-06-03,68.4,94,1265.0,1090.0,485.69,1,synthetic,sustained
+P024,Claude 3,AI Software,2024-03-04,14,2024-06-10,63.0,90,1896.0,423.0,482.03,0,synthetic,sustained
+P024,Claude 3,AI Software,2024-03-04,15,2024-06-17,68.3,93,2068.0,954.0,478.83,1,synthetic,sustained
+P024,Claude 3,AI Software,2024-03-04,16,2024-06-24,68.4,78,2036.0,430.0,493.94,0,synthetic,sustained
+P024,Claude 3,AI Software,2024-03-04,17,2024-07-01,62.0,87,3224.0,641.0,488.39,1,synthetic,sustained
+P024,Claude 3,AI Software,2024-03-04,18,2024-07-08,61.3,69,567.0,445.0,485.17,0,synthetic,sustained
+P024,Claude 3,AI Software,2024-03-04,19,2024-07-15,64.1,98,4165.0,201.0,481.96,1,synthetic,sustained
+P024,Claude 3,AI Software,2024-03-04,20,2024-07-22,58.1,71,2265.0,549.0,486.9,1,synthetic,sustained
+P024,Claude 3,AI Software,2024-03-04,21,2024-07-29,56.9,71,3065.0,672.0,490.88,1,synthetic,sustained
+P024,Claude 3,AI Software,2024-03-04,22,2024-08-05,64.0,79,3021.0,295.0,480.24,0,synthetic,sustained
+P024,Claude 3,AI Software,2024-03-04,23,2024-08-12,61.9,74,3132.0,837.0,484.99,1,synthetic,sustained
+P024,Claude 3,AI Software,2024-03-04,24,2024-08-19,60.1,68,2056.0,496.0,490.03,1,synthetic,sustained
+P024,Claude 3,AI Software,2024-03-04,25,2024-08-26,60.7,66,1400.0,249.0,473.68,1,synthetic,sustained
+P025,Rivian R2,EV/Mobility,2024-03-07,0,2024-03-07,42.6,26,500.0,104.0,1010.84,1,synthetic,sustained
+P025,Rivian R2,EV/Mobility,2024-03-07,1,2024-03-14,100.0,50,1179.0,555.0,996.12,0,synthetic,sustained
+P025,Rivian R2,EV/Mobility,2024-03-07,2,2024-03-21,100.0,51,747.0,509.0,974.45,1,synthetic,sustained
+P025,Rivian R2,EV/Mobility,2024-03-07,3,2024-03-28,91.4,39,919.0,129.0,990.0,1,synthetic,sustained
+P025,Rivian R2,EV/Mobility,2024-03-07,4,2024-04-04,99.5,48,510.0,454.0,975.67,1,synthetic,sustained
+P025,Rivian R2,EV/Mobility,2024-03-07,5,2024-04-11,100.0,58,706.0,358.0,980.72,1,synthetic,sustained
+P025,Rivian R2,EV/Mobility,2024-03-07,6,2024-04-18,94.3,36,1178.0,77.0,963.99,0,synthetic,sustained
+P025,Rivian R2,EV/Mobility,2024-03-07,7,2024-04-25,89.6,39,690.0,284.0,967.01,1,synthetic,sustained
+P025,Rivian R2,EV/Mobility,2024-03-07,8,2024-05-02,97.5,46,1578.0,151.0,968.97,1,synthetic,sustained
+P025,Rivian R2,EV/Mobility,2024-03-07,9,2024-05-09,88.2,38,371.0,155.0,968.29,1,synthetic,sustained
+P025,Rivian R2,EV/Mobility,2024-03-07,10,2024-05-16,91.6,35,1008.0,313.0,969.78,0,synthetic,sustained
+P025,Rivian R2,EV/Mobility,2024-03-07,11,2024-05-23,91.5,36,809.0,164.0,956.24,0,synthetic,sustained
+P025,Rivian R2,EV/Mobility,2024-03-07,12,2024-05-30,93.9,26,974.0,283.0,946.47,1,synthetic,sustained
+P025,Rivian R2,EV/Mobility,2024-03-07,13,2024-06-06,87.9,44,1628.0,377.0,979.92,0,synthetic,sustained
+P025,Rivian R2,EV/Mobility,2024-03-07,14,2024-06-13,87.1,35,766.0,361.0,989.21,0,synthetic,sustained
+P025,Rivian R2,EV/Mobility,2024-03-07,15,2024-06-20,89.94999999999999,36,1117.0,293.0,965.12,1,synthetic,sustained
+P025,Rivian R2,EV/Mobility,2024-03-07,16,2024-06-27,92.8,40,656.0,427.0,944.26,1,synthetic,sustained
+P025,Rivian R2,EV/Mobility,2024-03-07,17,2024-07-04,97.5,41,1208.0,230.0,950.21,1,synthetic,sustained
+P025,Rivian R2,EV/Mobility,2024-03-07,18,2024-07-11,81.8,34,374.0,254.0,964.65,1,synthetic,sustained
+P025,Rivian R2,EV/Mobility,2024-03-07,19,2024-07-18,88.7,29,698.0,207.0,973.95,1,synthetic,sustained
+P025,Rivian R2,EV/Mobility,2024-03-07,20,2024-07-25,82.6,38,560.0,419.0,944.35,1,synthetic,sustained
+P025,Rivian R2,EV/Mobility,2024-03-07,21,2024-08-01,90.6,23,935.0,83.0,956.68,1,synthetic,sustained
+P025,Rivian R2,EV/Mobility,2024-03-07,22,2024-08-08,82.4,28,684.0,217.0,960.2,1,synthetic,sustained
+P025,Rivian R2,EV/Mobility,2024-03-07,23,2024-08-15,83.1,33,985.0,314.0,967.76,1,synthetic,sustained
+P025,Rivian R2,EV/Mobility,2024-03-07,24,2024-08-22,83.1,33,704.0,188.0,953.76,1,synthetic,sustained
+P025,Rivian R2,EV/Mobility,2024-03-07,25,2024-08-29,84.9,37,691.0,395.0,939.65,1,synthetic,sustained
+P026,Devin AI,AI Software,2024-03-12,0,2024-03-12,44.1,67,1158.0,322.0,997.74,0,synthetic,ambiguous
+P026,Devin AI,AI Software,2024-03-12,1,2024-03-19,58.9,93,893.0,475.0,987.11,0,synthetic,ambiguous
+P026,Devin AI,AI Software,2024-03-12,2,2024-03-26,72.25,122,4680.0,516.0,988.0,1,synthetic,ambiguous
+P026,Devin AI,AI Software,2024-03-12,3,2024-04-02,85.6,103,3039.0,1014.0,971.17,1,synthetic,ambiguous
+P026,Devin AI,AI Software,2024-03-12,4,2024-04-09,64.9,73,1971.0,846.0,955.81,1,synthetic,ambiguous
+P026,Devin AI,AI Software,2024-03-12,5,2024-04-16,67.0,75,2138.0,519.0,962.44,1,synthetic,ambiguous
+P026,Devin AI,AI Software,2024-03-12,6,2024-04-23,62.7,70,1213.0,169.0,973.0,1,synthetic,ambiguous
+P026,Devin AI,AI Software,2024-03-12,7,2024-04-30,53.9,56,1694.0,257.0,943.18,1,synthetic,ambiguous
+P026,Devin AI,AI Software,2024-03-12,8,2024-05-07,50.3,33,301.0,118.0,937.03,1,synthetic,ambiguous
+P026,Devin AI,AI Software,2024-03-12,9,2024-05-14,42.7,40,1276.0,417.0,934.39,1,synthetic,ambiguous
+P026,Devin AI,AI Software,2024-03-12,10,2024-05-21,34.1,33,1160.0,94.0,944.4,1,synthetic,ambiguous
+P026,Devin AI,AI Software,2024-03-12,11,2024-05-28,42.1,27,888.0,314.0,920.85,1,synthetic,ambiguous
+P026,Devin AI,AI Software,2024-03-12,12,2024-06-04,44.5,32,649.0,252.0,922.55,1,synthetic,ambiguous
+P026,Devin AI,AI Software,2024-03-12,13,2024-06-11,40.6,36,1388.0,258.0,907.01,0,synthetic,ambiguous
+P026,Devin AI,AI Software,2024-03-12,14,2024-06-18,27.0,14,482.0,146.0,909.64,1,synthetic,ambiguous
+P026,Devin AI,AI Software,2024-03-12,15,2024-06-25,28.0,14,178.0,31.0,915.92,1,synthetic,ambiguous
+P026,Devin AI,AI Software,2024-03-12,16,2024-07-02,30.0,17,258.0,166.0,920.11,1,synthetic,ambiguous
+P026,Devin AI,AI Software,2024-03-12,17,2024-07-09,26.5,21,663.0,66.0,939.49,1,synthetic,ambiguous
+P026,Devin AI,AI Software,2024-03-12,18,2024-07-16,32.6,18,336.0,187.0,925.23,1,synthetic,ambiguous
+P026,Devin AI,AI Software,2024-03-12,19,2024-07-23,33.6,23,285.0,167.0,908.73,1,synthetic,ambiguous
+P026,Devin AI,AI Software,2024-03-12,20,2024-07-30,26.0,16,219.0,41.0,910.32,1,synthetic,ambiguous
+P026,Devin AI,AI Software,2024-03-12,21,2024-08-06,34.6,17,240.0,175.0,933.11,1,synthetic,ambiguous
+P026,Devin AI,AI Software,2024-03-12,22,2024-08-13,33.8,18,462.0,40.0,930.06,0,synthetic,ambiguous
+P026,Devin AI,AI Software,2024-03-12,23,2024-08-20,29.0,18,548.0,60.0,917.7,1,synthetic,ambiguous
+P026,Devin AI,AI Software,2024-03-12,24,2024-08-27,30.4,14,203.0,139.0,912.31,1,synthetic,ambiguous
+P026,Devin AI,AI Software,2024-03-12,25,2024-09-03,23.2,18,618.0,119.0,929.37,1,synthetic,ambiguous
+P027,Humane AI Pin,AI/AR Hardware,2024-04-11,0,2024-04-11,38.8,57,1492.0,262.0,198.25,0,synthetic,sustained
+P027,Humane AI Pin,AI/AR Hardware,2024-04-11,1,2024-04-18,99.1,192,3251.0,1436.97,195.6,1,synthetic,sustained
+P027,Humane AI Pin,AI/AR Hardware,2024-04-11,2,2024-04-25,96.8,159,3322.0,972.0,193.49,1,synthetic,sustained
+P027,Humane AI Pin,AI/AR Hardware,2024-04-11,3,2024-05-02,99.1,149,5109.6700000000055,1434.0,196.72,1,synthetic,sustained
+P027,Humane AI Pin,AI/AR Hardware,2024-04-11,4,2024-05-09,94.0,178,1861.0,1044.0,199.33,1,synthetic,sustained
+P027,Humane AI Pin,AI/AR Hardware,2024-04-11,5,2024-05-16,96.9,150,1846.0,497.0,195.48,1,synthetic,sustained
+P027,Humane AI Pin,AI/AR Hardware,2024-04-11,6,2024-05-23,95.9,157,4835.0,1436.97,191.33,1,synthetic,sustained
+P027,Humane AI Pin,AI/AR Hardware,2024-04-11,7,2024-05-30,93.9,156,4751.0,312.0,194.7,1,synthetic,sustained
+P027,Humane AI Pin,AI/AR Hardware,2024-04-11,8,2024-06-06,92.4,148,5109.6700000000055,378.0,193.74,1,synthetic,sustained
+P027,Humane AI Pin,AI/AR Hardware,2024-04-11,9,2024-06-13,82.0,126,2754.0,711.0,195.61,1,synthetic,sustained
+P027,Humane AI Pin,AI/AR Hardware,2024-04-11,10,2024-06-20,86.7,139,1446.0,1232.0,194.79,1,synthetic,sustained
+P027,Humane AI Pin,AI/AR Hardware,2024-04-11,11,2024-06-27,81.1,146,4071.0,790.0,186.28,1,synthetic,sustained
+P027,Humane AI Pin,AI/AR Hardware,2024-04-11,12,2024-07-04,75.7,87,2750.0,231.0,194.31,1,synthetic,sustained
+P027,Humane AI Pin,AI/AR Hardware,2024-04-11,13,2024-07-11,80.0,115,1514.0,595.0,190.59,1,synthetic,sustained
+P027,Humane AI Pin,AI/AR Hardware,2024-04-11,14,2024-07-18,85.3,143,4069.0,636.0,189.52,1,synthetic,sustained
+P027,Humane AI Pin,AI/AR Hardware,2024-04-11,15,2024-07-25,80.8,118,1807.0,242.0,192.28,1,synthetic,sustained
+P027,Humane AI Pin,AI/AR Hardware,2024-04-11,16,2024-08-01,86.1,133,5109.6700000000055,977.0,193.6,0,synthetic,sustained
+P027,Humane AI Pin,AI/AR Hardware,2024-04-11,17,2024-08-08,86.05,125,4862.0,395.0,188.79,1,synthetic,sustained
+P027,Humane AI Pin,AI/AR Hardware,2024-04-11,18,2024-08-15,86.0,131,3130.0,638.0,194.16,1,synthetic,sustained
+P027,Humane AI Pin,AI/AR Hardware,2024-04-11,19,2024-08-22,80.3,141,5109.6700000000055,1186.0,194.25,1,synthetic,sustained
+P027,Humane AI Pin,AI/AR Hardware,2024-04-11,20,2024-08-29,74.6,131,5109.6700000000055,1211.0,192.56,1,synthetic,sustained
+P027,Humane AI Pin,AI/AR Hardware,2024-04-11,21,2024-09-05,68.7,114,1457.0,528.0,190.42,1,synthetic,sustained
+P027,Humane AI Pin,AI/AR Hardware,2024-04-11,22,2024-09-12,77.5,104,2246.0,550.0,190.14,1,synthetic,sustained
+P027,Humane AI Pin,AI/AR Hardware,2024-04-11,23,2024-09-19,70.4,103,3111.0,460.0,194.74,1,synthetic,sustained
+P027,Humane AI Pin,AI/AR Hardware,2024-04-11,24,2024-09-26,69.2,113,1258.0,1307.0,188.87,1,synthetic,sustained
+P027,Humane AI Pin,AI/AR Hardware,2024-04-11,25,2024-10-03,76.3,105,2326.0,410.0,194.8,1,synthetic,sustained
+P028,Clubhouse-style Audio,Consumer App,2024-04-15,0,2024-04-15,100.0,142,3793.0,1436.97,353.3,1,synthetic,sustained
+P028,Clubhouse-style Audio,Consumer App,2024-04-15,1,2024-04-22,86.6,123,3402.0,1329.0,344.14,1,synthetic,sustained
+P028,Clubhouse-style Audio,Consumer App,2024-04-15,2,2024-04-29,100.0,163,5109.6700000000055,1062.0,342.24,0,synthetic,sustained
+P028,Clubhouse-style Audio,Consumer App,2024-04-15,3,2024-05-06,98.65,105,2738.0,508.0,348.24,1,synthetic,sustained
+P028,Clubhouse-style Audio,Consumer App,2024-04-15,4,2024-05-13,97.3,120,3625.0,1005.0,345.99,1,synthetic,sustained
+P028,Clubhouse-style Audio,Consumer App,2024-04-15,5,2024-05-20,81.1,92,1521.0,1062.0,341.66,0,synthetic,sustained
+P028,Clubhouse-style Audio,Consumer App,2024-04-15,6,2024-05-27,81.7,109,2398.0,1010.0,342.99,1,synthetic,sustained
+P028,Clubhouse-style Audio,Consumer App,2024-04-15,7,2024-06-03,74.3,102,4081.0,708.0,337.94,0,synthetic,sustained
+P028,Clubhouse-style Audio,Consumer App,2024-04-15,8,2024-06-10,82.8,109,1315.0,968.0,338.43,1,synthetic,sustained
+P028,Clubhouse-style Audio,Consumer App,2024-04-15,9,2024-06-17,75.4,80,2408.0,778.0,335.24,1,synthetic,sustained
+P028,Clubhouse-style Audio,Consumer App,2024-04-15,10,2024-06-24,74.1,54,800.0,604.0,341.14,1,synthetic,sustained
+P028,Clubhouse-style Audio,Consumer App,2024-04-15,11,2024-07-01,71.6,87,3421.0,837.0,334.3,1,synthetic,sustained
+P028,Clubhouse-style Audio,Consumer App,2024-04-15,12,2024-07-08,79.0,92,2707.0,582.0,342.79,1,synthetic,sustained
+P028,Clubhouse-style Audio,Consumer App,2024-04-15,13,2024-07-15,77.6,79,1810.0,374.0,335.25,1,synthetic,sustained
+P028,Clubhouse-style Audio,Consumer App,2024-04-15,14,2024-07-22,81.0,72,1241.0,503.0,336.39,1,synthetic,sustained
+P028,Clubhouse-style Audio,Consumer App,2024-04-15,15,2024-07-29,70.1,77,1860.0,406.0,339.18,0,synthetic,sustained
+P028,Clubhouse-style Audio,Consumer App,2024-04-15,16,2024-08-05,72.8,90,3908.0,1028.0,336.07,1,synthetic,sustained
+P028,Clubhouse-style Audio,Consumer App,2024-04-15,17,2024-08-12,66.0,77,2066.0,545.0,334.64,1,synthetic,sustained
+P028,Clubhouse-style Audio,Consumer App,2024-04-15,18,2024-08-19,69.1,76,1928.0,510.0,335.62,1,synthetic,sustained
+P028,Clubhouse-style Audio,Consumer App,2024-04-15,19,2024-08-26,67.7,94,3347.0,515.0,339.25,1,synthetic,sustained
+P028,Clubhouse-style Audio,Consumer App,2024-04-15,20,2024-09-02,71.0,73,1607.0,612.0,332.9,0,synthetic,sustained
+P028,Clubhouse-style Audio,Consumer App,2024-04-15,21,2024-09-09,72.6,65,1547.0,468.0,335.0,1,synthetic,sustained
+P028,Clubhouse-style Audio,Consumer App,2024-04-15,22,2024-09-16,72.0,60,1228.0,197.0,335.5,1,synthetic,sustained
+P028,Clubhouse-style Audio,Consumer App,2024-04-15,23,2024-09-23,64.2,75,1018.0,801.0,338.9,1,synthetic,sustained
+P028,Clubhouse-style Audio,Consumer App,2024-04-15,24,2024-09-30,71.1,77,2649.0,430.0,334.98,1,synthetic,sustained
+P028,Clubhouse-style Audio,Consumer App,2024-04-15,25,2024-10-07,66.6,57,2297.0,360.0,342.63,1,synthetic,sustained
+P029,Ai Pin Successor,AI/AR Hardware,2024-04-16,0,2024-04-16,95.4,186,4109.0,1436.97,1321.13,0,synthetic,sustained
+P029,Ai Pin Successor,AI/AR Hardware,2024-04-16,1,2024-04-23,89.5,159,5109.6700000000055,1436.97,1304.36,0,synthetic,sustained
+P029,Ai Pin Successor,AI/AR Hardware,2024-04-16,2,2024-04-30,89.1,154,2055.0,582.0,1294.08,1,synthetic,sustained
+P029,Ai Pin Successor,AI/AR Hardware,2024-04-16,3,2024-05-07,91.9,135,5109.6700000000055,916.0,1307.78,0,synthetic,sustained
+P029,Ai Pin Successor,AI/AR Hardware,2024-04-16,4,2024-05-14,93.0,147,2425.0,672.0,1284.83,1,synthetic,sustained
+P029,Ai Pin Successor,AI/AR Hardware,2024-04-16,5,2024-05-21,84.5,135,3340.0,274.0,1284.75,1,synthetic,sustained
+P029,Ai Pin Successor,AI/AR Hardware,2024-04-16,6,2024-05-28,91.0,133,2799.0,1436.97,1309.07,1,synthetic,sustained
+P029,Ai Pin Successor,AI/AR Hardware,2024-04-16,7,2024-06-04,79.9,135,1670.0,1436.0,1306.12,0,synthetic,sustained
+P029,Ai Pin Successor,AI/AR Hardware,2024-04-16,8,2024-06-11,80.0,121,5109.6700000000055,863.0,1279.89,1,synthetic,sustained
+P029,Ai Pin Successor,AI/AR Hardware,2024-04-16,9,2024-06-18,74.9,97,2348.0,440.0,1272.09,1,synthetic,sustained
+P029,Ai Pin Successor,AI/AR Hardware,2024-04-16,10,2024-06-25,81.6,127,4259.0,1134.0,1300.68,1,synthetic,sustained
+P029,Ai Pin Successor,AI/AR Hardware,2024-04-16,11,2024-07-02,84.6,120,3514.0,761.0,1289.83,1,synthetic,sustained
+P029,Ai Pin Successor,AI/AR Hardware,2024-04-16,12,2024-07-09,67.8,101,2682.0,1013.0,1281.83,0,synthetic,sustained
+P029,Ai Pin Successor,AI/AR Hardware,2024-04-16,13,2024-07-16,72.2,96,2958.0,1151.0,1271.59,0,synthetic,sustained
+P029,Ai Pin Successor,AI/AR Hardware,2024-04-16,14,2024-07-23,77.5,107,4412.0,587.0,1281.21,0,synthetic,sustained
+P029,Ai Pin Successor,AI/AR Hardware,2024-04-16,15,2024-07-30,65.5,82,2777.0,364.0,1275.47,1,synthetic,sustained
+P029,Ai Pin Successor,AI/AR Hardware,2024-04-16,16,2024-08-06,72.6,83,2299.0,387.0,1265.35,1,synthetic,sustained
+P029,Ai Pin Successor,AI/AR Hardware,2024-04-16,17,2024-08-13,74.3,79,2517.0,231.0,1277.27,1,synthetic,sustained
+P029,Ai Pin Successor,AI/AR Hardware,2024-04-16,18,2024-08-20,72.1,83,2526.0,493.0,1279.16,1,synthetic,sustained
+P029,Ai Pin Successor,AI/AR Hardware,2024-04-16,19,2024-08-27,69.9,97,2330.0,210.0,1269.2,1,synthetic,sustained
+P029,Ai Pin Successor,AI/AR Hardware,2024-04-16,20,2024-09-03,74.0,101,3142.0,317.0,1288.63,1,synthetic,sustained
+P029,Ai Pin Successor,AI/AR Hardware,2024-04-16,21,2024-09-10,74.0,112,2734.0,528.0,1294.41,1,synthetic,sustained
+P029,Ai Pin Successor,AI/AR Hardware,2024-04-16,22,2024-09-17,65.4,89,3206.0,320.0,1289.44,1,synthetic,sustained
+P029,Ai Pin Successor,AI/AR Hardware,2024-04-16,23,2024-09-24,62.9,78,3420.0,727.0,1270.3,1,synthetic,sustained
+P029,Ai Pin Successor,AI/AR Hardware,2024-04-16,24,2024-10-01,60.8,74,3220.0,226.0,1286.02,1,synthetic,sustained
+P029,Ai Pin Successor,AI/AR Hardware,2024-04-16,25,2024-10-08,67.8,74,2839.0,788.0,1275.59,1,synthetic,sustained
+P030,Llama 3,AI Software,2024-04-18,0,2024-04-18,100.0,92,1382.0,214.0,3573.44,1,synthetic,ambiguous
+P030,Llama 3,AI Software,2024-04-18,1,2024-04-25,91.9,79,2256.0,611.0,3496.04,1,synthetic,ambiguous
+P030,Llama 3,AI Software,2024-04-18,2,2024-05-02,79.9,64,886.0,485.0,3386.38,1,synthetic,ambiguous
+P030,Llama 3,AI Software,2024-04-18,3,2024-05-09,75.4,64,1476.0,137.0,3373.33,1,synthetic,ambiguous
+P030,Llama 3,AI Software,2024-04-18,4,2024-05-16,54.2,45,1465.0,477.0,3398.15,1,synthetic,ambiguous
+P030,Llama 3,AI Software,2024-04-18,5,2024-05-23,56.8,46,1207.0,377.0,3390.35,1,synthetic,ambiguous
+P030,Llama 3,AI Software,2024-04-18,6,2024-05-30,52.1,39,859.0,368.0,3320.21,1,synthetic,ambiguous
+P030,Llama 3,AI Software,2024-04-18,7,2024-06-06,54.1,35,1426.0,242.0,3414.3,1,synthetic,ambiguous
+P030,Llama 3,AI Software,2024-04-18,8,2024-06-13,52.6,20,731.0,163.0,3329.39,1,synthetic,ambiguous
+P030,Llama 3,AI Software,2024-04-18,9,2024-06-20,37.9,14,384.0,64.0,3427.27,1,synthetic,ambiguous
+P030,Llama 3,AI Software,2024-04-18,10,2024-06-27,47.1,27,1165.0,316.0,3435.01,1,synthetic,ambiguous
+P030,Llama 3,AI Software,2024-04-18,11,2024-07-04,35.0,18,426.0,108.0,3347.09,1,synthetic,ambiguous
+P030,Llama 3,AI Software,2024-04-18,12,2024-07-11,33.6,16,594.0,57.0,3371.01,1,synthetic,ambiguous
+P030,Llama 3,AI Software,2024-04-18,13,2024-07-18,36.0,16,227.0,40.0,3300.69,1,synthetic,ambiguous
+P030,Llama 3,AI Software,2024-04-18,14,2024-07-25,34.6,23,427.0,192.0,3372.66,1,synthetic,ambiguous
+P030,Llama 3,AI Software,2024-04-18,15,2024-08-01,28.8,11,225.0,130.0,3325.42,1,synthetic,ambiguous
+P030,Llama 3,AI Software,2024-04-18,16,2024-08-08,36.9,21,250.0,230.0,3299.97,1,synthetic,ambiguous
+P030,Llama 3,AI Software,2024-04-18,17,2024-08-15,36.4,20,531.0,180.0,3330.47,1,synthetic,ambiguous
+P030,Llama 3,AI Software,2024-04-18,18,2024-08-22,37.4,14,211.0,166.0,3322.13,1,synthetic,ambiguous
+P030,Llama 3,AI Software,2024-04-18,19,2024-08-29,31.1,13,409.0,119.0,3326.71,1,synthetic,ambiguous
+P030,Llama 3,AI Software,2024-04-18,20,2024-09-05,32.3,12,180.0,64.0,3376.9,1,synthetic,ambiguous
+P030,Llama 3,AI Software,2024-04-18,21,2024-09-12,32.1,12,150.0,96.0,3306.66,1,synthetic,ambiguous
+P030,Llama 3,AI Software,2024-04-18,22,2024-09-19,38.7,14,613.0,39.0,3406.98,0,synthetic,ambiguous
+P030,Llama 3,AI Software,2024-04-18,23,2024-09-26,20.4,10,323.0,42.0,3283.92,1,synthetic,ambiguous
+P030,Llama 3,AI Software,2024-04-18,24,2024-10-03,27.8,12,511.0,74.0,3401.22,1,synthetic,ambiguous
+P030,Llama 3,AI Software,2024-04-18,25,2024-10-10,31.5,13,339.0,52.0,3295.49,1,synthetic,ambiguous
+P031,Rabbit R1,AI/AR Hardware,2024-04-24,0,2024-04-24,51.0,21,247.0,99.0,1289.76,1,synthetic,collapse
+P031,Rabbit R1,AI/AR Hardware,2024-04-24,1,2024-05-01,73.3,22,777.0,57.0,1261.04,0,synthetic,collapse
+P031,Rabbit R1,AI/AR Hardware,2024-04-24,2,2024-05-08,97.5,42,1714.0,242.0,1241.53,1,synthetic,collapse
+P031,Rabbit R1,AI/AR Hardware,2024-04-24,3,2024-05-15,87.2,34,1437.0,343.0,1153.8,1,synthetic,collapse
+P031,Rabbit R1,AI/AR Hardware,2024-04-24,4,2024-05-22,63.8,23,745.0,211.0,1137.09,1,synthetic,collapse
+P031,Rabbit R1,AI/AR Hardware,2024-04-24,5,2024-05-29,59.0,16,244.0,183.0,1122.02,1,synthetic,collapse
+P031,Rabbit R1,AI/AR Hardware,2024-04-24,6,2024-06-05,37.0,11,122.0,68.0,1100.07,1,synthetic,collapse
+P031,Rabbit R1,AI/AR Hardware,2024-04-24,7,2024-06-12,37.5,1,16.0,9.0,1084.87,0,synthetic,collapse
+P031,Rabbit R1,AI/AR Hardware,2024-04-24,8,2024-06-19,38.1,10,435.0,86.0,1058.71,1,synthetic,collapse
+P031,Rabbit R1,AI/AR Hardware,2024-04-24,9,2024-06-26,25.6,6,261.0,25.0,1082.04,1,synthetic,collapse
+P031,Rabbit R1,AI/AR Hardware,2024-04-24,10,2024-07-03,21.1,0,0.0,0.0,1036.56,1,synthetic,collapse
+P031,Rabbit R1,AI/AR Hardware,2024-04-24,11,2024-07-10,15.0,1,20.0,7.0,1044.08,1,synthetic,collapse
+P031,Rabbit R1,AI/AR Hardware,2024-04-24,12,2024-07-17,22.0,1,26.0,9.0,1052.98,1,synthetic,collapse
+P031,Rabbit R1,AI/AR Hardware,2024-04-24,13,2024-07-24,13.0,1,18.0,6.0,1033.99,1,synthetic,collapse
+P031,Rabbit R1,AI/AR Hardware,2024-04-24,14,2024-07-31,14.6,2,88.0,8.0,1017.62,1,synthetic,collapse
+P031,Rabbit R1,AI/AR Hardware,2024-04-24,15,2024-08-07,9.1,0,0.0,0.0,1009.24,1,synthetic,collapse
+P031,Rabbit R1,AI/AR Hardware,2024-04-24,16,2024-08-14,19.6,3,64.0,9.0,1019.77,1,synthetic,collapse
+P031,Rabbit R1,AI/AR Hardware,2024-04-24,17,2024-08-21,17.4,1,23.0,11.0,1010.62,1,synthetic,collapse
+P031,Rabbit R1,AI/AR Hardware,2024-04-24,18,2024-08-28,12.2,1,12.0,10.0,1020.13,1,synthetic,collapse
+P031,Rabbit R1,AI/AR Hardware,2024-04-24,19,2024-09-04,7.4,0,0.0,0.0,998.66,1,synthetic,collapse
+P031,Rabbit R1,AI/AR Hardware,2024-04-24,20,2024-09-11,17.9,2,79.0,19.0,1024.05,1,synthetic,collapse
+P031,Rabbit R1,AI/AR Hardware,2024-04-24,21,2024-09-18,10.1,0,0.0,0.0,1014.25,1,synthetic,collapse
+P031,Rabbit R1,AI/AR Hardware,2024-04-24,22,2024-09-25,7.0,0,0.0,0.0,1014.05,1,synthetic,collapse
+P031,Rabbit R1,AI/AR Hardware,2024-04-24,23,2024-10-02,4.3,0,0.0,0.0,1028.3,1,synthetic,collapse
+P031,Rabbit R1,AI/AR Hardware,2024-04-24,24,2024-10-09,8.7,0,0.0,0.0,1004.75,1,synthetic,collapse
+P031,Rabbit R1,AI/AR Hardware,2024-04-24,25,2024-10-16,5.4,0,0.0,0.0,1000.62,1,synthetic,collapse
+P032,GPT-4o,AI Software,2024-05-13,0,2024-05-13,95.8,74,1666.0,798.0,1292.07,1,synthetic,collapse
+P032,GPT-4o,AI Software,2024-05-13,1,2024-05-20,82.0,55,1776.0,372.0,1258.44,0,synthetic,collapse
+P032,GPT-4o,AI Software,2024-05-13,2,2024-05-27,68.9,24,735.0,175.0,1225.27,1,synthetic,collapse
+P032,GPT-4o,AI Software,2024-05-13,3,2024-06-03,49.5,25,884.0,163.0,1174.94,1,synthetic,collapse
+P032,GPT-4o,AI Software,2024-05-13,4,2024-06-10,42.4,21,726.0,57.0,1168.8,1,synthetic,collapse
+P032,GPT-4o,AI Software,2024-05-13,5,2024-06-17,35.6,13,145.0,128.0,1131.3,1,synthetic,collapse
+P032,GPT-4o,AI Software,2024-05-13,6,2024-06-24,31.6,6,83.0,19.0,1102.45,1,synthetic,collapse
+P032,GPT-4o,AI Software,2024-05-13,7,2024-07-01,29.15,4,51.0,23.0,1086.03,1,synthetic,collapse
+P032,GPT-4o,AI Software,2024-05-13,8,2024-07-08,26.7,5,212.0,29.0,1070.42,1,synthetic,collapse
+P032,GPT-4o,AI Software,2024-05-13,9,2024-07-15,14.4,3,125.0,14.0,1041.01,1,synthetic,collapse
+P032,GPT-4o,AI Software,2024-05-13,10,2024-07-22,14.7,3,112.0,18.0,1045.9,1,synthetic,collapse
+P032,GPT-4o,AI Software,2024-05-13,11,2024-07-29,15.0,3,36.0,24.0,1041.57,1,synthetic,collapse
+P032,GPT-4o,AI Software,2024-05-13,12,2024-08-05,14.1,3,87.0,15.0,1026.8,1,synthetic,collapse
+P032,GPT-4o,AI Software,2024-05-13,13,2024-08-12,7.7,1,14.0,3.0,1030.37,1,synthetic,collapse
+P032,GPT-4o,AI Software,2024-05-13,14,2024-08-19,10.1,2,43.0,21.0,1021.69,1,synthetic,collapse
+P032,GPT-4o,AI Software,2024-05-13,15,2024-08-26,10.1,1,17.0,11.0,1026.87,1,synthetic,collapse
+P032,GPT-4o,AI Software,2024-05-13,16,2024-09-02,9.5,1,38.0,6.0,1022.15,1,synthetic,collapse
+P032,GPT-4o,AI Software,2024-05-13,17,2024-09-09,11.2,1,13.0,5.0,1013.32,1,synthetic,collapse
+P032,GPT-4o,AI Software,2024-05-13,18,2024-09-16,7.5,2,63.0,4.0,992.41,1,synthetic,collapse
+P032,GPT-4o,AI Software,2024-05-13,19,2024-09-23,15.8,0,0.0,0.0,1028.65,1,synthetic,collapse
+P032,GPT-4o,AI Software,2024-05-13,20,2024-09-30,11.5,1,33.0,5.0,1003.67,1,synthetic,collapse
+P032,GPT-4o,AI Software,2024-05-13,21,2024-10-07,6.2,0,0.0,0.0,1003.05,1,synthetic,collapse
+P032,GPT-4o,AI Software,2024-05-13,22,2024-10-14,9.6,2,83.0,18.0,998.77,1,synthetic,collapse
+P032,GPT-4o,AI Software,2024-05-13,23,2024-10-21,9.6,2,63.0,10.0,996.07,1,synthetic,collapse
+P032,GPT-4o,AI Software,2024-05-13,24,2024-10-28,8.05,0,0.0,0.0,1019.7,1,synthetic,collapse
+P032,GPT-4o,AI Software,2024-05-13,25,2024-11-04,6.5,1,32.0,6.0,1017.13,1,synthetic,collapse
+P033,Surface Laptop 7,Computing,2024-06-18,0,2024-06-18,100.0,175,5109.6700000000055,502.0,982.45,0,synthetic,sustained
+P033,Surface Laptop 7,Computing,2024-06-18,1,2024-06-25,100.0,144,5109.6700000000055,851.0,987.41,1,synthetic,sustained
+P033,Surface Laptop 7,Computing,2024-06-18,2,2024-07-02,100.0,162,5109.6700000000055,397.0,994.54,0,synthetic,sustained
+P033,Surface Laptop 7,Computing,2024-06-18,3,2024-07-09,95.2,142,4401.0,757.0,987.55,1,synthetic,sustained
+P033,Surface Laptop 7,Computing,2024-06-18,4,2024-07-16,100.0,151,4468.0,1436.97,982.87,1,synthetic,sustained
+P033,Surface Laptop 7,Computing,2024-06-18,5,2024-07-23,91.0,130,3941.0,919.0,972.7,1,synthetic,sustained
+P033,Surface Laptop 7,Computing,2024-06-18,6,2024-07-30,95.3,145,4084.0,1436.97,978.53,1,synthetic,sustained
+P033,Surface Laptop 7,Computing,2024-06-18,7,2024-08-06,85.9,128,1305.0,421.0,991.17,1,synthetic,sustained
+P033,Surface Laptop 7,Computing,2024-06-18,8,2024-08-13,90.3,143,4838.0,669.0,993.09,1,synthetic,sustained
+P033,Surface Laptop 7,Computing,2024-06-18,9,2024-08-20,78.2,118,4071.0,1352.0,984.21,1,synthetic,sustained
+P033,Surface Laptop 7,Computing,2024-06-18,10,2024-08-27,82.1,120,3235.0,700.0,994.39,1,synthetic,sustained
+P033,Surface Laptop 7,Computing,2024-06-18,11,2024-09-03,87.5,113,4543.0,958.0,988.09,1,synthetic,sustained
+P033,Surface Laptop 7,Computing,2024-06-18,12,2024-09-10,79.6,116,3814.0,1364.0,1006.11,1,synthetic,sustained
+P033,Surface Laptop 7,Computing,2024-06-18,13,2024-09-17,85.7,133,2848.0,998.0,991.06,1,synthetic,sustained
+P033,Surface Laptop 7,Computing,2024-06-18,14,2024-09-24,86.9,121,1056.0,611.0,1001.18,1,synthetic,sustained
+P033,Surface Laptop 7,Computing,2024-06-18,15,2024-10-01,80.6,114,1161.0,834.0,995.21,1,synthetic,sustained
+P033,Surface Laptop 7,Computing,2024-06-18,16,2024-10-08,78.0,102,2143.0,259.0,976.02,1,synthetic,sustained
+P033,Surface Laptop 7,Computing,2024-06-18,17,2024-10-15,79.4,128,3212.0,399.0,991.58,1,synthetic,sustained
+P033,Surface Laptop 7,Computing,2024-06-18,18,2024-10-22,76.9,124,1757.0,256.0,977.89,1,synthetic,sustained
+P033,Surface Laptop 7,Computing,2024-06-18,19,2024-10-29,79.8,120,1800.0,1301.0,991.28,1,synthetic,sustained
+P033,Surface Laptop 7,Computing,2024-06-18,20,2024-11-05,80.1,121,1998.0,1054.0,983.65,1,synthetic,sustained
+P033,Surface Laptop 7,Computing,2024-06-18,21,2024-11-12,78.0,93,3429.0,463.0,997.05,1,synthetic,sustained
+P033,Surface Laptop 7,Computing,2024-06-18,22,2024-11-19,85.5,126,4603.0,530.0,976.49,1,synthetic,sustained
+P033,Surface Laptop 7,Computing,2024-06-18,23,2024-11-26,75.5,104,2305.0,918.0,992.63,0,synthetic,sustained
+P033,Surface Laptop 7,Computing,2024-06-18,24,2024-12-03,74.5,123,1768.0,1377.0,999.25,1,synthetic,sustained
+P033,Surface Laptop 7,Computing,2024-06-18,25,2024-12-10,73.5,99,1198.0,494.0,1003.23,1,synthetic,sustained
+P034,Snapdragon X Elite,Computing,2024-06-18,0,2024-06-18,50.5,36,1359.0,124.0,1315.75,1,synthetic,ambiguous
+P034,Snapdragon X Elite,Computing,2024-06-18,1,2024-06-25,99.8,48,1012.0,482.0,1280.0,1,synthetic,ambiguous
+P034,Snapdragon X Elite,Computing,2024-06-18,2,2024-07-02,89.1,41,1061.0,158.0,1257.31,1,synthetic,ambiguous
+P034,Snapdragon X Elite,Computing,2024-06-18,3,2024-07-09,76.6,34,552.0,396.0,1270.0,1,synthetic,ambiguous
+P034,Snapdragon X Elite,Computing,2024-06-18,4,2024-07-16,72.5,29,968.0,256.0,1278.2,1,synthetic,ambiguous
+P034,Snapdragon X Elite,Computing,2024-06-18,5,2024-07-23,57.6,22,811.0,63.0,1241.02,1,synthetic,ambiguous
+P034,Snapdragon X Elite,Computing,2024-06-18,6,2024-07-30,54.9,18,370.0,160.0,1249.23,1,synthetic,ambiguous
+P034,Snapdragon X Elite,Computing,2024-06-18,7,2024-08-06,50.8,17,730.0,136.0,1240.48,1,synthetic,ambiguous
+P034,Snapdragon X Elite,Computing,2024-06-18,8,2024-08-13,42.8,10,91.0,53.0,1211.57,1,synthetic,ambiguous
+P034,Snapdragon X Elite,Computing,2024-06-18,9,2024-08-20,43.9,11,142.0,50.0,1216.81,1,synthetic,ambiguous
+P034,Snapdragon X Elite,Computing,2024-06-18,10,2024-08-27,37.9,14,416.0,128.0,1194.39,1,synthetic,ambiguous
+P034,Snapdragon X Elite,Computing,2024-06-18,11,2024-09-03,37.6,12,407.0,112.0,1207.28,1,synthetic,ambiguous
+P034,Snapdragon X Elite,Computing,2024-06-18,12,2024-09-10,32.9,7,120.0,36.0,1198.84,1,synthetic,ambiguous
+P034,Snapdragon X Elite,Computing,2024-06-18,13,2024-09-17,31.6,9,256.0,96.0,1200.13,1,synthetic,ambiguous
+P034,Snapdragon X Elite,Computing,2024-06-18,14,2024-09-24,25.8,6,118.0,28.0,1193.49,1,synthetic,ambiguous
+P034,Snapdragon X Elite,Computing,2024-06-18,15,2024-10-01,24.4,8,228.0,21.0,1198.82,1,synthetic,ambiguous
+P034,Snapdragon X Elite,Computing,2024-06-18,16,2024-10-08,30.6,7,226.0,55.0,1209.5,1,synthetic,ambiguous
+P034,Snapdragon X Elite,Computing,2024-06-18,17,2024-10-15,27.2,12,527.0,36.0,1199.15,1,synthetic,ambiguous
+P034,Snapdragon X Elite,Computing,2024-06-18,18,2024-10-22,19.7,9,223.0,42.0,1173.23,1,synthetic,ambiguous
+P034,Snapdragon X Elite,Computing,2024-06-18,19,2024-10-29,23.7,5,159.0,35.0,1188.67,1,synthetic,ambiguous
+P034,Snapdragon X Elite,Computing,2024-06-18,20,2024-11-05,21.6,2,58.0,9.0,1177.0,1,synthetic,ambiguous
+P034,Snapdragon X Elite,Computing,2024-06-18,21,2024-11-12,19.5,5,98.0,20.0,1201.9,1,synthetic,ambiguous
+P034,Snapdragon X Elite,Computing,2024-06-18,22,2024-11-19,25.2,7,121.0,63.0,1205.24,1,synthetic,ambiguous
+P034,Snapdragon X Elite,Computing,2024-06-18,23,2024-11-26,20.5,9,400.0,67.0,1201.37,1,synthetic,ambiguous
+P034,Snapdragon X Elite,Computing,2024-06-18,24,2024-12-03,21.1,8,125.0,83.0,1186.1,1,synthetic,ambiguous
+P034,Snapdragon X Elite,Computing,2024-06-18,25,2024-12-10,8.3,1,37.0,7.0,1200.73,1,synthetic,ambiguous
+P035,ROG Ally X,Gaming,2024-07-22,0,2024-07-22,27.9,10,157.0,73.0,346.82,1,synthetic,sustained
+P035,ROG Ally X,Gaming,2024-07-22,1,2024-07-29,53.6,25,861.0,106.0,343.4,0,synthetic,sustained
+P035,ROG Ally X,Gaming,2024-07-22,2,2024-08-05,99.9,36,1590.0,233.0,347.46,1,synthetic,sustained
+P035,ROG Ally X,Gaming,2024-07-22,3,2024-08-12,98.3,39,1105.0,462.0,345.01,1,synthetic,sustained
+P035,ROG Ally X,Gaming,2024-07-22,4,2024-08-19,93.3,32,1075.0,220.0,335.41,1,synthetic,sustained
+P035,ROG Ally X,Gaming,2024-07-22,5,2024-08-26,93.9,22,496.0,45.0,335.37,1,synthetic,sustained
+P035,ROG Ally X,Gaming,2024-07-22,6,2024-09-02,90.4,23,823.0,101.0,328.63,1,synthetic,sustained
+P035,ROG Ally X,Gaming,2024-07-22,7,2024-09-09,85.1,32,1332.0,377.0,340.52,1,synthetic,sustained
+P035,ROG Ally X,Gaming,2024-07-22,8,2024-09-16,77.4,26,884.0,309.0,336.33,1,synthetic,sustained
+P035,ROG Ally X,Gaming,2024-07-22,9,2024-09-23,83.8,23,980.0,94.0,336.14,1,synthetic,sustained
+P035,ROG Ally X,Gaming,2024-07-22,10,2024-09-30,77.6,21,625.0,171.0,329.47,1,synthetic,sustained
+P035,ROG Ally X,Gaming,2024-07-22,11,2024-10-07,77.4,16,469.0,44.0,331.46,1,synthetic,sustained
+P035,ROG Ally X,Gaming,2024-07-22,12,2024-10-14,80.1,15,289.0,116.0,333.61,1,synthetic,sustained
+P035,ROG Ally X,Gaming,2024-07-22,13,2024-10-21,82.3,21,719.0,68.0,332.54,1,synthetic,sustained
+P035,ROG Ally X,Gaming,2024-07-22,14,2024-10-28,75.1,18,731.0,183.0,335.48,0,synthetic,sustained
+P035,ROG Ally X,Gaming,2024-07-22,15,2024-11-04,76.2,14,446.0,159.0,337.15,1,synthetic,sustained
+P035,ROG Ally X,Gaming,2024-07-22,16,2024-11-11,67.0,14,232.0,52.0,343.75,1,synthetic,sustained
+P035,ROG Ally X,Gaming,2024-07-22,17,2024-11-18,72.6,15,421.0,99.0,334.42,1,synthetic,sustained
+P035,ROG Ally X,Gaming,2024-07-22,18,2024-11-25,70.3,16,575.0,48.0,338.86,1,synthetic,sustained
+P035,ROG Ally X,Gaming,2024-07-22,19,2024-12-02,74.5,14,598.0,75.0,330.95,1,synthetic,sustained
+P035,ROG Ally X,Gaming,2024-07-22,20,2024-12-09,66.5,12,165.0,31.0,327.48,1,synthetic,sustained
+P035,ROG Ally X,Gaming,2024-07-22,21,2024-12-16,66.8,19,241.0,88.0,332.72,1,synthetic,sustained
+P035,ROG Ally X,Gaming,2024-07-22,22,2024-12-23,71.2,15,349.0,178.0,327.67,1,synthetic,sustained
+P035,ROG Ally X,Gaming,2024-07-22,23,2024-12-30,65.9,18,227.0,44.0,334.08,1,synthetic,sustained
+P035,ROG Ally X,Gaming,2024-07-22,24,2025-01-06,61.1,12,531.0,127.0,330.86,1,synthetic,sustained
+P035,ROG Ally X,Gaming,2024-07-22,25,2025-01-13,75.1,15,355.0,41.0,326.12,1,synthetic,sustained
+P036,Galaxy Ring,Audio/Wearable,2024-07-24,0,2024-07-24,28.9,54,2379.0,109.0,1015.31,0,synthetic,sustained
+P036,Galaxy Ring,Audio/Wearable,2024-07-24,1,2024-07-31,65.0,101,3521.0,549.0,972.2,1,synthetic,sustained
+P036,Galaxy Ring,Audio/Wearable,2024-07-24,2,2024-08-07,100.0,178,3181.0,1436.97,997.79,1,synthetic,sustained
+P036,Galaxy Ring,Audio/Wearable,2024-07-24,3,2024-08-14,100.0,154,3348.0,913.0,992.44,1,synthetic,sustained
+P036,Galaxy Ring,Audio/Wearable,2024-07-24,4,2024-08-21,87.7,127,3001.0,532.0,981.92,1,synthetic,sustained
+P036,Galaxy Ring,Audio/Wearable,2024-07-24,5,2024-08-28,88.0,125,4457.0,830.0,959.67,1,synthetic,sustained
+P036,Galaxy Ring,Audio/Wearable,2024-07-24,6,2024-09-04,85.7,116,4901.0,1104.0,954.67,1,synthetic,sustained
+P036,Galaxy Ring,Audio/Wearable,2024-07-24,7,2024-09-11,93.5,139,2765.0,444.0,958.74,0,synthetic,sustained
+P036,Galaxy Ring,Audio/Wearable,2024-07-24,8,2024-09-18,77.8,131,3338.0,1168.0,943.8,1,synthetic,sustained
+P036,Galaxy Ring,Audio/Wearable,2024-07-24,9,2024-09-25,82.8,103,3084.0,893.0,945.59,0,synthetic,sustained
+P036,Galaxy Ring,Audio/Wearable,2024-07-24,10,2024-10-02,80.3,125,2819.0,713.0,962.3,0,synthetic,sustained
+P036,Galaxy Ring,Audio/Wearable,2024-07-24,11,2024-10-09,78.9,118,3145.0,1380.0,960.9,1,synthetic,sustained
+P036,Galaxy Ring,Audio/Wearable,2024-07-24,12,2024-10-16,81.0,123,1465.0,1346.0,940.28,1,synthetic,sustained
+P036,Galaxy Ring,Audio/Wearable,2024-07-24,13,2024-10-23,79.6,106,1505.0,547.0,958.99,1,synthetic,sustained
+P036,Galaxy Ring,Audio/Wearable,2024-07-24,14,2024-10-30,71.6,110,2512.0,254.0,955.61,1,synthetic,sustained
+P036,Galaxy Ring,Audio/Wearable,2024-07-24,15,2024-11-06,73.1,80,3348.0,406.0,966.94,1,synthetic,sustained
+P036,Galaxy Ring,Audio/Wearable,2024-07-24,16,2024-11-13,63.8,76,1590.0,307.0,955.63,0,synthetic,sustained
+P036,Galaxy Ring,Audio/Wearable,2024-07-24,17,2024-11-20,70.7,84,1448.0,627.0,960.71,1,synthetic,sustained
+P036,Galaxy Ring,Audio/Wearable,2024-07-24,18,2024-11-27,66.3,87,3087.0,973.0,953.68,1,synthetic,sustained
+P036,Galaxy Ring,Audio/Wearable,2024-07-24,19,2024-12-04,67.9,87,3751.0,931.0,959.05,0,synthetic,sustained
+P036,Galaxy Ring,Audio/Wearable,2024-07-24,20,2024-12-11,61.2,81,2023.0,409.0,932.99,1,synthetic,sustained
+P036,Galaxy Ring,Audio/Wearable,2024-07-24,21,2024-12-18,68.9,90,748.0,565.0,946.0,1,synthetic,sustained
+P036,Galaxy Ring,Audio/Wearable,2024-07-24,22,2024-12-25,59.9,68,2275.0,160.0,946.74,1,synthetic,sustained
+P036,Galaxy Ring,Audio/Wearable,2024-07-24,23,2025-01-01,66.7,96,2242.0,714.0,944.25,1,synthetic,sustained
+P036,Galaxy Ring,Audio/Wearable,2024-07-24,24,2025-01-08,60.7,78,2568.0,205.0,951.93,1,synthetic,sustained
+P036,Galaxy Ring,Audio/Wearable,2024-07-24,25,2025-01-15,61.8,72,1315.0,819.0,953.97,1,synthetic,sustained
+P037,Galaxy Z Fold 6,Smartphone,2024-07-24,0,2024-07-24,39.5,29,531.0,69.0,1279.24,0,synthetic,sustained
+P037,Galaxy Z Fold 6,Smartphone,2024-07-24,1,2024-07-31,67.5,55,1598.0,218.0,1274.13,0,synthetic,sustained
+P037,Galaxy Z Fold 6,Smartphone,2024-07-24,2,2024-08-07,99.4,84,1418.0,951.0,1238.28,0,synthetic,sustained
+P037,Galaxy Z Fold 6,Smartphone,2024-07-24,3,2024-08-14,97.3,88,3785.0,826.0,1232.43,1,synthetic,sustained
+P037,Galaxy Z Fold 6,Smartphone,2024-07-24,4,2024-08-21,86.5,59,2349.0,254.0,1285.07,1,synthetic,sustained
+P037,Galaxy Z Fold 6,Smartphone,2024-07-24,5,2024-08-28,81.3,54,1007.0,168.0,1282.8,1,synthetic,sustained
+P037,Galaxy Z Fold 6,Smartphone,2024-07-24,6,2024-09-04,84.6,82,2260.0,942.0,1247.53,1,synthetic,sustained
+P037,Galaxy Z Fold 6,Smartphone,2024-07-24,7,2024-09-11,75.4,63,1670.0,196.0,1229.39,0,synthetic,sustained
+P037,Galaxy Z Fold 6,Smartphone,2024-07-24,8,2024-09-18,72.6,62,2698.0,283.0,1233.5,1,synthetic,sustained
+P037,Galaxy Z Fold 6,Smartphone,2024-07-24,9,2024-09-25,77.8,72,1625.0,275.0,1247.75,1,synthetic,sustained
+P037,Galaxy Z Fold 6,Smartphone,2024-07-24,10,2024-10-02,74.3,59,1699.0,122.0,1224.59,0,synthetic,sustained
+P037,Galaxy Z Fold 6,Smartphone,2024-07-24,11,2024-10-09,65.2,52,2202.0,267.0,1233.53,1,synthetic,sustained
+P037,Galaxy Z Fold 6,Smartphone,2024-07-24,12,2024-10-16,66.0,49,687.0,575.0,1228.01,1,synthetic,sustained
+P037,Galaxy Z Fold 6,Smartphone,2024-07-24,13,2024-10-23,63.3,56,1588.0,303.0,1218.3,1,synthetic,sustained
+P037,Galaxy Z Fold 6,Smartphone,2024-07-24,14,2024-10-30,72.6,50,595.0,352.0,1217.67,1,synthetic,sustained
+P037,Galaxy Z Fold 6,Smartphone,2024-07-24,15,2024-11-06,67.8,52,1604.0,491.0,1228.66,1,synthetic,sustained
+P037,Galaxy Z Fold 6,Smartphone,2024-07-24,16,2024-11-13,61.4,55,1184.0,413.0,1209.12,1,synthetic,sustained
+P037,Galaxy Z Fold 6,Smartphone,2024-07-24,17,2024-11-20,64.4,42,1839.0,396.0,1229.35,0,synthetic,sustained
+P037,Galaxy Z Fold 6,Smartphone,2024-07-24,18,2024-11-27,55.8,44,1028.0,379.0,1215.19,1,synthetic,sustained
+P037,Galaxy Z Fold 6,Smartphone,2024-07-24,19,2024-12-04,57.7,49,638.0,396.0,1223.45,1,synthetic,sustained
+P037,Galaxy Z Fold 6,Smartphone,2024-07-24,20,2024-12-11,60.2,59,2292.0,501.0,1241.43,1,synthetic,sustained
+P037,Galaxy Z Fold 6,Smartphone,2024-07-24,21,2024-12-18,59.2,56,2148.0,559.0,1218.33,1,synthetic,sustained
+P037,Galaxy Z Fold 6,Smartphone,2024-07-24,22,2024-12-25,58.2,45,1516.0,409.0,1233.96,1,synthetic,sustained
+P037,Galaxy Z Fold 6,Smartphone,2024-07-24,23,2025-01-01,59.1,56,1999.0,555.0,1194.0,1,synthetic,sustained
+P037,Galaxy Z Fold 6,Smartphone,2024-07-24,24,2025-01-08,57.9,50,889.0,172.0,1213.15,1,synthetic,sustained
+P037,Galaxy Z Fold 6,Smartphone,2024-07-24,25,2025-01-15,56.6,45,1429.0,394.0,1220.26,0,synthetic,sustained
+P038,Google Pixel 9,Smartphone,2024-08-22,0,2024-08-22,100.0,29,367.0,97.0,487.84,1,synthetic,collapse
+P038,Google Pixel 9,Smartphone,2024-08-22,1,2024-08-29,80.9,27,578.0,118.0,492.39,0,synthetic,collapse
+P038,Google Pixel 9,Smartphone,2024-08-22,2,2024-09-05,62.4,18,292.0,84.0,471.92,1,synthetic,collapse
+P038,Google Pixel 9,Smartphone,2024-08-22,3,2024-09-12,59.7,14,387.0,51.0,476.21,1,synthetic,collapse
+P038,Google Pixel 9,Smartphone,2024-08-22,4,2024-09-19,50.6,8,176.0,47.0,480.0,1,synthetic,collapse
+P038,Google Pixel 9,Smartphone,2024-08-22,5,2024-09-26,38.1,1,25.0,3.0,475.69,1,synthetic,collapse
+P038,Google Pixel 9,Smartphone,2024-08-22,6,2024-10-03,33.7,4,144.0,31.0,452.62,1,synthetic,collapse
+P038,Google Pixel 9,Smartphone,2024-08-22,7,2024-10-10,29.0,2,36.0,6.0,461.21,1,synthetic,collapse
+P038,Google Pixel 9,Smartphone,2024-08-22,8,2024-10-17,27.6,2,55.0,9.0,451.57,1,synthetic,collapse
+P038,Google Pixel 9,Smartphone,2024-08-22,9,2024-10-24,21.7,1,20.0,8.0,448.33,1,synthetic,collapse
+P038,Google Pixel 9,Smartphone,2024-08-22,10,2024-10-31,11.0,0,0.0,0.0,452.43,1,synthetic,collapse
+P038,Google Pixel 9,Smartphone,2024-08-22,11,2024-11-07,22.3,0,0.0,0.0,458.2,1,synthetic,collapse
+P038,Google Pixel 9,Smartphone,2024-08-22,12,2024-11-14,16.9,1,8.0,9.0,453.53,1,synthetic,collapse
+P038,Google Pixel 9,Smartphone,2024-08-22,13,2024-11-21,9.3,0,0.0,0.0,445.39,1,synthetic,collapse
+P038,Google Pixel 9,Smartphone,2024-08-22,14,2024-11-28,6.2,1,14.0,7.0,452.17,1,synthetic,collapse
+P038,Google Pixel 9,Smartphone,2024-08-22,15,2024-12-05,11.5,0,0.0,0.0,435.59,1,synthetic,collapse
+P038,Google Pixel 9,Smartphone,2024-08-22,16,2024-12-12,7.7,0,0.0,0.0,443.0,1,synthetic,collapse
+P038,Google Pixel 9,Smartphone,2024-08-22,17,2024-12-19,9.6,0,0.0,0.0,442.11,1,synthetic,collapse
+P038,Google Pixel 9,Smartphone,2024-08-22,18,2024-12-26,10.8,0,0.0,0.0,446.52,1,synthetic,collapse
+P038,Google Pixel 9,Smartphone,2024-08-22,19,2025-01-02,5.2,0,0.0,0.0,444.66,1,synthetic,collapse
+P038,Google Pixel 9,Smartphone,2024-08-22,20,2025-01-09,2.8,0,0.0,0.0,444.69,1,synthetic,collapse
+P038,Google Pixel 9,Smartphone,2024-08-22,21,2025-01-16,8.6,1,28.0,3.0,444.27,1,synthetic,collapse
+P038,Google Pixel 9,Smartphone,2024-08-22,22,2025-01-23,4.7,0,0.0,0.0,445.11,1,synthetic,collapse
+P038,Google Pixel 9,Smartphone,2024-08-22,23,2025-01-30,7.3,0,0.0,0.0,447.7,1,synthetic,collapse
+P038,Google Pixel 9,Smartphone,2024-08-22,24,2025-02-06,1.2,0,0.0,0.0,445.47,1,synthetic,collapse
+P038,Google Pixel 9,Smartphone,2024-08-22,25,2025-02-13,5.5,2,77.0,8.0,443.04,1,synthetic,collapse
+P039,NotebookLM,AI Software,2024-09-11,0,2024-09-11,54.7,15,463.0,142.0,705.84,0,synthetic,collapse
+P039,NotebookLM,AI Software,2024-09-11,1,2024-09-18,100.0,36,612.0,173.0,684.52,1,synthetic,collapse
+P039,NotebookLM,AI Software,2024-09-11,2,2024-09-25,79.2,21,459.0,247.0,672.45,0,synthetic,collapse
+P039,NotebookLM,AI Software,2024-09-11,3,2024-10-02,64.6,22,750.0,51.0,675.35,1,synthetic,collapse
+P039,NotebookLM,AI Software,2024-09-11,4,2024-10-09,52.4,19,543.0,111.0,671.92,1,synthetic,collapse
+P039,NotebookLM,AI Software,2024-09-11,5,2024-10-16,30.3,6,129.0,64.0,646.61,1,synthetic,collapse
+P039,NotebookLM,AI Software,2024-09-11,6,2024-10-23,32.8,5,70.0,19.0,645.18,1,synthetic,collapse
+P039,NotebookLM,AI Software,2024-09-11,7,2024-10-30,30.6,3,80.0,10.0,645.55,1,synthetic,collapse
+P039,NotebookLM,AI Software,2024-09-11,8,2024-11-06,22.9,3,59.0,16.0,642.91,1,synthetic,collapse
+P039,NotebookLM,AI Software,2024-09-11,9,2024-11-13,21.7,3,125.0,18.0,632.13,1,synthetic,collapse
+P039,NotebookLM,AI Software,2024-09-11,10,2024-11-20,22.3,1,27.0,11.0,647.88,1,synthetic,collapse
+P039,NotebookLM,AI Software,2024-09-11,11,2024-11-27,17.9,3,120.0,31.0,634.62,1,synthetic,collapse
+P039,NotebookLM,AI Software,2024-09-11,12,2024-12-04,22.4,0,0.0,0.0,633.66,1,synthetic,collapse
+P039,NotebookLM,AI Software,2024-09-11,13,2024-12-11,19.9,2,77.0,23.0,641.41,1,synthetic,collapse
+P039,NotebookLM,AI Software,2024-09-11,14,2024-12-18,16.6,0,0.0,0.0,623.53,1,synthetic,collapse
+P039,NotebookLM,AI Software,2024-09-11,15,2024-12-25,13.3,0,0.0,0.0,625.21,1,synthetic,collapse
+P039,NotebookLM,AI Software,2024-09-11,16,2025-01-01,2.3,0,0.0,0.0,615.6,1,synthetic,collapse
+P039,NotebookLM,AI Software,2024-09-11,17,2025-01-08,12.0,2,18.0,13.0,622.99,1,synthetic,collapse
+P039,NotebookLM,AI Software,2024-09-11,18,2025-01-15,7.7,0,0.0,0.0,612.53,1,synthetic,collapse
+P039,NotebookLM,AI Software,2024-09-11,19,2025-01-22,13.8,0,0.0,0.0,628.76,1,synthetic,collapse
+P039,NotebookLM,AI Software,2024-09-11,20,2025-01-29,14.65,0,0.0,0.0,625.88,1,synthetic,collapse
+P039,NotebookLM,AI Software,2024-09-11,21,2025-02-05,15.5,0,0.0,0.0,620.32,0,synthetic,collapse
+P039,NotebookLM,AI Software,2024-09-11,22,2025-02-12,18.2,1,29.0,7.0,621.35,1,synthetic,collapse
+P039,NotebookLM,AI Software,2024-09-11,23,2025-02-19,12.5,1,31.0,8.0,627.53,1,synthetic,collapse
+P039,NotebookLM,AI Software,2024-09-11,24,2025-02-26,21.6,1,38.0,2.0,613.17,1,synthetic,collapse
+P039,NotebookLM,AI Software,2024-09-11,25,2025-03-05,13.4,1,30.0,6.0,622.99,1,synthetic,collapse
+P040,AirPods 4,Audio/Wearable,2024-09-20,0,2024-09-20,29.4,19,517.0,186.0,719.19,1,synthetic,sustained
+P040,AirPods 4,Audio/Wearable,2024-09-20,1,2024-09-27,61.9,42,737.0,152.0,706.06,0,synthetic,sustained
+P040,AirPods 4,Audio/Wearable,2024-09-20,2,2024-10-04,100.0,59,1534.0,694.0,699.87,1,synthetic,sustained
+P040,AirPods 4,Audio/Wearable,2024-09-20,3,2024-10-11,95.1,65,871.0,343.0,693.05,1,synthetic,sustained
+P040,AirPods 4,Audio/Wearable,2024-09-20,4,2024-10-18,94.2,64,1850.0,341.0,698.41,1,synthetic,sustained
+P040,AirPods 4,Audio/Wearable,2024-09-20,5,2024-10-25,95.4,59,1007.0,523.0,669.83,0,synthetic,sustained
+P040,AirPods 4,Audio/Wearable,2024-09-20,6,2024-11-01,85.4,54,1018.0,134.0,690.79,1,synthetic,sustained
+P040,AirPods 4,Audio/Wearable,2024-09-20,7,2024-11-08,87.05000000000001,51,1349.0,523.0,669.91,0,synthetic,sustained
+P040,AirPods 4,Audio/Wearable,2024-09-20,8,2024-11-15,88.7,48,672.0,574.0,672.02,1,synthetic,sustained
+P040,AirPods 4,Audio/Wearable,2024-09-20,9,2024-11-22,89.6,51,2224.0,497.0,680.0,1,synthetic,sustained
+P040,AirPods 4,Audio/Wearable,2024-09-20,10,2024-11-29,86.3,48,1177.0,471.0,684.48,1,synthetic,sustained
+P040,AirPods 4,Audio/Wearable,2024-09-20,11,2024-12-06,86.4,50,1051.0,295.0,664.37,1,synthetic,sustained
+P040,AirPods 4,Audio/Wearable,2024-09-20,12,2024-12-13,79.2,45,408.0,119.0,668.89,1,synthetic,sustained
+P040,AirPods 4,Audio/Wearable,2024-09-20,13,2024-12-20,74.7,37,1450.0,367.0,673.26,0,synthetic,sustained
+P040,AirPods 4,Audio/Wearable,2024-09-20,14,2024-12-27,85.3,44,1370.0,350.0,670.5,1,synthetic,sustained
+P040,AirPods 4,Audio/Wearable,2024-09-20,15,2025-01-03,69.4,42,983.0,465.0,678.5,0,synthetic,sustained
+P040,AirPods 4,Audio/Wearable,2024-09-20,16,2025-01-10,68.7,37,632.0,116.0,698.97,1,synthetic,sustained
+P040,AirPods 4,Audio/Wearable,2024-09-20,17,2025-01-17,75.5,43,1529.0,217.0,674.4,1,synthetic,sustained
+P040,AirPods 4,Audio/Wearable,2024-09-20,18,2025-01-24,78.7,35,1504.0,196.0,664.88,1,synthetic,sustained
+P040,AirPods 4,Audio/Wearable,2024-09-20,19,2025-01-31,71.9,32,706.0,282.0,660.17,0,synthetic,sustained
+P040,AirPods 4,Audio/Wearable,2024-09-20,20,2025-02-07,74.2,39,506.0,385.0,667.83,1,synthetic,sustained
+P040,AirPods 4,Audio/Wearable,2024-09-20,21,2025-02-14,61.4,37,445.0,429.0,662.75,1,synthetic,sustained
+P040,AirPods 4,Audio/Wearable,2024-09-20,22,2025-02-21,66.5,34,280.0,168.0,673.96,1,synthetic,sustained
+P040,AirPods 4,Audio/Wearable,2024-09-20,23,2025-02-28,60.2,36,1278.0,249.0,673.75,0,synthetic,sustained
+P040,AirPods 4,Audio/Wearable,2024-09-20,24,2025-03-07,70.1,41,1816.0,93.0,666.31,0,synthetic,sustained
+P040,AirPods 4,Audio/Wearable,2024-09-20,25,2025-03-14,60.1,31,1386.0,140.0,685.93,1,synthetic,sustained
+P041,iPhone 16,Smartphone,2024-09-20,0,2024-09-20,16.4,22,502.0,199.0,1006.55,1,synthetic,sustained
+P041,iPhone 16,Smartphone,2024-09-20,1,2024-09-27,57.449999999999996,70,2468.0,349.0,1006.48,1,synthetic,sustained
+P041,iPhone 16,Smartphone,2024-09-20,2,2024-10-04,98.5,116,3193.0,1056.0,986.83,0,synthetic,sustained
+P041,iPhone 16,Smartphone,2024-09-20,3,2024-10-11,98.5,116,5109.6700000000055,559.0,982.41,0,synthetic,sustained
+P041,iPhone 16,Smartphone,2024-09-20,4,2024-10-18,86.2,96,963.0,712.0,996.4,1,synthetic,sustained
+P041,iPhone 16,Smartphone,2024-09-20,5,2024-10-25,88.9,98,908.0,712.0,1006.53,1,synthetic,sustained
+P041,iPhone 16,Smartphone,2024-09-20,6,2024-11-01,91.0,103,2990.0,460.0,977.35,1,synthetic,sustained
+P041,iPhone 16,Smartphone,2024-09-20,7,2024-11-08,82.8,81,1257.0,443.0,987.81,1,synthetic,sustained
+P041,iPhone 16,Smartphone,2024-09-20,8,2024-11-15,86.6,76,2307.0,868.0,1003.1,1,synthetic,sustained
+P041,iPhone 16,Smartphone,2024-09-20,9,2024-11-22,80.9,72,2657.0,324.0,996.62,1,synthetic,sustained
+P041,iPhone 16,Smartphone,2024-09-20,10,2024-11-29,81.4,71,930.0,710.0,1012.93,1,synthetic,sustained
+P041,iPhone 16,Smartphone,2024-09-20,11,2024-12-06,82.4,71,1725.0,615.0,979.04,1,synthetic,sustained
+P041,iPhone 16,Smartphone,2024-09-20,12,2024-12-13,82.5,82,2745.0,600.0,1023.93,1,synthetic,sustained
+P041,iPhone 16,Smartphone,2024-09-20,13,2024-12-20,77.8,58,2253.0,195.0,977.38,1,synthetic,sustained
+P041,iPhone 16,Smartphone,2024-09-20,14,2024-12-27,73.1,63,1660.0,254.0,971.45,1,synthetic,sustained
+P041,iPhone 16,Smartphone,2024-09-20,15,2025-01-03,73.5,61,953.0,231.0,994.94,0,synthetic,sustained
+P041,iPhone 16,Smartphone,2024-09-20,16,2025-01-10,76.9,67,1988.0,527.0,982.05,1,synthetic,sustained
+P041,iPhone 16,Smartphone,2024-09-20,17,2025-01-17,69.4,56,1389.0,657.0,995.11,1,synthetic,sustained
+P041,iPhone 16,Smartphone,2024-09-20,18,2025-01-24,72.0,63,2303.0,678.0,994.67,1,synthetic,sustained
+P041,iPhone 16,Smartphone,2024-09-20,19,2025-01-31,70.5,58,1656.0,130.0,993.19,1,synthetic,sustained
+P041,iPhone 16,Smartphone,2024-09-20,20,2025-02-07,70.9,55,1008.0,260.0,985.44,0,synthetic,sustained
+P041,iPhone 16,Smartphone,2024-09-20,21,2025-02-14,66.7,55,1975.0,196.0,1000.66,1,synthetic,sustained
+P041,iPhone 16,Smartphone,2024-09-20,22,2025-02-21,62.8,47,1276.0,552.0,991.68,1,synthetic,sustained
+P041,iPhone 16,Smartphone,2024-09-20,23,2025-02-28,71.8,59,859.0,257.0,1008.65,1,synthetic,sustained
+P041,iPhone 16,Smartphone,2024-09-20,24,2025-03-07,73.1,51,1470.0,204.0,993.3,1,synthetic,sustained
+P041,iPhone 16,Smartphone,2024-09-20,25,2025-03-14,61.7,55,2369.0,451.0,983.92,0,synthetic,sustained
+P042,Apple Watch Series 10,Audio/Wearable,2024-09-20,0,2024-09-20,99.9,112,2120.0,1053.0,197.2,1,synthetic,sustained
+P042,Apple Watch Series 10,Audio/Wearable,2024-09-20,1,2024-09-27,99.9,141,4905.0,1436.97,193.64,1,synthetic,sustained
+P042,Apple Watch Series 10,Audio/Wearable,2024-09-20,2,2024-10-04,92.9,128,1715.0,1436.97,197.89,0,synthetic,sustained
+P042,Apple Watch Series 10,Audio/Wearable,2024-09-20,3,2024-10-11,96.8,116,4768.0,1303.0,192.91,1,synthetic,sustained
+P042,Apple Watch Series 10,Audio/Wearable,2024-09-20,4,2024-10-18,94.2,95,1114.0,1017.0,194.9,1,synthetic,sustained
+P042,Apple Watch Series 10,Audio/Wearable,2024-09-20,5,2024-10-25,91.4,86,3435.0,411.0,196.44,1,synthetic,sustained
+P042,Apple Watch Series 10,Audio/Wearable,2024-09-20,6,2024-11-01,91.1,102,2694.0,1189.0,191.65,1,synthetic,sustained
+P042,Apple Watch Series 10,Audio/Wearable,2024-09-20,7,2024-11-08,91.4,95,2266.0,1071.0,192.1,1,synthetic,sustained
+P042,Apple Watch Series 10,Audio/Wearable,2024-09-20,8,2024-11-15,88.1,85,2254.0,624.0,189.3,1,synthetic,sustained
+P042,Apple Watch Series 10,Audio/Wearable,2024-09-20,9,2024-11-22,88.3,91,1402.0,547.0,191.08,1,synthetic,sustained
+P042,Apple Watch Series 10,Audio/Wearable,2024-09-20,10,2024-11-29,88.5,77,1919.0,238.0,197.61,1,synthetic,sustained
+P042,Apple Watch Series 10,Audio/Wearable,2024-09-20,11,2024-12-06,86.4,79,3115.0,624.0,193.23,1,synthetic,sustained
+P042,Apple Watch Series 10,Audio/Wearable,2024-09-20,12,2024-12-13,94.5,108,4064.0,972.0,190.64,1,synthetic,sustained
+P042,Apple Watch Series 10,Audio/Wearable,2024-09-20,13,2024-12-20,89.2,79,1108.0,477.0,189.68,1,synthetic,sustained
+P042,Apple Watch Series 10,Audio/Wearable,2024-09-20,14,2024-12-27,85.4,83,2732.0,503.0,190.84,1,synthetic,sustained
+P042,Apple Watch Series 10,Audio/Wearable,2024-09-20,15,2025-01-03,86.9,71,2818.0,549.0,191.12,1,synthetic,sustained
+P042,Apple Watch Series 10,Audio/Wearable,2024-09-20,16,2025-01-10,81.7,71,2721.0,161.0,189.77,0,synthetic,sustained
+P042,Apple Watch Series 10,Audio/Wearable,2024-09-20,17,2025-01-17,82.65,58,1377.0,671.0,191.86,0,synthetic,sustained
+P042,Apple Watch Series 10,Audio/Wearable,2024-09-20,18,2025-01-24,83.6,79,772.0,387.0,188.4,1,synthetic,sustained
+P042,Apple Watch Series 10,Audio/Wearable,2024-09-20,19,2025-01-31,79.4,75,3183.0,255.0,188.33,0,synthetic,sustained
+P042,Apple Watch Series 10,Audio/Wearable,2024-09-20,20,2025-02-07,85.5,78,1766.0,160.0,191.32,1,synthetic,sustained
+P042,Apple Watch Series 10,Audio/Wearable,2024-09-20,21,2025-02-14,81.6,66,1409.0,697.0,187.77,1,synthetic,sustained
+P042,Apple Watch Series 10,Audio/Wearable,2024-09-20,22,2025-02-21,81.8,73,2635.0,776.0,192.07,1,synthetic,sustained
+P042,Apple Watch Series 10,Audio/Wearable,2024-09-20,23,2025-02-28,80.6,92,1634.0,271.0,190.34,1,synthetic,sustained
+P042,Apple Watch Series 10,Audio/Wearable,2024-09-20,24,2025-03-07,94.4,74,2877.0,260.0,186.18,1,synthetic,sustained
+P042,Apple Watch Series 10,Audio/Wearable,2024-09-20,25,2025-03-14,79.6,75,811.0,485.0,190.58,1,synthetic,sustained
+P043,Tesla Robotaxi,EV/Mobility,2024-10-10,0,2024-10-10,57.7,57,714.0,562.0,200.42,1,synthetic,collapse
+P043,Tesla Robotaxi,EV/Mobility,2024-10-10,1,2024-10-17,98.3,129,4117.0,669.0,195.01,1,synthetic,collapse
+P043,Tesla Robotaxi,EV/Mobility,2024-10-10,2,2024-10-24,76.4,77,1601.0,815.0,193.07,1,synthetic,collapse
+P043,Tesla Robotaxi,EV/Mobility,2024-10-10,3,2024-10-31,52.8,39,637.0,119.0,189.68,1,synthetic,collapse
+P043,Tesla Robotaxi,EV/Mobility,2024-10-10,4,2024-11-07,41.7,30,1201.0,250.0,187.61,1,synthetic,collapse
+P043,Tesla Robotaxi,EV/Mobility,2024-10-10,5,2024-11-14,31.1,29,1034.0,316.0,184.44,0,synthetic,collapse
+P043,Tesla Robotaxi,EV/Mobility,2024-10-10,6,2024-11-21,15.5,1,36.0,4.0,181.77,0,synthetic,collapse
+P043,Tesla Robotaxi,EV/Mobility,2024-10-10,7,2024-11-28,21.6,11,103.0,57.0,181.25,1,synthetic,collapse
+P043,Tesla Robotaxi,EV/Mobility,2024-10-10,8,2024-12-05,17.0,5,209.0,25.0,177.22,1,synthetic,collapse
+P043,Tesla Robotaxi,EV/Mobility,2024-10-10,9,2024-12-12,20.3,8,234.0,61.0,181.76,1,synthetic,collapse
+P043,Tesla Robotaxi,EV/Mobility,2024-10-10,10,2024-12-19,13.5,4,106.0,24.0,176.52,1,synthetic,collapse
+P043,Tesla Robotaxi,EV/Mobility,2024-10-10,11,2024-12-26,7.1,1,8.0,3.0,178.06,1,synthetic,collapse
+P043,Tesla Robotaxi,EV/Mobility,2024-10-10,12,2025-01-02,10.2,1,41.0,10.0,179.37,1,synthetic,collapse
+P043,Tesla Robotaxi,EV/Mobility,2024-10-10,13,2025-01-09,2.3,0,0.0,0.0,179.32,1,synthetic,collapse
+P043,Tesla Robotaxi,EV/Mobility,2024-10-10,14,2025-01-16,5.3,0,0.0,0.0,173.38,1,synthetic,collapse
+P043,Tesla Robotaxi,EV/Mobility,2024-10-10,15,2025-01-23,12.4,4,129.0,31.0,176.65,1,synthetic,collapse
+P043,Tesla Robotaxi,EV/Mobility,2024-10-10,16,2025-01-30,8.6,1,37.0,2.0,177.55,1,synthetic,collapse
+P043,Tesla Robotaxi,EV/Mobility,2024-10-10,17,2025-02-06,5.0,1,33.0,2.0,176.47,1,synthetic,collapse
+P043,Tesla Robotaxi,EV/Mobility,2024-10-10,18,2025-02-13,1.4,0,0.0,0.0,179.02,1,synthetic,collapse
+P043,Tesla Robotaxi,EV/Mobility,2024-10-10,19,2025-02-20,8.2,0,0.0,0.0,174.29,1,synthetic,collapse
+P043,Tesla Robotaxi,EV/Mobility,2024-10-10,20,2025-02-27,7.2,1,15.0,2.0,171.57,1,synthetic,collapse
+P043,Tesla Robotaxi,EV/Mobility,2024-10-10,21,2025-03-06,12.9,1,34.0,9.0,177.5,1,synthetic,collapse
+P043,Tesla Robotaxi,EV/Mobility,2024-10-10,22,2025-03-13,11.8,2,53.0,14.0,174.56,0,synthetic,collapse
+P043,Tesla Robotaxi,EV/Mobility,2024-10-10,23,2025-03-20,11.6,1,30.0,2.0,171.92,1,synthetic,collapse
+P043,Tesla Robotaxi,EV/Mobility,2024-10-10,24,2025-03-27,15.2,3,102.0,26.0,175.23,1,synthetic,collapse
+P043,Tesla Robotaxi,EV/Mobility,2024-10-10,25,2025-04-03,7.5,0,0.0,0.0,178.1,1,synthetic,collapse
+P044,Oura Ring 4,Audio/Wearable,2024-10-15,0,2024-10-15,59.9,48,782.0,122.0,490.29,0,synthetic,collapse
+P044,Oura Ring 4,Audio/Wearable,2024-10-15,1,2024-10-22,100.0,93,1055.0,573.0,482.33,1,synthetic,collapse
+P044,Oura Ring 4,Audio/Wearable,2024-10-15,2,2024-10-29,72.1,57,723.0,499.0,457.91,1,synthetic,collapse
+P044,Oura Ring 4,Audio/Wearable,2024-10-15,3,2024-11-05,52.9,34,477.0,229.0,441.36,1,synthetic,collapse
+P044,Oura Ring 4,Audio/Wearable,2024-10-15,4,2024-11-12,28.5,8,153.0,87.0,431.5,1,synthetic,collapse
+P044,Oura Ring 4,Audio/Wearable,2024-10-15,5,2024-11-19,18.8,7,58.0,17.0,428.61,1,synthetic,collapse
+P044,Oura Ring 4,Audio/Wearable,2024-10-15,6,2024-11-26,18.9,6,258.0,32.0,418.56,1,synthetic,collapse
+P044,Oura Ring 4,Audio/Wearable,2024-10-15,7,2024-12-03,13.8,4,50.0,22.0,401.72,1,synthetic,collapse
+P044,Oura Ring 4,Audio/Wearable,2024-10-15,8,2024-12-10,13.7,2,44.0,10.0,404.75,1,synthetic,collapse
+P044,Oura Ring 4,Audio/Wearable,2024-10-15,9,2024-12-17,9.2,3,121.0,20.0,407.53,1,synthetic,collapse
+P044,Oura Ring 4,Audio/Wearable,2024-10-15,10,2024-12-24,9.9,1,11.0,9.0,395.79,1,synthetic,collapse
+P044,Oura Ring 4,Audio/Wearable,2024-10-15,11,2024-12-31,1.5,0,0.0,0.0,393.87,0,synthetic,collapse
+P044,Oura Ring 4,Audio/Wearable,2024-10-15,12,2025-01-07,5.7,4,157.0,37.0,396.8,1,synthetic,collapse
+P044,Oura Ring 4,Audio/Wearable,2024-10-15,13,2025-01-14,0.0,0,0.0,0.0,393.31,0,synthetic,collapse
+P044,Oura Ring 4,Audio/Wearable,2024-10-15,14,2025-01-21,6.5,0,0.0,0.0,392.43,1,synthetic,collapse
+P044,Oura Ring 4,Audio/Wearable,2024-10-15,15,2025-01-28,6.2,1,35.0,5.0,373.22,1,synthetic,collapse
+P044,Oura Ring 4,Audio/Wearable,2024-10-15,16,2025-02-04,5.9,0,0.0,0.0,392.73,1,synthetic,collapse
+P044,Oura Ring 4,Audio/Wearable,2024-10-15,17,2025-02-11,0.0,0,0.0,0.0,386.54,1,synthetic,collapse
+P044,Oura Ring 4,Audio/Wearable,2024-10-15,18,2025-02-18,2.8,0,0.0,0.0,393.98,0,synthetic,collapse
+P044,Oura Ring 4,Audio/Wearable,2024-10-15,19,2025-02-25,7.8,0,0.0,0.0,378.31,1,synthetic,collapse
+P044,Oura Ring 4,Audio/Wearable,2024-10-15,20,2025-03-04,5.1,1,38.0,10.0,373.17,1,synthetic,collapse
+P044,Oura Ring 4,Audio/Wearable,2024-10-15,21,2025-03-11,0.0,0,0.0,0.0,380.73,1,synthetic,collapse
+P044,Oura Ring 4,Audio/Wearable,2024-10-15,22,2025-03-18,0.0,1,13.0,3.0,378.98,1,synthetic,collapse
+P044,Oura Ring 4,Audio/Wearable,2024-10-15,23,2025-03-25,0.0,0,0.0,0.0,382.84,1,synthetic,collapse
+P044,Oura Ring 4,Audio/Wearable,2024-10-15,24,2025-04-01,0.0,0,0.0,0.0,384.44,1,synthetic,collapse
+P044,Oura Ring 4,Audio/Wearable,2024-10-15,25,2025-04-08,4.6,0,0.0,0.0,378.88,1,synthetic,collapse
+P045,PS5 Pro,Gaming,2024-11-07,0,2024-11-07,48.8,26,615.0,64.0,699.67,1,synthetic,ambiguous
+P045,PS5 Pro,Gaming,2024-11-07,1,2024-11-14,100.0,46,817.0,218.0,695.44,1,synthetic,ambiguous
+P045,PS5 Pro,Gaming,2024-11-07,2,2024-11-21,84.3,48,1479.0,324.0,688.4,1,synthetic,ambiguous
+P045,PS5 Pro,Gaming,2024-11-07,3,2024-11-28,74.2,38,986.0,416.0,675.11,1,synthetic,ambiguous
+P045,PS5 Pro,Gaming,2024-11-07,4,2024-12-05,60.0,22,266.0,217.0,660.45,1,synthetic,ambiguous
+P045,PS5 Pro,Gaming,2024-11-07,5,2024-12-12,56.2,25,925.0,99.0,663.51,1,synthetic,ambiguous
+P045,PS5 Pro,Gaming,2024-11-07,6,2024-12-19,55.1,28,665.0,160.0,667.31,1,synthetic,ambiguous
+P045,PS5 Pro,Gaming,2024-11-07,7,2024-12-26,49.4,19,581.0,186.0,658.45,1,synthetic,ambiguous
+P045,PS5 Pro,Gaming,2024-11-07,8,2025-01-02,46.5,20,162.0,145.0,657.22,0,synthetic,ambiguous
+P045,PS5 Pro,Gaming,2024-11-07,9,2025-01-09,43.0,18,561.0,67.0,645.34,1,synthetic,ambiguous
+P045,PS5 Pro,Gaming,2024-11-07,10,2025-01-16,46.5,15,276.0,89.0,645.33,1,synthetic,ambiguous
+P045,PS5 Pro,Gaming,2024-11-07,11,2025-01-23,33.0,15,394.0,123.0,644.28,1,synthetic,ambiguous
+P045,PS5 Pro,Gaming,2024-11-07,12,2025-01-30,27.7,4,76.0,46.0,643.39,1,synthetic,ambiguous
+P045,PS5 Pro,Gaming,2024-11-07,13,2025-02-06,28.5,7,314.0,60.0,651.6,1,synthetic,ambiguous
+P045,PS5 Pro,Gaming,2024-11-07,14,2025-02-13,28.7,13,215.0,28.0,623.54,1,synthetic,ambiguous
+P045,PS5 Pro,Gaming,2024-11-07,15,2025-02-20,26.7,13,543.0,117.0,641.02,1,synthetic,ambiguous
+P045,PS5 Pro,Gaming,2024-11-07,16,2025-02-27,30.2,8,335.0,36.0,639.48,1,synthetic,ambiguous
+P045,PS5 Pro,Gaming,2024-11-07,17,2025-03-06,34.2,6,141.0,63.0,628.99,1,synthetic,ambiguous
+P045,PS5 Pro,Gaming,2024-11-07,18,2025-03-13,34.8,11,211.0,64.0,644.18,1,synthetic,ambiguous
+P045,PS5 Pro,Gaming,2024-11-07,19,2025-03-20,30.2,4,88.0,15.0,633.08,1,synthetic,ambiguous
+P045,PS5 Pro,Gaming,2024-11-07,20,2025-03-27,36.4,14,624.0,93.0,635.56,1,synthetic,ambiguous
+P045,PS5 Pro,Gaming,2024-11-07,21,2025-04-03,26.1,10,308.0,45.0,652.17,1,synthetic,ambiguous
+P045,PS5 Pro,Gaming,2024-11-07,22,2025-04-10,20.8,6,168.0,26.0,645.51,0,synthetic,ambiguous
+P045,PS5 Pro,Gaming,2024-11-07,23,2025-04-17,31.3,8,74.0,61.0,641.98,1,synthetic,ambiguous
+P045,PS5 Pro,Gaming,2024-11-07,24,2025-04-24,19.6,5,196.0,48.0,640.33,1,synthetic,ambiguous
+P045,PS5 Pro,Gaming,2024-11-07,25,2025-05-01,23.8,3,33.0,31.0,636.02,1,synthetic,ambiguous
+P046,Mac Mini M4,Computing,2024-11-08,0,2024-11-08,100.0,155,2931.0,417.0,2006.06,0,synthetic,collapse
+P046,Mac Mini M4,Computing,2024-11-08,1,2024-11-15,71.8,69,629.0,292.0,1930.37,0,synthetic,collapse
+P046,Mac Mini M4,Computing,2024-11-08,2,2024-11-22,54.5,47,688.0,458.0,1876.67,1,synthetic,collapse
+P046,Mac Mini M4,Computing,2024-11-08,3,2024-11-29,39.7,22,259.0,68.0,1801.43,1,synthetic,collapse
+P046,Mac Mini M4,Computing,2024-11-08,4,2024-12-06,28.5,13,198.0,87.0,1738.09,1,synthetic,collapse
+P046,Mac Mini M4,Computing,2024-11-08,5,2024-12-13,20.7,9,336.0,72.0,1701.85,1,synthetic,collapse
+P046,Mac Mini M4,Computing,2024-11-08,6,2024-12-20,20.9,8,150.0,86.0,1649.17,1,synthetic,collapse
+P046,Mac Mini M4,Computing,2024-11-08,7,2024-12-27,19.1,10,360.0,104.0,1681.25,1,synthetic,collapse
+P046,Mac Mini M4,Computing,2024-11-08,8,2025-01-03,16.6,3,129.0,28.0,1614.97,1,synthetic,collapse
+P046,Mac Mini M4,Computing,2024-11-08,9,2025-01-10,6.0,0,0.0,0.0,1625.07,1,synthetic,collapse
+P046,Mac Mini M4,Computing,2024-11-08,10,2025-01-17,14.9,3,77.0,10.0,1595.75,1,synthetic,collapse
+P046,Mac Mini M4,Computing,2024-11-08,11,2025-01-24,7.5,3,107.0,26.0,1582.89,1,synthetic,collapse
+P046,Mac Mini M4,Computing,2024-11-08,12,2025-01-31,5.4,2,23.0,7.0,1563.8,1,synthetic,collapse
+P046,Mac Mini M4,Computing,2024-11-08,13,2025-02-07,7.4,2,47.0,15.0,1541.99,1,synthetic,collapse
+P046,Mac Mini M4,Computing,2024-11-08,14,2025-02-14,11.2,2,52.0,23.0,1530.94,1,synthetic,collapse
+P046,Mac Mini M4,Computing,2024-11-08,15,2025-02-21,9.9,0,0.0,0.0,1574.45,1,synthetic,collapse
+P046,Mac Mini M4,Computing,2024-11-08,16,2025-02-28,6.6,1,38.0,8.0,1539.14,1,synthetic,collapse
+P046,Mac Mini M4,Computing,2024-11-08,17,2025-03-07,7.3,1,39.0,8.0,1553.21,1,synthetic,collapse
+P046,Mac Mini M4,Computing,2024-11-08,18,2025-03-14,8.0,0,0.0,0.0,1554.14,1,synthetic,collapse
+P046,Mac Mini M4,Computing,2024-11-08,19,2025-03-21,5.1,0,0.0,0.0,1518.05,1,synthetic,collapse
+P046,Mac Mini M4,Computing,2024-11-08,20,2025-03-28,4.6,0,0.0,0.0,1530.68,1,synthetic,collapse
+P046,Mac Mini M4,Computing,2024-11-08,21,2025-04-04,9.0,1,40.0,3.0,1521.56,1,synthetic,collapse
+P046,Mac Mini M4,Computing,2024-11-08,22,2025-04-11,7.0,0,0.0,0.0,1497.8,1,synthetic,collapse
+P046,Mac Mini M4,Computing,2024-11-08,23,2025-04-18,1.9,0,0.0,0.0,1513.98,1,synthetic,collapse
+P046,Mac Mini M4,Computing,2024-11-08,24,2025-04-25,10.7,3,121.0,21.0,1526.76,1,synthetic,collapse
+P046,Mac Mini M4,Computing,2024-11-08,25,2025-05-02,5.4,0,0.0,0.0,1505.93,1,synthetic,collapse
+P047,Lucid Gravity,EV/Mobility,2024-12-05,0,2024-12-05,100.0,113,4086.0,642.0,202.62,1,synthetic,collapse
+P047,Lucid Gravity,EV/Mobility,2024-12-05,1,2024-12-12,74.2,90,795.0,446.0,192.15,0,synthetic,collapse
+P047,Lucid Gravity,EV/Mobility,2024-12-05,2,2024-12-19,49.6,32,379.0,122.0,188.77,1,synthetic,collapse
+P047,Lucid Gravity,EV/Mobility,2024-12-05,3,2024-12-26,33.1,25,349.0,189.0,182.97,1,synthetic,collapse
+P047,Lucid Gravity,EV/Mobility,2024-12-05,4,2025-01-02,30.6,21,410.0,235.0,178.11,1,synthetic,collapse
+P047,Lucid Gravity,EV/Mobility,2024-12-05,5,2025-01-09,17.8,8,183.0,87.0,176.13,1,synthetic,collapse
+P047,Lucid Gravity,EV/Mobility,2024-12-05,6,2025-01-16,16.0,10,256.0,55.0,175.59,1,synthetic,collapse
+P047,Lucid Gravity,EV/Mobility,2024-12-05,7,2025-01-23,5.7,1,17.0,4.0,168.19,1,synthetic,collapse
+P047,Lucid Gravity,EV/Mobility,2024-12-05,8,2025-01-30,7.3,1,10.0,9.0,165.64,1,synthetic,collapse
+P047,Lucid Gravity,EV/Mobility,2024-12-05,9,2025-02-06,11.9,1,33.0,9.0,163.93,1,synthetic,collapse
+P047,Lucid Gravity,EV/Mobility,2024-12-05,10,2025-02-13,3.9,0,0.0,0.0,166.58,1,synthetic,collapse
+P047,Lucid Gravity,EV/Mobility,2024-12-05,11,2025-02-20,9.2,3,113.0,17.0,165.71,1,synthetic,collapse
+P047,Lucid Gravity,EV/Mobility,2024-12-05,12,2025-02-27,0.0,0,0.0,0.0,161.51,1,synthetic,collapse
+P047,Lucid Gravity,EV/Mobility,2024-12-05,13,2025-03-06,2.8,0,0.0,0.0,157.63,1,synthetic,collapse
+P047,Lucid Gravity,EV/Mobility,2024-12-05,14,2025-03-13,4.1,1,30.0,8.0,159.81,1,synthetic,collapse
+P047,Lucid Gravity,EV/Mobility,2024-12-05,15,2025-03-20,11.5,1,32.0,5.0,161.63,1,synthetic,collapse
+P047,Lucid Gravity,EV/Mobility,2024-12-05,16,2025-03-27,0.0,0,0.0,0.0,159.99,1,synthetic,collapse
+P047,Lucid Gravity,EV/Mobility,2024-12-05,17,2025-04-03,7.0,1,42.0,8.0,160.08,1,synthetic,collapse
+P047,Lucid Gravity,EV/Mobility,2024-12-05,18,2025-04-10,8.5,4,174.0,45.0,158.42,1,synthetic,collapse
+P047,Lucid Gravity,EV/Mobility,2024-12-05,19,2025-04-17,1.3,0,0.0,0.0,161.09,1,synthetic,collapse
+P047,Lucid Gravity,EV/Mobility,2024-12-05,20,2025-04-24,2.7,1,30.0,6.0,159.58,1,synthetic,collapse
+P047,Lucid Gravity,EV/Mobility,2024-12-05,21,2025-05-01,4.7,0,0.0,0.0,159.86,1,synthetic,collapse
+P047,Lucid Gravity,EV/Mobility,2024-12-05,22,2025-05-08,0.0,0,0.0,0.0,158.89,1,synthetic,collapse
+P047,Lucid Gravity,EV/Mobility,2024-12-05,23,2025-05-15,2.3,0,0.0,0.0,159.46,1,synthetic,collapse
+P047,Lucid Gravity,EV/Mobility,2024-12-05,24,2025-05-22,4.25,1,32.0,10.0,159.22,1,synthetic,collapse
+P047,Lucid Gravity,EV/Mobility,2024-12-05,25,2025-05-29,6.2,2,69.0,13.0,156.5,1,synthetic,collapse
+P048,Sora,AI Software,2024-12-09,0,2024-12-09,100.0,105,4339.0,339.0,2012.62,0,synthetic,sustained
+P048,Sora,AI Software,2024-12-09,1,2024-12-16,95.8,100,2836.0,248.0,2013.62,0,synthetic,sustained
+P048,Sora,AI Software,2024-12-09,2,2024-12-23,88.7,115,3797.0,355.0,1947.87,0,synthetic,sustained
+P048,Sora,AI Software,2024-12-09,3,2024-12-30,92.7,102,1107.0,908.0,1965.02,1,synthetic,sustained
+P048,Sora,AI Software,2024-12-09,4,2025-01-06,93.8,133,5109.6700000000055,451.0,1989.61,0,synthetic,sustained
+P048,Sora,AI Software,2024-12-09,5,2025-01-13,79.1,101,1985.0,349.0,1934.11,0,synthetic,sustained
+P048,Sora,AI Software,2024-12-09,6,2025-01-20,87.4,121,2554.0,520.0,1972.55,0,synthetic,sustained
+P048,Sora,AI Software,2024-12-09,7,2025-01-27,71.1,64,1039.0,608.0,1962.93,1,synthetic,sustained
+P048,Sora,AI Software,2024-12-09,8,2025-02-03,77.8,78,868.0,312.0,1948.74,1,synthetic,sustained
+P048,Sora,AI Software,2024-12-09,9,2025-02-10,85.0,98,3648.0,230.0,1931.79,1,synthetic,sustained
+P048,Sora,AI Software,2024-12-09,10,2025-02-17,74.6,73,1233.0,807.0,1914.09,0,synthetic,sustained
+P048,Sora,AI Software,2024-12-09,11,2025-02-24,74.8,89,1642.0,957.0,1976.22,1,synthetic,sustained
+P048,Sora,AI Software,2024-12-09,12,2025-03-03,76.1,95,1399.0,365.0,1947.97,1,synthetic,sustained
+P048,Sora,AI Software,2024-12-09,13,2025-03-10,64.9,72,3173.0,335.0,1939.79,1,synthetic,sustained
+P048,Sora,AI Software,2024-12-09,14,2025-03-17,70.9,82,3025.0,318.0,1921.15,0,synthetic,sustained
+P048,Sora,AI Software,2024-12-09,15,2025-03-24,69.8,66,2798.0,606.0,1930.61,0,synthetic,sustained
+P048,Sora,AI Software,2024-12-09,16,2025-03-31,75.9,94,3749.0,423.0,1932.72,0,synthetic,sustained
+P048,Sora,AI Software,2024-12-09,17,2025-04-07,62.6,72,2990.0,814.0,1937.48,1,synthetic,sustained
+P048,Sora,AI Software,2024-12-09,18,2025-04-14,65.2,82,2109.0,842.0,1944.64,1,synthetic,sustained
+P048,Sora,AI Software,2024-12-09,19,2025-04-21,62.2,76,1087.0,599.0,1909.08,1,synthetic,sustained
+P048,Sora,AI Software,2024-12-09,20,2025-04-28,61.0,65,1306.0,135.0,1892.86,1,synthetic,sustained
+P048,Sora,AI Software,2024-12-09,21,2025-05-05,69.0,72,1355.0,780.0,1928.39,1,synthetic,sustained
+P048,Sora,AI Software,2024-12-09,22,2025-05-12,64.0,57,1968.0,528.0,1885.77,1,synthetic,sustained
+P048,Sora,AI Software,2024-12-09,23,2025-05-19,61.1,70,626.0,691.0,1918.44,0,synthetic,sustained
+P048,Sora,AI Software,2024-12-09,24,2025-05-26,60.7,57,755.0,154.0,1913.96,1,synthetic,sustained
+P048,Sora,AI Software,2024-12-09,25,2025-06-02,60.0,64,2129.0,581.0,1936.93,0,synthetic,sustained
+P049,DeepSeek R1,AI Software,2025-01-20,0,2025-01-20,99.1,67,1721.0,339.0,702.92,0,synthetic,collapse
+P049,DeepSeek R1,AI Software,2025-01-20,1,2025-01-27,78.0,51,1365.0,422.0,673.93,0,synthetic,collapse
+P049,DeepSeek R1,AI Software,2025-01-20,2,2025-02-03,57.3,20,321.0,224.0,651.2,1,synthetic,collapse
+P049,DeepSeek R1,AI Software,2025-01-20,3,2025-02-10,45.75,14,429.0,52.0,639.26,1,synthetic,collapse
+P049,DeepSeek R1,AI Software,2025-01-20,4,2025-02-17,34.2,12,176.0,120.0,637.07,1,synthetic,collapse
+P049,DeepSeek R1,AI Software,2025-01-20,5,2025-02-24,28.2,8,160.0,66.0,621.12,1,synthetic,collapse
+P049,DeepSeek R1,AI Software,2025-01-20,6,2025-03-03,20.8,4,60.0,40.0,620.85,1,synthetic,collapse
+P049,DeepSeek R1,AI Software,2025-01-20,7,2025-03-10,12.2,0,0.0,0.0,629.38,1,synthetic,collapse
+P049,DeepSeek R1,AI Software,2025-01-20,8,2025-03-17,10.7,0,0.0,0.0,601.58,1,synthetic,collapse
+P049,DeepSeek R1,AI Software,2025-01-20,9,2025-03-24,8.5,0,0.0,0.0,605.18,1,synthetic,collapse
+P049,DeepSeek R1,AI Software,2025-01-20,10,2025-03-31,5.2,0,0.0,0.0,618.95,1,synthetic,collapse
+P049,DeepSeek R1,AI Software,2025-01-20,11,2025-04-07,8.5,1,23.0,2.0,603.33,1,synthetic,collapse
+P049,DeepSeek R1,AI Software,2025-01-20,12,2025-04-14,8.0,0,0.0,0.0,595.15,1,synthetic,collapse
+P049,DeepSeek R1,AI Software,2025-01-20,13,2025-04-21,4.85,0,0.0,0.0,594.5,1,synthetic,collapse
+P049,DeepSeek R1,AI Software,2025-01-20,14,2025-04-28,1.7,0,0.0,0.0,596.86,1,synthetic,collapse
+P049,DeepSeek R1,AI Software,2025-01-20,15,2025-05-05,2.4,0,0.0,0.0,604.34,1,synthetic,collapse
+P049,DeepSeek R1,AI Software,2025-01-20,16,2025-05-12,10.6,0,0.0,0.0,587.25,0,synthetic,collapse
+P049,DeepSeek R1,AI Software,2025-01-20,17,2025-05-19,7.35,0,0.0,0.0,584.6,1,synthetic,collapse
+P049,DeepSeek R1,AI Software,2025-01-20,18,2025-05-26,4.1,0,0.0,0.0,579.33,1,synthetic,collapse
+P049,DeepSeek R1,AI Software,2025-01-20,19,2025-06-02,3.2,0,0.0,0.0,589.07,1,synthetic,collapse
+P049,DeepSeek R1,AI Software,2025-01-20,20,2025-06-09,8.3,2,84.0,14.0,577.81,1,synthetic,collapse
+P049,DeepSeek R1,AI Software,2025-01-20,21,2025-06-16,8.4,1,15.0,5.0,583.94,1,synthetic,collapse
+P049,DeepSeek R1,AI Software,2025-01-20,22,2025-06-23,8.2,0,0.0,0.0,580.38,1,synthetic,collapse
+P049,DeepSeek R1,AI Software,2025-01-20,23,2025-06-30,3.8,0,0.0,0.0,593.98,1,synthetic,collapse
+P049,DeepSeek R1,AI Software,2025-01-20,24,2025-07-07,0.1,0,0.0,0.0,582.54,1,synthetic,collapse
+P049,DeepSeek R1,AI Software,2025-01-20,25,2025-07-14,11.3,0,0.0,0.0,588.66,1,synthetic,collapse
+P050,NVIDIA RTX 5090,Computing,2025-01-30,0,2025-01-30,100.0,105,4137.0,1025.0,199.89,0,synthetic,sustained
+P050,NVIDIA RTX 5090,Computing,2025-01-30,1,2025-02-06,99.3,114,3206.0,475.0,199.58,1,synthetic,sustained
+P050,NVIDIA RTX 5090,Computing,2025-01-30,2,2025-02-13,100.0,95,2311.0,297.0,196.5,1,synthetic,sustained
+P050,NVIDIA RTX 5090,Computing,2025-01-30,3,2025-02-20,89.8,94,1410.0,384.0,197.71,0,synthetic,sustained
+P050,NVIDIA RTX 5090,Computing,2025-01-30,4,2025-02-27,84.3,76,1039.0,473.0,199.69,1,synthetic,sustained
+P050,NVIDIA RTX 5090,Computing,2025-01-30,5,2025-03-06,80.1,62,1486.0,270.0,197.82,1,synthetic,sustained
+P050,NVIDIA RTX 5090,Computing,2025-01-30,6,2025-03-13,91.1,67,1666.0,737.0,197.56,1,synthetic,sustained
+P050,NVIDIA RTX 5090,Computing,2025-01-30,7,2025-03-20,89.1,68,2389.0,592.0,202.71,1,synthetic,sustained
+P050,NVIDIA RTX 5090,Computing,2025-01-30,8,2025-03-27,76.6,69,1680.0,425.0,195.87,1,synthetic,sustained
+P050,NVIDIA RTX 5090,Computing,2025-01-30,9,2025-04-03,76.15,68,2036.0,322.0,200.66,1,synthetic,sustained
+P050,NVIDIA RTX 5090,Computing,2025-01-30,10,2025-04-10,75.7,42,1629.0,243.0,195.31,1,synthetic,sustained
+P050,NVIDIA RTX 5090,Computing,2025-01-30,11,2025-04-17,80.5,64,2864.0,432.0,199.57,1,synthetic,sustained
+P050,NVIDIA RTX 5090,Computing,2025-01-30,12,2025-04-24,69.1,50,996.0,456.0,199.68,1,synthetic,sustained
+P050,NVIDIA RTX 5090,Computing,2025-01-30,13,2025-05-01,65.2,32,1323.0,92.0,196.76,1,synthetic,sustained
+P050,NVIDIA RTX 5090,Computing,2025-01-30,14,2025-05-08,80.6,44,1664.0,461.0,195.06,1,synthetic,sustained
+P050,NVIDIA RTX 5090,Computing,2025-01-30,15,2025-05-15,72.2,48,504.0,157.0,193.26,1,synthetic,sustained
+P050,NVIDIA RTX 5090,Computing,2025-01-30,16,2025-05-22,71.8,54,1099.0,249.0,196.46,1,synthetic,sustained
+P050,NVIDIA RTX 5090,Computing,2025-01-30,17,2025-05-29,68.3,53,853.0,632.0,199.16,1,synthetic,sustained
+P050,NVIDIA RTX 5090,Computing,2025-01-30,18,2025-06-05,70.2,44,1433.0,171.0,195.35,1,synthetic,sustained
+P050,NVIDIA RTX 5090,Computing,2025-01-30,19,2025-06-12,61.5,37,1056.0,111.0,198.13,1,synthetic,sustained
+P050,NVIDIA RTX 5090,Computing,2025-01-30,20,2025-06-19,63.5,42,1104.0,352.0,194.39,0,synthetic,sustained
+P050,NVIDIA RTX 5090,Computing,2025-01-30,21,2025-06-26,66.7,38,1377.0,225.0,197.33,1,synthetic,sustained
+P050,NVIDIA RTX 5090,Computing,2025-01-30,22,2025-07-03,56.6,28,569.0,81.0,195.16,1,synthetic,sustained
+P050,NVIDIA RTX 5090,Computing,2025-01-30,23,2025-07-10,64.0,41,908.0,83.0,197.69,1,synthetic,sustained
+P050,NVIDIA RTX 5090,Computing,2025-01-30,24,2025-07-17,63.2,43,1721.0,120.0,196.69,1,synthetic,sustained
+P050,NVIDIA RTX 5090,Computing,2025-01-30,25,2025-07-24,63.0,43,1890.0,310.0,195.05,1,synthetic,sustained
+P051,Samsung Galaxy S25,Smartphone,2025-02-07,0,2025-02-07,28.5,8,208.0,78.0,1005.79,0,synthetic,sustained
+P051,Samsung Galaxy S25,Smartphone,2025-02-07,1,2025-02-14,53.3,21,432.0,179.0,985.68,0,synthetic,sustained
+P051,Samsung Galaxy S25,Smartphone,2025-02-07,2,2025-02-21,100.0,29,410.0,259.0,983.62,0,synthetic,sustained
+P051,Samsung Galaxy S25,Smartphone,2025-02-07,3,2025-02-28,95.5,31,580.0,150.0,977.59,1,synthetic,sustained
+P051,Samsung Galaxy S25,Smartphone,2025-02-07,4,2025-03-07,99.0,29,1051.0,194.0,962.06,1,synthetic,sustained
+P051,Samsung Galaxy S25,Smartphone,2025-02-07,5,2025-03-14,91.7,25,578.0,95.0,973.72,1,synthetic,sustained
+P051,Samsung Galaxy S25,Smartphone,2025-02-07,6,2025-03-21,94.6,26,884.0,116.0,946.09,1,synthetic,sustained
+P051,Samsung Galaxy S25,Smartphone,2025-02-07,7,2025-03-28,89.4,34,1203.0,98.0,982.57,1,synthetic,sustained
+P051,Samsung Galaxy S25,Smartphone,2025-02-07,8,2025-04-04,84.9,27,889.0,88.0,969.07,1,synthetic,sustained
+P051,Samsung Galaxy S25,Smartphone,2025-02-07,9,2025-04-11,86.6,28,921.0,114.0,965.28,1,synthetic,sustained
+P051,Samsung Galaxy S25,Smartphone,2025-02-07,10,2025-04-18,84.9,38,1162.0,296.0,936.34,1,synthetic,sustained
+P051,Samsung Galaxy S25,Smartphone,2025-02-07,11,2025-04-25,82.0,21,570.0,134.0,945.79,0,synthetic,sustained
+P051,Samsung Galaxy S25,Smartphone,2025-02-07,12,2025-05-02,69.4,19,291.0,88.0,969.61,1,synthetic,sustained
+P051,Samsung Galaxy S25,Smartphone,2025-02-07,13,2025-05-09,73.2,13,509.0,137.0,1000.2,0,synthetic,sustained
+P051,Samsung Galaxy S25,Smartphone,2025-02-07,14,2025-05-16,81.3,33,1441.0,239.0,965.57,1,synthetic,sustained
+P051,Samsung Galaxy S25,Smartphone,2025-02-07,15,2025-05-23,69.5,22,555.0,247.0,963.08,0,synthetic,sustained
+P051,Samsung Galaxy S25,Smartphone,2025-02-07,16,2025-05-30,76.9,21,893.0,175.0,956.67,1,synthetic,sustained
+P051,Samsung Galaxy S25,Smartphone,2025-02-07,17,2025-06-06,75.2,20,898.0,43.0,940.54,1,synthetic,sustained
+P051,Samsung Galaxy S25,Smartphone,2025-02-07,18,2025-06-13,68.5,16,415.0,178.0,961.15,0,synthetic,sustained
+P051,Samsung Galaxy S25,Smartphone,2025-02-07,19,2025-06-20,62.4,19,661.0,200.0,936.93,0,synthetic,sustained
+P051,Samsung Galaxy S25,Smartphone,2025-02-07,20,2025-06-27,67.3,21,668.0,175.0,935.42,1,synthetic,sustained
+P051,Samsung Galaxy S25,Smartphone,2025-02-07,21,2025-07-04,77.1,24,402.0,176.0,934.47,1,synthetic,sustained
+P051,Samsung Galaxy S25,Smartphone,2025-02-07,22,2025-07-11,64.6,22,214.0,143.0,959.89,1,synthetic,sustained
+P051,Samsung Galaxy S25,Smartphone,2025-02-07,23,2025-07-18,64.1,21,520.0,143.0,947.97,1,synthetic,sustained
+P051,Samsung Galaxy S25,Smartphone,2025-02-07,24,2025-07-25,62.7,20,742.0,193.0,949.63,0,synthetic,sustained
+P051,Samsung Galaxy S25,Smartphone,2025-02-07,25,2025-08-01,70.9,23,460.0,164.0,948.2,1,synthetic,sustained
+P052,Digg Relaunch,Consumer App,2025-03-05,0,2025-03-05,49.2,62,1930.0,687.0,1288.83,0,synthetic,sustained
+P052,Digg Relaunch,Consumer App,2025-03-05,1,2025-03-12,96.2,123,4488.0,724.0,1281.14,1,synthetic,sustained
+P052,Digg Relaunch,Consumer App,2025-03-05,2,2025-03-19,92.7,115,1572.0,815.0,1278.41,1,synthetic,sustained
+P052,Digg Relaunch,Consumer App,2025-03-05,3,2025-03-26,90.0,107,2116.0,338.0,1265.49,1,synthetic,sustained
+P052,Digg Relaunch,Consumer App,2025-03-05,4,2025-04-02,96.2,121,4853.0,1134.0,1260.78,0,synthetic,sustained
+P052,Digg Relaunch,Consumer App,2025-03-05,5,2025-04-09,79.2,113,3017.0,1017.0,1228.24,1,synthetic,sustained
+P052,Digg Relaunch,Consumer App,2025-03-05,6,2025-04-16,80.0,90,2491.0,894.0,1255.68,1,synthetic,sustained
+P052,Digg Relaunch,Consumer App,2025-03-05,7,2025-04-23,79.3,87,3021.0,456.0,1241.27,1,synthetic,sustained
+P052,Digg Relaunch,Consumer App,2025-03-05,8,2025-04-30,75.2,85,2497.0,540.0,1275.36,1,synthetic,sustained
+P052,Digg Relaunch,Consumer App,2025-03-05,9,2025-05-07,78.5,98,1036.0,360.0,1228.56,0,synthetic,sustained
+P052,Digg Relaunch,Consumer App,2025-03-05,10,2025-05-14,71.0,77,2906.0,896.0,1236.45,1,synthetic,sustained
+P052,Digg Relaunch,Consumer App,2025-03-05,11,2025-05-21,69.4,78,3287.0,223.0,1271.22,1,synthetic,sustained
+P052,Digg Relaunch,Consumer App,2025-03-05,12,2025-05-28,72.0,93,927.0,789.0,1230.5,1,synthetic,sustained
+P052,Digg Relaunch,Consumer App,2025-03-05,13,2025-06-04,74.4,83,1036.0,751.0,1225.11,1,synthetic,sustained
+P052,Digg Relaunch,Consumer App,2025-03-05,14,2025-06-11,69.2,85,2887.0,304.0,1210.32,1,synthetic,sustained
+P052,Digg Relaunch,Consumer App,2025-03-05,15,2025-06-18,64.0,69,2095.0,390.0,1246.2,1,synthetic,sustained
+P052,Digg Relaunch,Consumer App,2025-03-05,16,2025-06-25,63.3,66,1462.0,160.0,1205.86,1,synthetic,sustained
+P052,Digg Relaunch,Consumer App,2025-03-05,17,2025-07-02,62.6,84,2347.0,635.0,1228.39,1,synthetic,sustained
+P052,Digg Relaunch,Consumer App,2025-03-05,18,2025-07-09,62.1,69,2347.0,824.0,1214.56,1,synthetic,sustained
+P052,Digg Relaunch,Consumer App,2025-03-05,19,2025-07-16,57.3,48,1279.0,302.0,1218.2,0,synthetic,sustained
+P052,Digg Relaunch,Consumer App,2025-03-05,20,2025-07-23,63.7,85,1120.0,1011.0,1199.69,1,synthetic,sustained
+P052,Digg Relaunch,Consumer App,2025-03-05,21,2025-07-30,60.0,60,678.0,195.0,1239.85,1,synthetic,sustained
+P052,Digg Relaunch,Consumer App,2025-03-05,22,2025-08-06,58.4,64,1551.0,379.0,1215.81,0,synthetic,sustained
+P052,Digg Relaunch,Consumer App,2025-03-05,23,2025-08-13,52.9,62,2613.0,683.0,1201.84,1,synthetic,sustained
+P052,Digg Relaunch,Consumer App,2025-03-05,24,2025-08-20,51.2,64,1832.0,689.0,1237.74,1,synthetic,sustained
+P052,Digg Relaunch,Consumer App,2025-03-05,25,2025-08-27,49.5,55,1168.0,287.0,1211.86,1,synthetic,sustained
+P053,MacBook Air M4,Computing,2025-03-12,0,2025-03-12,56.0,15,380.0,145.0,491.7,0,synthetic,collapse
+P053,MacBook Air M4,Computing,2025-03-12,1,2025-03-19,100.0,44,1098.0,501.0,473.06,1,synthetic,collapse
+P053,MacBook Air M4,Computing,2025-03-12,2,2025-03-26,88.6,40,619.0,215.0,461.86,1,synthetic,collapse
+P053,MacBook Air M4,Computing,2025-03-12,3,2025-04-02,63.0,19,659.0,169.0,444.91,1,synthetic,collapse
+P053,MacBook Air M4,Computing,2025-03-12,4,2025-04-09,50.1,11,129.0,100.0,430.07,1,synthetic,collapse
+P053,MacBook Air M4,Computing,2025-03-12,5,2025-04-16,46.4,7,187.0,29.0,419.78,1,synthetic,collapse
+P053,MacBook Air M4,Computing,2025-03-12,6,2025-04-23,35.45,9,128.0,74.0,396.91,1,synthetic,collapse
+P053,MacBook Air M4,Computing,2025-03-12,7,2025-04-30,24.5,0,0.0,0.0,406.91,1,synthetic,collapse
+P053,MacBook Air M4,Computing,2025-03-12,8,2025-05-07,21.9,5,66.0,48.0,391.83,1,synthetic,collapse
+P053,MacBook Air M4,Computing,2025-03-12,9,2025-05-14,17.0,0,0.0,0.0,393.15,1,synthetic,collapse
+P053,MacBook Air M4,Computing,2025-03-12,10,2025-05-21,16.2,3,43.0,7.0,373.48,1,synthetic,collapse
+P053,MacBook Air M4,Computing,2025-03-12,11,2025-05-28,17.8,3,54.0,12.0,380.2,1,synthetic,collapse
+P053,MacBook Air M4,Computing,2025-03-12,12,2025-06-04,8.2,0,0.0,0.0,373.33,1,synthetic,collapse
+P053,MacBook Air M4,Computing,2025-03-12,13,2025-06-11,14.2,3,105.0,10.0,375.79,1,synthetic,collapse
+P053,MacBook Air M4,Computing,2025-03-12,14,2025-06-18,9.1,1,24.0,6.0,372.43,1,synthetic,collapse
+P053,MacBook Air M4,Computing,2025-03-12,15,2025-06-25,17.0,1,42.0,10.0,370.79,1,synthetic,collapse
+P053,MacBook Air M4,Computing,2025-03-12,16,2025-07-02,8.2,0,0.0,0.0,362.96,1,synthetic,collapse
+P053,MacBook Air M4,Computing,2025-03-12,17,2025-07-09,5.9,0,0.0,0.0,366.09,1,synthetic,collapse
+P053,MacBook Air M4,Computing,2025-03-12,18,2025-07-16,8.1,0,0.0,0.0,364.48,1,synthetic,collapse
+P053,MacBook Air M4,Computing,2025-03-12,19,2025-07-23,4.0,0,0.0,0.0,366.54,1,synthetic,collapse
+P053,MacBook Air M4,Computing,2025-03-12,20,2025-07-30,0.0,0,0.0,0.0,367.94,1,synthetic,collapse
+P053,MacBook Air M4,Computing,2025-03-12,21,2025-08-06,3.9,0,0.0,0.0,363.65,1,synthetic,collapse
+P053,MacBook Air M4,Computing,2025-03-12,22,2025-08-13,3.6,0,0.0,0.0,356.92,1,synthetic,collapse
+P053,MacBook Air M4,Computing,2025-03-12,23,2025-08-20,0.0,0,0.0,0.0,362.5,1,synthetic,collapse
+P053,MacBook Air M4,Computing,2025-03-12,24,2025-08-27,4.1,0,0.0,0.0,373.0,1,synthetic,collapse
+P053,MacBook Air M4,Computing,2025-03-12,25,2025-09-03,0.0,0,0.0,0.0,368.5,1,synthetic,collapse
+P054,Nintendo Switch 2,Gaming,2025-06-05,0,2025-06-05,34.3,27,447.0,233.0,1005.4,0,synthetic,collapse
+P054,Nintendo Switch 2,Gaming,2025-06-05,1,2025-06-12,72.5,82,1317.0,289.0,980.05,1,synthetic,collapse
+P054,Nintendo Switch 2,Gaming,2025-06-05,2,2025-06-19,98.1,100,3523.0,913.0,963.98,1,synthetic,collapse
+P054,Nintendo Switch 2,Gaming,2025-06-05,3,2025-06-26,78.0,63,691.0,133.0,948.4,1,synthetic,collapse
+P054,Nintendo Switch 2,Gaming,2025-06-05,4,2025-07-03,56.4,40,679.0,342.0,929.41,1,synthetic,collapse
+P054,Nintendo Switch 2,Gaming,2025-06-05,5,2025-07-10,39.4,17,693.0,61.0,933.45,1,synthetic,collapse
+P054,Nintendo Switch 2,Gaming,2025-06-05,6,2025-07-17,34.9,11,322.0,41.0,918.7,1,synthetic,collapse
+P054,Nintendo Switch 2,Gaming,2025-06-05,7,2025-07-24,31.6,14,136.0,106.0,905.42,1,synthetic,collapse
+P054,Nintendo Switch 2,Gaming,2025-06-05,8,2025-07-31,24.2,10,340.0,57.0,920.98,1,synthetic,collapse
+P054,Nintendo Switch 2,Gaming,2025-06-05,9,2025-08-07,20.4,3,80.0,20.0,906.42,1,synthetic,collapse
+P054,Nintendo Switch 2,Gaming,2025-06-05,10,2025-08-14,16.4,4,158.0,20.0,899.07,1,synthetic,collapse
+P054,Nintendo Switch 2,Gaming,2025-06-05,11,2025-08-21,14.7,2,66.0,23.0,912.81,1,synthetic,collapse
+P054,Nintendo Switch 2,Gaming,2025-06-05,12,2025-08-28,13.3,1,8.0,4.0,875.97,1,synthetic,collapse
+P054,Nintendo Switch 2,Gaming,2025-06-05,13,2025-09-04,8.7,2,31.0,14.0,907.14,1,synthetic,collapse
+P054,Nintendo Switch 2,Gaming,2025-06-05,14,2025-09-11,9.1,2,35.0,21.0,882.22,1,synthetic,collapse
+P054,Nintendo Switch 2,Gaming,2025-06-05,15,2025-09-18,14.9,2,67.0,17.0,892.35,1,synthetic,collapse
+P054,Nintendo Switch 2,Gaming,2025-06-05,16,2025-09-25,7.9,2,53.0,10.0,882.52,1,synthetic,collapse
+P054,Nintendo Switch 2,Gaming,2025-06-05,17,2025-10-02,7.0,0,0.0,0.0,877.88,1,synthetic,collapse
+P054,Nintendo Switch 2,Gaming,2025-06-05,18,2025-10-09,6.9,0,0.0,0.0,900.8,1,synthetic,collapse
+P054,Nintendo Switch 2,Gaming,2025-06-05,19,2025-10-16,5.4,1,20.0,7.0,905.8,1,synthetic,collapse
+P054,Nintendo Switch 2,Gaming,2025-06-05,20,2025-10-23,4.3,0,0.0,0.0,883.08,1,synthetic,collapse
+P054,Nintendo Switch 2,Gaming,2025-06-05,21,2025-10-30,6.8,0,0.0,0.0,888.47,1,synthetic,collapse
+P054,Nintendo Switch 2,Gaming,2025-06-05,22,2025-11-06,3.8,0,0.0,0.0,885.07,1,synthetic,collapse
+P054,Nintendo Switch 2,Gaming,2025-06-05,23,2025-11-13,5.1,1,28.0,3.0,902.46,1,synthetic,collapse
+P054,Nintendo Switch 2,Gaming,2025-06-05,24,2025-11-20,2.5,1,42.0,2.0,861.38,1,synthetic,collapse
+P054,Nintendo Switch 2,Gaming,2025-06-05,25,2025-11-27,6.0,0,0.0,0.0,887.54,1,synthetic,collapse

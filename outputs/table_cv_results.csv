@@ -1,0 +1,5 @@
+model,accuracy,accuracy_std,precision,precision_std,recall,recall_std,f1,f1_std,roc_auc,roc_auc_std
+Baseline (majority),0.6,0.05,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0
+Logistic Regression,0.905,0.0886,0.8867,0.1412,0.8867,0.1525,0.877,0.1182,0.96,0.0706
+Random Forest,0.94,0.0718,0.9467,0.1077,0.91,0.1451,0.9181,0.0991,0.9947,0.0181
+Gradient Boosting,0.925,0.0935,0.9567,0.1003,0.8633,0.2172,0.8865,0.1551,0.9867,0.0422
